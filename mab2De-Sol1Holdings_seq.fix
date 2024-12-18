@@ -1,6 +1,18 @@
+do once("maps")
+	put_filemap("map/identifier.tsv","hbzId2AlmaMmsId", sep_char:"\t",key_column:"1",value_column:"0",expected_columns:"-1")
+	put_filemap("map/identifier.tsv","zdbId2AlmaMmsId", sep_char:"\t",key_column:"2",value_column:"0",expected_columns:"-1")
+end
+
+copy_field("012.a","almaMmsId")
+if any_match("almaMmsId","^[A-Z]{2}.*")
+	lookup("almaMmsId","hbzId2AlmaMmsId")
+else
+	lookup("almaMmsId","zdbId2AlmaMmsId")
+end
+
 set_array("hasItem[]")
 set_hash("hasItem[].$append")
-paste("hasItem[].$last.id","~http://lobid.org/items/", "~ALMAMMSIDMUSSGEMAPPTWERDEN", "~:","~ITEMMMSIDMUSSERSETZTWERDEN","~#!",join_char:"")
+paste("hasItem[].$last.id","~http://lobid.org/items/", "almaMmsId", "~:","~ITEMMMSIDMUSSERSETZTWERDEN","~#!",join_char:"")
 copy_field("100.a","hasItem[].$last.callNumber")
 set_array("hasItem[].$last.inCollection[]")
 add_field("hasItem[].$last.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
