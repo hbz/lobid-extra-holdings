@@ -1,0 +1,15 @@
+set_array("hasItem[]")
+set_hash("hasItem[].$append")
+paste("hasItem[].$last.id","~http://lobid.org/items/", "~ALMAMMSIDMUSSGEMAPPTWERDEN", "~:","~ITEMMMSIDMUSSERSETZTWERDEN","~#!",join_char:"")
+copy_field("100.a","hasItem[].$last.callNumber")
+set_array("hasItem[].$last.inCollection[]")
+add_field("hasItem[].$last.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
+add_field("hasItem[].$last.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
+add_field("hasItem[].$last.heldBy.isil", "DE-Sol1")
+add_field("hasItem[].$last.heldBy.id", "http://lobid.org/organisations/DE-Sol1#!")
+add_field("hasItem[].$last.label", "Stadtarchiv Solingen, Bibliothek")
+set_array("hasItem[].$last.type[]")
+add_field("hasItem[].$last.type[].$append", "Item")
+add_field("hasItem[].$last.type[].$append", "PhysicalObject") # Wie kann man andere Publikationstypen mappen?
+
+retain("hasItem[]")
