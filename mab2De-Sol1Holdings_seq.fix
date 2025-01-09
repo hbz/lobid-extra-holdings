@@ -3,6 +3,8 @@ do once("maps")
 	put_filemap("map/identifier.tsv","zdbId2AlmaMmsId", sep_char:"\t",key_column:"2",value_column:"0",expected_columns:"-1")
 end
 
+# Lookup MMS Ids for the old HT Numbers or ZDB IDs.
+
 copy_field("012.a","almaMmsId")
 if any_match("almaMmsId","^[A-Z]{2}.*")
 	lookup("almaMmsId","hbzId2AlmaMmsId")
@@ -10,18 +12,25 @@ else
 	lookup("almaMmsId","zdbId2AlmaMmsId")
 end
 
-set_array("hasItem[]")
-set_hash("hasItem[].$append")
-paste("hasItem[].$last.id","~http://lobid.org/items/", "almaMmsId", "~:","~ITEMMMSIDMUSSERSETZTWERDEN","~#!",join_char:"")
-copy_field("100.a","hasItem[].$last.callNumber")
-set_array("hasItem[].$last.inCollection[]")
-add_field("hasItem[].$last.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
-add_field("hasItem[].$last.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
-add_field("hasItem[].$last.heldBy.isil", "DE-Sol1")
-add_field("hasItem[].$last.heldBy.id", "http://lobid.org/organisations/DE-Sol1#!")
-add_field("hasItem[].$last.label", "Stadtarchiv Solingen, Bibliothek")
-set_array("hasItem[].$last.type[]")
-add_field("hasItem[].$last.type[].$append", "Item")
-add_field("hasItem[].$last.type[].$append", "PhysicalObject") # Wie kann man andere Publikationstypen mappen?
+# Only create holdings for Records with ME as Format. The other are the local records.
+# Each ME Record is one holding. They need to be aggregated.
+# Holdings are created not as arrays but as objects,
+# so that they can be combined into in hasItem in a later stage of the MF Workflow.do
 
-retain("hasItem[]")
+
+if any_equal("FMT","ME")
+	set_hash("holding")
+	paste("holding.id","~http://lobid.org/items/", "almaMmsId", "~:","~ITEMMMSIDMUSSERSETZTWERDEN","~#!",join_char:"")
+	copy_field("100.a","holding.callNumber")
+	set_array("holding.inCollection[]")
+	add_field("holding.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
+	add_field("holding.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
+	add_field("holding.heldBy.isil", "DE-Sol1")
+	add_field("holding.heldBy.id", "http://lobid.org/organisations/DE-Sol1#!")
+	add_field("holding.label", "Stadtarchiv Solingen, Bibliothek")
+	set_array("holding.type[]")
+	add_field("holding.type[].$append", "Item")
+	add_field("holding.type[].$append", "PhysicalObject") # Wie kann man andere Publikationstypen mappen?
+end
+
+retain("almaMmsId", "holding")
