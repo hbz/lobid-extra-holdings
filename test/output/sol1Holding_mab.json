@@ -1,956 +1,561 @@
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225768"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000077"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037868936-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225768"
-"012": "BT000000077"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225774"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000078"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037868945-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225774"
-"012": "BT000000078"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225780"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000079"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037868958-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225780"
-"012": "BT000000079"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225786"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000090"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037868969-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225786"
-"012": "BT000000090"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225789"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000093"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037868972-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225789"
-"012": "BT000000093"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225791"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000097"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037868975-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225791"
-"012": "BT000000097"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225795"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000098"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037868980-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225795"
-"012": "BT000000098"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225802"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000099"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037868987-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225802"
-"012": "BT000000099"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225807"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000100"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037868996-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225807"
-"012": "BT000000100"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225958"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000101"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869300-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225958"
-"012": "BT000000101"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225814"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000102"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869014-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225814"
-"012": "BT000000102"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225838"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000103"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869063-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225838"
-"012": "BT000000103"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225742"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000104"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037868885-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225742"
-"012": "BT000000104"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225842"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000106"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869070-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225842"
-"012": "BT000000106"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225846"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000107"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869074-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225846"
-"012": "BT000000107"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225848"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000108"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869077-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225848"
-"012": "BT000000108"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225850"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000109"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869083-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225850"
-"012": "BT000000109"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225856"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000110"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869090-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225856"
-"012": "BT000000110"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225860"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000117"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869099-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225860"
-"012": "BT000000117"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225862"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000121"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869102-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225862"
-"012": "BT000000121"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225865"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000124"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869105-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225865"
-"012": "BT000000124"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225873"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000125"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869131-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225873"
-"012": "BT000000125"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225880"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000128"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869138-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225880"
-"012": "BT000000128"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL007225885"
-"002a": "20081110"
-"004": "20241128"
-"012": "BT000000137"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00202nM2.01200024      e"
-type: "e"
-"001": "HBZ60037869151-000010"
-"002a": "20081110"
-"003": "20081110"
-"004": "20241128"
-"010": "HL007225885"
-"012": "BT000000137"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "GA 644"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL006738806"
-"002a": "20080320"
-"004": "20241128"
-"012": "BT000000152"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00203nM2.01200024      e"
-type: "e"
-"001": "HBZ60036393041-000010"
-"002a": "20080320"
-"003": "20080320"
-"004": "20241128"
-"010": "HL006738806"
-"012": "BT000000152"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "KA 7669"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL006738808"
-"002a": "20080320"
-"004": "20241128"
-"012": "BT000000153"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00203nM2.01200024      e"
-type: "e"
-"001": "HBZ60036393044-000010"
-"002a": "20080320"
-"003": "20080320"
-"004": "20241128"
-"010": "HL006738808"
-"012": "BT000000153"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "KA 7669"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL006738813"
-"002a": "20080320"
-"004": "20241128"
-"012": "BT000000154"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00203nM2.01200024      e"
-type: "e"
-"001": "HBZ60036393049-000010"
-"002a": "20080320"
-"003": "20080320"
-"004": "20241128"
-"010": "HL006738813"
-"012": "BT000000154"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "KA 7669"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL006738816"
-"002a": "20080320"
-"004": "20241128"
-"012": "BT000000158"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00203nM2.01200024      e"
-type: "e"
-"001": "HBZ60036393052-000010"
-"002a": "20080320"
-"003": "20080320"
-"004": "20241128"
-"010": "HL006738816"
-"012": "BT000000158"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "KA 7669"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL006738817"
-"002a": "20080320"
-"004": "20241128"
-"012": "BT000000159"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00203nM2.01200024      e"
-type: "e"
-"001": "HBZ60036393054-000010"
-"002a": "20080320"
-"003": "20080320"
-"004": "20241128"
-"010": "HL006738817"
-"012": "BT000000159"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "KA 7669"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL006738819"
-"002a": "20080320"
-"004": "20241128"
-"012": "BT000000162"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00203nM2.01200024      e"
-type: "e"
-"001": "HBZ60036393056-000010"
-"002a": "20080320"
-"003": "20080320"
-"004": "20241128"
-"010": "HL006738819"
-"012": "BT000000162"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "KA 7669"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL006738821"
-"002a": "20080320"
-"004": "20241128"
-"012": "BT000000167"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00203nM2.01200024      e"
-type: "e"
-"001": "HBZ60036393058-000010"
-"002a": "20080320"
-"003": "20080320"
-"004": "20241128"
-"010": "HL006738821"
-"012": "BT000000167"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "KA 7669"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL006738825"
-"002a": "20080320"
-"004": "20241128"
-"012": "BT000000168"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00203nM2.01200024      e"
-type: "e"
-"001": "HBZ60036393062-000010"
-"002a": "20080320"
-"003": "20080320"
-"004": "20241128"
-"010": "HL006738825"
-"012": "BT000000168"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "KA 7669"
-
----
-Leader: "00140nM2.01200024      l"
-type: "l"
-"001": "HL006738829"
-"002a": "20080320"
-"004": "20241128"
-"012": "BT000000173"
-"030": "||1u|||||||||"
-"050": "a|a|||||||||||"
-"070": "Sol 1"
-"071": "Sol 1"
-
----
-Leader: "00203nM2.01200024      e"
-type: "e"
-"001": "HBZ60036393068-000010"
-"002a": "20080320"
-"003": "20080320"
-"004": "20241128"
-"010": "HL006738829"
-"012": "BT000000173"
-"030": "||1u|||||||||"
-"050": "a|a||||||||"
-"070": "Sol 1"
-"070a": "HBZ"
-"071": "Sol 1"
-"076a": "04"
-"100": "KA 7669"
+{
+  "id" : "http://lobid.org/resources/990110477260206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477260206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477270206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477270206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477280206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477280206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477380206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477380206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477410206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477410206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477440206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477440206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477450206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477450206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477460206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477460206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477470206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477470206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477480206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477480206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477490206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477490206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477500206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477500206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477510206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477510206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477530206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477530206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477540206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477540206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477550206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477550206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477560206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477560206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477570206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477570206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477640206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477640206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477680206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477680206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477710206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477710206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477720206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477720206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477750206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477750206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477840206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477840206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "GA 644",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110477990206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110477990206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "KA 7669",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110478000206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110478000206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "KA 7669",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110478010206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110478010206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "KA 7669",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110478050206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110478050206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "KA 7669",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110478060206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110478060206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "KA 7669",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110478090206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110478090206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "KA 7669",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110478140206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110478140206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "KA 7669",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110478150206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110478150206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "KA 7669",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}
+{
+  "id" : "http://lobid.org/resources/990110478190206441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990110478190206441:ITEMMMSIDMUSSERSETZTWERDEN#!",
+    "callNumber" : "KA 7669",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!"
+    },
+    "label" : "Stadtarchiv Solingen, Bibliothek",
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
+}

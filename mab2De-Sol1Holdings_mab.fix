@@ -5,7 +5,7 @@ end
 
 # Lookup MMS Ids for the old HT Numbers or ZDB IDs.
 
-copy_field("012.a","almaMmsId")
+copy_field("012","almaMmsId")
 if any_match("almaMmsId","^[A-Z]{2}.*")
 	lookup("almaMmsId","hbzId2AlmaMmsId")
 else
@@ -18,10 +18,10 @@ end
 # so that they can be combined into in hasItem in a later stage of the MF Workflow.do
 
 
-if any_equal("FMT","ME")
+if any_equal("type","e")
 	set_hash("holding")
 	paste("holding.id","~http://lobid.org/items/", "almaMmsId", "~:","~ITEMMMSIDMUSSERSETZTWERDEN","~#!",join_char:"")
-	copy_field("100.a","holding.callNumber")
+	copy_field("100","holding.callNumber")
 	set_array("holding.inCollection[]")
 	add_field("holding.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
 	add_field("holding.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
