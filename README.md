@@ -5,6 +5,12 @@ The holding for DE-Sol1 are provided as MAB and ALEPH Seq files. Find examples i
 
 ## To run transformation workflow process the flux file with your current metafacture runner.
 
+For the transformations Metafacture is used. 
+
+You need the current runner of metafacture fix release: https://github.com/metafacture/metafacture-fix/releases
+
+Paths in the following CLI commands may need to be adjusted.
+
 ### For test purposes run:
 
 #### Test transformation of MAB Data:
