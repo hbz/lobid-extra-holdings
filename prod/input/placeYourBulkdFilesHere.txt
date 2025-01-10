@@ -1,0 +1,1 @@
+Use this folder as the input folder for your bulk files.
