@@ -20,7 +20,7 @@ end
 
 if any_equal("type","e")
 	set_hash("holding")
-	paste("holding.id","~http://lobid.org/items/", "almaMmsId", "~:","001","~#!",join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
+	paste("holding.id","~http://lobid.org/items/", "almaMmsId",  "~:DE-Sol1:","001","~#!",join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
 	copy_field("100","holding.callNumber")
 	set_array("holding.inCollection[]")
 	add_field("holding.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")

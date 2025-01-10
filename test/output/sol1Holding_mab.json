@@ -1,7 +1,7 @@
 {
   "id" : "http://lobid.org/resources/990110477260206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477260206441:HBZ60037868936-000010#!",
+    "id" : "http://lobid.org/items/990110477260206441:DE-Sol1:HBZ60037868936-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -18,7 +18,7 @@
 {
   "id" : "http://lobid.org/resources/990110477270206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477270206441:HBZ60037868945-000010#!",
+    "id" : "http://lobid.org/items/990110477270206441:DE-Sol1:HBZ60037868945-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -35,7 +35,7 @@
 {
   "id" : "http://lobid.org/resources/990110477280206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477280206441:HBZ60037868958-000010#!",
+    "id" : "http://lobid.org/items/990110477280206441:DE-Sol1:HBZ60037868958-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -52,7 +52,7 @@
 {
   "id" : "http://lobid.org/resources/990110477380206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477380206441:HBZ60037868969-000010#!",
+    "id" : "http://lobid.org/items/990110477380206441:DE-Sol1:HBZ60037868969-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -69,7 +69,7 @@
 {
   "id" : "http://lobid.org/resources/990110477410206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477410206441:HBZ60037868972-000010#!",
+    "id" : "http://lobid.org/items/990110477410206441:DE-Sol1:HBZ60037868972-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -86,7 +86,7 @@
 {
   "id" : "http://lobid.org/resources/990110477440206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477440206441:HBZ60037868975-000010#!",
+    "id" : "http://lobid.org/items/990110477440206441:DE-Sol1:HBZ60037868975-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -103,7 +103,7 @@
 {
   "id" : "http://lobid.org/resources/990110477450206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477450206441:HBZ60037868980-000010#!",
+    "id" : "http://lobid.org/items/990110477450206441:DE-Sol1:HBZ60037868980-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -120,7 +120,7 @@
 {
   "id" : "http://lobid.org/resources/990110477460206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477460206441:HBZ60037868987-000010#!",
+    "id" : "http://lobid.org/items/990110477460206441:DE-Sol1:HBZ60037868987-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -137,7 +137,7 @@
 {
   "id" : "http://lobid.org/resources/990110477470206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477470206441:HBZ60037868996-000010#!",
+    "id" : "http://lobid.org/items/990110477470206441:DE-Sol1:HBZ60037868996-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -154,7 +154,7 @@
 {
   "id" : "http://lobid.org/resources/990110477480206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477480206441:HBZ60037869300-000010#!",
+    "id" : "http://lobid.org/items/990110477480206441:DE-Sol1:HBZ60037869300-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -171,7 +171,7 @@
 {
   "id" : "http://lobid.org/resources/990110477490206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477490206441:HBZ60037869014-000010#!",
+    "id" : "http://lobid.org/items/990110477490206441:DE-Sol1:HBZ60037869014-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -188,7 +188,7 @@
 {
   "id" : "http://lobid.org/resources/990110477500206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477500206441:HBZ60037869063-000010#!",
+    "id" : "http://lobid.org/items/990110477500206441:DE-Sol1:HBZ60037869063-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -205,7 +205,7 @@
 {
   "id" : "http://lobid.org/resources/990110477510206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477510206441:HBZ60037868885-000010#!",
+    "id" : "http://lobid.org/items/990110477510206441:DE-Sol1:HBZ60037868885-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -222,7 +222,7 @@
 {
   "id" : "http://lobid.org/resources/990110477530206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477530206441:HBZ60037869070-000010#!",
+    "id" : "http://lobid.org/items/990110477530206441:DE-Sol1:HBZ60037869070-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -239,7 +239,7 @@
 {
   "id" : "http://lobid.org/resources/990110477540206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477540206441:HBZ60037869074-000010#!",
+    "id" : "http://lobid.org/items/990110477540206441:DE-Sol1:HBZ60037869074-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -256,7 +256,7 @@
 {
   "id" : "http://lobid.org/resources/990110477550206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477550206441:HBZ60037869077-000010#!",
+    "id" : "http://lobid.org/items/990110477550206441:DE-Sol1:HBZ60037869077-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -273,7 +273,7 @@
 {
   "id" : "http://lobid.org/resources/990110477560206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477560206441:HBZ60037869083-000010#!",
+    "id" : "http://lobid.org/items/990110477560206441:DE-Sol1:HBZ60037869083-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -290,7 +290,7 @@
 {
   "id" : "http://lobid.org/resources/990110477570206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477570206441:HBZ60037869090-000010#!",
+    "id" : "http://lobid.org/items/990110477570206441:DE-Sol1:HBZ60037869090-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -307,7 +307,7 @@
 {
   "id" : "http://lobid.org/resources/990110477640206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477640206441:HBZ60037869099-000010#!",
+    "id" : "http://lobid.org/items/990110477640206441:DE-Sol1:HBZ60037869099-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -324,7 +324,7 @@
 {
   "id" : "http://lobid.org/resources/990110477680206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477680206441:HBZ60037869102-000010#!",
+    "id" : "http://lobid.org/items/990110477680206441:DE-Sol1:HBZ60037869102-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -341,7 +341,7 @@
 {
   "id" : "http://lobid.org/resources/990110477710206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477710206441:HBZ60037869105-000010#!",
+    "id" : "http://lobid.org/items/990110477710206441:DE-Sol1:HBZ60037869105-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -358,7 +358,7 @@
 {
   "id" : "http://lobid.org/resources/990110477720206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477720206441:HBZ60037869131-000010#!",
+    "id" : "http://lobid.org/items/990110477720206441:DE-Sol1:HBZ60037869131-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -375,7 +375,7 @@
 {
   "id" : "http://lobid.org/resources/990110477750206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477750206441:HBZ60037869138-000010#!",
+    "id" : "http://lobid.org/items/990110477750206441:DE-Sol1:HBZ60037869138-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -392,7 +392,7 @@
 {
   "id" : "http://lobid.org/resources/990110477840206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477840206441:HBZ60037869151-000010#!",
+    "id" : "http://lobid.org/items/990110477840206441:DE-Sol1:HBZ60037869151-000010#!",
     "callNumber" : "GA 644",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -409,7 +409,7 @@
 {
   "id" : "http://lobid.org/resources/990110477990206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110477990206441:HBZ60036393041-000010#!",
+    "id" : "http://lobid.org/items/990110477990206441:DE-Sol1:HBZ60036393041-000010#!",
     "callNumber" : "KA 7669",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -426,7 +426,7 @@
 {
   "id" : "http://lobid.org/resources/990110478000206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110478000206441:HBZ60036393044-000010#!",
+    "id" : "http://lobid.org/items/990110478000206441:DE-Sol1:HBZ60036393044-000010#!",
     "callNumber" : "KA 7669",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -443,7 +443,7 @@
 {
   "id" : "http://lobid.org/resources/990110478010206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110478010206441:HBZ60036393049-000010#!",
+    "id" : "http://lobid.org/items/990110478010206441:DE-Sol1:HBZ60036393049-000010#!",
     "callNumber" : "KA 7669",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -460,7 +460,7 @@
 {
   "id" : "http://lobid.org/resources/990110478050206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110478050206441:HBZ60036393052-000010#!",
+    "id" : "http://lobid.org/items/990110478050206441:DE-Sol1:HBZ60036393052-000010#!",
     "callNumber" : "KA 7669",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -477,7 +477,7 @@
 {
   "id" : "http://lobid.org/resources/990110478060206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110478060206441:HBZ60036393054-000010#!",
+    "id" : "http://lobid.org/items/990110478060206441:DE-Sol1:HBZ60036393054-000010#!",
     "callNumber" : "KA 7669",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -494,7 +494,7 @@
 {
   "id" : "http://lobid.org/resources/990110478090206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110478090206441:HBZ60036393056-000010#!",
+    "id" : "http://lobid.org/items/990110478090206441:DE-Sol1:HBZ60036393056-000010#!",
     "callNumber" : "KA 7669",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -511,7 +511,7 @@
 {
   "id" : "http://lobid.org/resources/990110478140206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110478140206441:HBZ60036393058-000010#!",
+    "id" : "http://lobid.org/items/990110478140206441:DE-Sol1:HBZ60036393058-000010#!",
     "callNumber" : "KA 7669",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -528,7 +528,7 @@
 {
   "id" : "http://lobid.org/resources/990110478150206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110478150206441:HBZ60036393062-000010#!",
+    "id" : "http://lobid.org/items/990110478150206441:DE-Sol1:HBZ60036393062-000010#!",
     "callNumber" : "KA 7669",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -545,7 +545,7 @@
 {
   "id" : "http://lobid.org/resources/990110478190206441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990110478190206441:HBZ60036393068-000010#!",
+    "id" : "http://lobid.org/items/990110478190206441:DE-Sol1:HBZ60036393068-000010#!",
     "callNumber" : "KA 7669",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
