@@ -7,17 +7,17 @@ The holding for DE-Sol1 are provided as MAB and ALEPH Seq files. Find examples i
 
 ### For test purposes run:
 
-Transformation of MAB Data:
+#### Test transformation of MAB Data:
 `$ '/home/user/Downloads/metafix-runner-1.1.2/bin/metafix-runner' '/home/user/git/lobid-extra-holdings/mab2De-Sol1Holdings_mab.flux'`
 
-Transformation of ALEPH SEQ Data:
+#### Test transformation of ALEPH SEQ Data:
 `$ '/home/user/Downloads/metafix-runner-1.1.2/bin/metafix-runner' '/home/user/git/lobid-extra-holdings/mab2De-Sol1Holdings_seq.flux'`
 
 ### For complete prod bulk run:
 You need to have a mab or aleph seq file placed in `prod/input`
 
-Transformation of MAB Data:
+#### Transformation of MAB Data:
 `$ '/home/user/Downloads/metafix-runner-1.1.2/bin/metafix-runner' '/home/user/git/lobid-extra-holdings/mab2De-Sol1Holdings_mab.flux' outfile="prod/output/<<YOUR_OUTPUT_FILE>>.json" infile='/home/user/git/lobid-extra-holdings/test/input/<<YOUR_INPUT_FILE>>.mab'`
 
-Transformation of ALEPH SEQ Data:
+#### Transformation of ALEPH SEQ Data:
 `$ '/home/user/Downloads/metafix-runner-1.1.2/bin/metafix-runner' '/home/user/git/lobid-extra-holdings/mab2De-Sol1Holdings_seq.flux' outfile="test/output/<<YOUR_OUTPUT_FILE>>.json" infile='/home/user/git/lobid-extra-holdings/test/input/<<YOUR_INPUT_FILE>>.seq`
