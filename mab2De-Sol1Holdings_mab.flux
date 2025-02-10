@@ -1,5 +1,7 @@
 default infile="test/input/export_mab_HBZ60.example.mab";
 default outfile="test/output/sol1Holding_mab.json";
+default outfile2="test/output/sol1Holding_mab.tsv";
+
 
 infile
 | open-file
@@ -12,4 +14,16 @@ infile
 | fix(FLUX_DIR + "combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
 | encode-json(prettyPrinting="true")
 | write(FLUX_DIR + outfile, header="[",footer="]", separator=",")
+;
+
+FLUX_DIR + outfile
+| open-file
+| as-records
+| decode-json(recordPath="*")
+| fix("	to_json('hasItem[]')
+	move_field('hasItem[]','holdings')
+	retain('id','holdings')"
+)
+| encode-csv(includeHeader="true", separator="\t", noQuotes="true")
+| write(FLUX_DIR + outfile2)
 ;
