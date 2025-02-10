@@ -11,5 +11,6 @@ infile
 | merge-same-ids  // merge records that belong to the same MMS ID.
 | fix(FLUX_DIR + "combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
 | encode-json(prettyPrinting="true")
-| write(FLUX_DIR + outfile)
+| write(FLUX_DIR + outfile, header="[",footer="]", separator=",")
 ;
+
