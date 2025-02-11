@@ -1443,6 +1443,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110482040206441:DE-Sol1:ZDB50011048204-000010#!",
     "callNumber" : "MA 3295",
+    "inventoryNumber" : "1993.109",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -1555,6 +1556,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110486750206441:DE-Sol1:ZDB50011048675-000010#!",
     "callNumber" : "MA 3264/[1]",
+    "inventoryNumber" : "1993.373",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -1936,6 +1938,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489830206441:DE-Sol1:ZDB50011048983-000010#!",
     "callNumber" : "MA 3379",
+    "inventoryNumber" : "1997.342",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -3024,6 +3027,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110499070206441:DE-Sol1:ZDB50011049907-000010#!",
     "callNumber" : "MA 3284",
+    "inventoryNumber" : "1993.127",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -3168,6 +3172,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110502980206441:DE-Sol1:ZDB50011050298-000010#!",
     "callNumber" : "MA 2960",
+    "inventoryNumber" : "1993.476",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -3184,6 +3189,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110504720206441:DE-Sol1:ZDB50011050472-000010#!",
     "callNumber" : "KA 8499",
+    "inventoryNumber" : "2002.204",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -3984,6 +3990,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512620206441:DE-Sol1:ZDB50011051262-000010#!",
     "callNumber" : "KA 7624",
+    "inventoryNumber" : "1993.346",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -4624,6 +4631,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520420206441:DE-Sol1:ZDB50011052042-000010#!",
     "callNumber" : "MA 3313",
+    "inventoryNumber" : "1993.484",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -4832,6 +4840,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110523910206441:DE-Sol1:ZDB50011052391-000010#!",
     "callNumber" : "KA 5380 (b)",
+    "inventoryNumber" : "1995.260",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -6861,6 +6870,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540160206441:DE-Sol1:ZDB50011054016-000010#!",
     "callNumber" : "MA 3330",
+    "inventoryNumber" : "1994.439",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -7677,6 +7687,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547630206441:DE-Sol1:ZDB50011054763-000010#!",
     "callNumber" : "KA 5444/3",
+    "inventoryNumber" : "1995.362",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -8845,6 +8856,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110552630206441:DE-Sol1:ZDB50011055263-000010#!",
     "callNumber" : "MA 3441",
+    "inventoryNumber" : "1998.434",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"
@@ -9837,6 +9849,7 @@
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110557320206441:DE-Sol1:ZDB50011055732-000010#!",
     "callNumber" : "MA 3365",
+    "inventoryNumber" : "1996.439",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
       "label" : "Stadtarchiv Solingen, Bibliothek"

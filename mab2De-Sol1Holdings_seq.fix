@@ -22,6 +22,8 @@ if any_equal("FMT","ME")
 	set_hash("holding")
 	paste("holding.id","~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "001.a","~#!",join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
 	copy_field("100.a","holding.callNumber")
+	copy_field("115.a","holding.inventoryNumber")
+	copy_field("120.a","holding.serialNumber")
 	set_array("holding.inCollection[]")
 	add_field("holding.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
 	add_field("holding.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
