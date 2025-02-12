@@ -21,6 +21,7 @@ end
 if any_equal("FMT","ME")
 	set_hash("holding")
 	paste("holding.id","~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "001.a","~#!",join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
+	add_field("holding.label", "lobid Bestandsressource")
 	copy_field("100.a","holding.callNumber")
 	copy_field("115.a","holding.inventoryNumber")
 	copy_field("120.a","holding.serialNumber")
@@ -29,7 +30,7 @@ if any_equal("FMT","ME")
 	add_field("holding.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
 	add_field("holding.heldBy.isil", "DE-Sol1")
 	add_field("holding.heldBy.id", "http://lobid.org/organisations/DE-Sol1#!")
-	add_field("holding.label", "Stadtarchiv Solingen, Bibliothek")
+	add_field("holding.heldBy.label", "Stadtarchiv Solingen, Bibliothek")
 	set_array("holding.type[]")
 	add_field("holding.type[].$append", "Item")
 	add_field("holding.type[].$append", "PhysicalObject") # Wie kann man andere Publikationstypen mappen?
