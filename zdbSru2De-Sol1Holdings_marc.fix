@@ -4,7 +4,6 @@ end
 
 
 do once("maps")
-	put_filemap("map/identifier.tsv","hbzId2AlmaMmsId", sep_char:"\t",key_column:"1",value_column:"0",expected_columns:"-1")
 	put_filemap("map/identifier.tsv","zdbId2AlmaMmsId", sep_char:"\t",key_column:"2",value_column:"0",expected_columns:"-1")
 end
 
@@ -20,7 +19,7 @@ lookup("almaMmsId","zdbId2AlmaMmsId") ## This lookupfile has to be updated regul
 set_hash("holding")
 paste("holding.id","~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "001","~#!",join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
 add_field("holding.label", "lobid Bestandsressource")
-copy_field("852  .a","holding.callNumber")
+copy_field("852 1.c","holding.callNumber")
 # copy_field("115.a","holding.inventoryNumber") nicht in  den ZDB Daten
 # copy_field("120.a","holding.serialNumber") nicht in den  ZDB Daten?
 set_array("holding.inCollection[]")
