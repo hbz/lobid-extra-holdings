@@ -1,14 +1,10 @@
-default infile="test/input/sru_records_and_holdings.xml";
-default outfile="test/output/sol1Holding_sru.json";
-default outfile2="test/output/sol1Holding_sru.tsv";
-default version="test/";
-
+default version="";
 
 // The SRU records are provided as collections combining bibliographic and holding records
 // Beside the combining collection tag there seems to be no linkage / reference between bibliographic and holdings.
 
-infile
-| open-file
+"https://services.dnb.de/sru/zdb?version=1.1&operation=searchRetrieve&query=dnb.isil%3DDE-Sol1&recordSchema=MARC21plus-xml"
+| open-http // needs to be replaced by open-sru
 // Step 1: Read the data as generic xml and copy the ZDB-ID to the Holding-Records as 004
 // This is necessary to create the holdings in Step 2.
 | decode-xml
@@ -22,7 +18,7 @@ infile
 | read-string
 | decode-xml
 | handle-marcxml(ignorenamespace="true")
-| fix(FLUX_DIR + "zdbSru2De-Sol1Holdings_marc.fix",*) // creates holding information for Holding Records of DE-Sol1
+| fix(FLUX_DIR + "zdbSru2De-Sol1Holdings_marc.fix") // creates holding information for Holding Records of DE-Sol1
 
 // Step 4: Combine multiple holdings for one resource to one holding array/record.
 | change-id(idliteral="almaMmsId")
@@ -43,5 +39,5 @@ FLUX_DIR + outfile
 	retain('id','holdings')"
 )
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
-| write(FLUX_DIR + outfile2)
+| write(FLUX_DIR + outfile2, appendiffileexists="true")
 ;
