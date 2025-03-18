@@ -1,7 +1,3 @@
-default infile="test/input/sru_records_and_holdings.xml";
-default outfile="test/output/sol1Holding_sru.json";
-default outfile2="test/output/sol1Holding_sru.tsv";
-
 //Create mapping file of almaMmsIds:
 
 "https://services.dnb.de/sru/zdb?version=1.1&operation=searchRetrieve&query=dnb.isil%3DDE-Sol1&recordSchema=MARC21plus-xml"
@@ -25,6 +21,6 @@ default outfile2="test/output/sol1Holding_sru.tsv";
 | decode-json
 | fix("retain('almaMmsId','zdbId')") 
 | encode-csv(noQuotes="true",separator="\t")
-| write(FLUX_DIR + "map/almaMmsId2ZdbId.tsv")
+| write(FLUX_DIR + "map/almaMmsId2zdbId.tsv")
 ;
 

@@ -1,3 +1,4 @@
+default outfile="prod/output/sol1Holding_sru.json";
 default version="";
 
 // The SRU records are provided as collections combining bibliographic and holding records
@@ -18,7 +19,7 @@ default version="";
 | read-string
 | decode-xml
 | handle-marcxml(ignorenamespace="true")
-| fix(FLUX_DIR + "zdbSru2De-Sol1Holdings_marc.fix") // creates holding information for Holding Records of DE-Sol1
+| fix(FLUX_DIR + "zdbSru2De-Sol1Holdings_marc.fix",*) // creates holding information for Holding Records of DE-Sol1
 
 // Step 4: Combine multiple holdings for one resource to one holding array/record.
 | change-id(idliteral="almaMmsId")
@@ -39,5 +40,5 @@ FLUX_DIR + outfile
 	retain('id','holdings')"
 )
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
-| write(FLUX_DIR + outfile2, appendiffileexists="true")
+| write(FLUX_DIR + outfile2, appendiffileexists="true", compression="gzip")
 ;
