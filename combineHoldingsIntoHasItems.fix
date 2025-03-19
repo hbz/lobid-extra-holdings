@@ -1,4 +1,4 @@
-paste("id", "~http://lobid.org/resources/", "_id", "~#!", join_char: "")
+copy_field("_id", "id")
 
 copy_field("holding","hasItem[].$append")
 
