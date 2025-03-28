@@ -1,7 +1,7 @@
 //Create mapping file of almaMmsIds:
 
-"https://services.dnb.de/sru/zdb?version=1.1&operation=searchRetrieve&query=dnb.isil%3DDE-Sol1&recordSchema=MARC21plus-xml"
-| open-http // needs to be replaced by open-sru
+"https://services.dnb.de/sru/zdb"
+| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1",version="1.1",maximumRecords="1000")
 | decode-xml
 | handle-marcxml
 | fix(

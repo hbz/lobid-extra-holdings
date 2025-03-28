@@ -1,11 +1,12 @@
-default outfile="prod/output/sol1Holding_sru.json";
+default outfile="prod/output/sol1Holding_sru.json.gz";
+default outfile2="prod/output/sol1Holding_sru.tsv.gz";
 default version="";
 
 // The SRU records are provided as collections combining bibliographic and holding records
 // Beside the combining collection tag there seems to be no linkage / reference between bibliographic and holdings.
 
-"https://services.dnb.de/sru/zdb?version=1.1&operation=searchRetrieve&query=dnb.isil%3DDE-Sol1&recordSchema=MARC21plus-xml"
-| open-http // needs to be replaced by open-sru
+"https://services.dnb.de/sru/zdb"
+| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1",version="1.1",maximumRecords="1000")
 // Step 1: Read the data as generic xml and copy the ZDB-ID to the Holding-Records as 004
 // This is necessary to create the holdings in Step 2.
 | decode-xml
@@ -25,20 +26,20 @@ default version="";
 | change-id(idliteral="almaMmsId")
 | merge-same-ids  // merge records that belong to the same MMS I
 | fix(FLUX_DIR + "combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
-| encode-json(prettyPrinting="true")
-| write(FLUX_DIR + outfile, header="[",footer="]", separator=",")
+| encode-json // newline json is better for big file
+| write(FLUX_DIR + outfile, compression="gzip") // compression is better for big file
 ;
 
 
 // Step5: Create a lookup file for lobid that has the almaMmsId in column 1 and the serialized json array of the holdings in column2
 FLUX_DIR + outfile
 | open-file
-| as-records
-| decode-json(recordPath="*")
+| as-lines
+| decode-json
 | fix("	to_json('hasItem[]')
 	move_field('hasItem[]','holdings')
 	retain('id','holdings')"
 )
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
-| write(FLUX_DIR + outfile2, appendiffileexists="true", compression="gzip")
+| write(FLUX_DIR + outfile2, compression="gzip")
 ;
