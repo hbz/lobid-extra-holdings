@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<harvest>
-<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>3032</numberOfRecords><records><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+<harvest><searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>3032</numberOfRecords><records><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">1019019719</controlfield>
@@ -1906,8 +1905,6 @@
     </datafield>
   </record>
 </collection></recordData><recordPosition>5</recordPosition></record></records><nextRecordPosition>6</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>dnb.isil=DE-Sol1</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><startRecord>1</startRecord><maximumRecords>5</maximumRecords><recordSchema>MARC21plus-xml</recordSchema></echoedSearchRetrieveRequest></searchRetrieveResponse>
-
-
 <searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>3032</numberOfRecords><records><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
@@ -3004,267 +3001,6 @@
 </collection></recordData><recordPosition>8</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
-    <controlfield tag="001">1026129508</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20230616075746.0</controlfield>
-    <controlfield tag="007">tu</controlfield>
-    <controlfield tag="008">120920d20122020gw u||p|  ||| 0||||1ger c</controlfield>
-    <datafield ind1="7" ind2=" " tag="016">
-      <subfield code="2">DE-600</subfield>
-      <subfield code="a">2682924-1</subfield>
-    </datafield>
-    <datafield ind1="7" ind2=" " tag="016">
-      <subfield code="2">DE-101</subfield>
-      <subfield code="a">1026129508</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="035">
-      <subfield code="a">(DE-599)ZDB2682924-1</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="035">
-      <subfield code="a">(OCoLC)1185706914</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="040">
-      <subfield code="a">0038</subfield>
-      <subfield code="b">ger</subfield>
-      <subfield code="c">DE-101</subfield>
-      <subfield code="d">9001</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="041">
-      <subfield code="a">ger</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="042">
-      <subfield code="a">zdb</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="044">
-      <subfield code="c">XA-DE</subfield>
-    </datafield>
-    <datafield ind1="7" ind2="4" tag="082">
-      <subfield code="a">720</subfield>
-      <subfield code="a">330</subfield>
-      <subfield code="q">DE-600</subfield>
-      <subfield code="2">22sdnb</subfield>
-    </datafield>
-    <datafield ind1="2" ind2=" " tag="110">
-      <subfield code="0">(DE-588)37817-3</subfield>
-      <subfield code="0">https://d-nb.info/gnd/37817-3</subfield>
-      <subfield code="0">(DE-101)000378178</subfield>
-      <subfield code="a">Rheinischer Verein für Denkmalpflege und Landschaftsschutz</subfield>
-      <subfield code="e">Verfasser</subfield>
-      <subfield code="4">aut</subfield>
-      <subfield code="2">gnd</subfield>
-    </datafield>
-    <datafield ind1="1" ind2="0" tag="245">
-      <subfield code="a">Veranstaltungen &amp; Termine / Rheinischer Verein für Denkmalpflege und Landschaftsschutz</subfield>
-    </datafield>
-    <datafield ind1="3" ind2="1" tag="264">
-      <subfield code="a">Köln</subfield>
-      <subfield code="b">Rheinischer Verein für Denkmalpflege und Landschaftsschutz</subfield>
-      <subfield code="c">2012-2020</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="336">
-      <subfield code="a">Text</subfield>
-      <subfield code="b">txt</subfield>
-      <subfield code="2">rdacontent</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="337">
-      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
-      <subfield code="b">n</subfield>
-      <subfield code="2">rdamedia</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="338">
-      <subfield code="a">Band</subfield>
-      <subfield code="b">nc</subfield>
-      <subfield code="2">rdacarrier</subfield>
-    </datafield>
-    <datafield ind1="0" ind2=" " tag="362">
-      <subfield code="a">2012-2020,Apr./Juni ; damit Erscheinen eingestellt</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="363">
-      <subfield code="8">1.1\x</subfield>
-      <subfield code="i">2012</subfield>
-    </datafield>
-    <datafield ind1="1" ind2="0" tag="363">
-      <subfield code="8">1.2\x</subfield>
-      <subfield code="j">6</subfield>
-      <subfield code="i">2020</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="591">
-      <subfield code="a">38!(16-06-23)</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="7" tag="655">
-      <subfield code="0">(DE-588)4067488-5</subfield>
-      <subfield code="0">https://d-nb.info/gnd/4067488-5</subfield>
-      <subfield code="0">(DE-101)040674886</subfield>
-      <subfield code="a">Zeitschrift</subfield>
-      <subfield code="2">gnd-content</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="780">
-      <subfield code="i">Vorg.:</subfield>
-      <subfield code="a">Rheinischer Verein für Denkmalpflege und Landschaftsschutz</subfield>
-      <subfield code="t">Veranstaltungsprogramm / Rheinischer Verein für Denkmalpflege und Landschaftsschutz</subfield>
-      <subfield code="d">Köln : Rheinischer Verein für Denkmalpflege und Landschaftsschutz, 2010-2011</subfield>
-      <subfield code="w">(DE-600)2556033-5</subfield>
-      <subfield code="w">(DE-101)1002974941</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="850">
-      <subfield code="a">DE-101a</subfield>
-      <subfield code="a">DE-101b</subfield>
-    </datafield>
-    <datafield ind1="w" ind2=" " tag="925">
-      <subfield code="a">g</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="931">
-      <subfield code="a">23-06-16</subfield>
-      <subfield code="b">g</subfield>
-    </datafield>
-  </record>
-
-  <record type="Holdings">
-    <leader>00000ny  a22000003n 4500</leader>
-    <controlfield tag="001">364724870</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20160526031340.0</controlfield>
-    <controlfield tag="008">160525||||||||||||||||ger|||||||</controlfield>
-    <datafield ind1=" " ind2=" " tag="092">
-      <subfield code="a">950200-2</subfield>
-      <subfield code="d">101a</subfield>
-      <subfield code="k">SAX</subfield>
-      <subfield code="l">a</subfield>
-      <subfield code="o">b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="541">
-      <subfield code="e">L-2012-364724870</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DE-101a</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="0" tag="866">
-      <subfield code="z">Gehoert nicht zum Sammelgebiet der Deutschen Nationalbibliothek</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="0" tag="866">
-      <subfield code="x">NSG : Hop</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="933">
-      <subfield code="a">CC0</subfield>
-    </datafield>
-  </record>
-  <record type="Holdings">
-    <leader>00000ny  a22000003n 4500</leader>
-    <controlfield tag="001">364724889</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20160526031341.0</controlfield>
-    <controlfield tag="008">160525||||||||||||||||ger|||||||</controlfield>
-    <datafield ind1=" " ind2=" " tag="092">
-      <subfield code="a">600100-2</subfield>
-      <subfield code="d">101b</subfield>
-      <subfield code="k">HES</subfield>
-      <subfield code="l">a</subfield>
-      <subfield code="o">b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="541">
-      <subfield code="e">F-2012-364724889</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DE-101b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="0" tag="866">
-      <subfield code="z">Gehoert nicht zum Sammelgebiet der Deutschen Nationalbibliothek</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="933">
-      <subfield code="a">CC0</subfield>
-    </datafield>
-  </record>
-  <record type="Holdings">
-    <leader>00000ny  a22000003n 4500</leader>
-    <controlfield tag="001">243834527</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20231018195815.0</controlfield>
-    <controlfield tag="008">120920||||||||||||||||ger|||||||</controlfield>
-    <datafield ind1=" " ind2=" " tag="035">
-      <subfield code="a">(DE-605)22282668860006476</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="092">
-      <subfield code="a">501000-7</subfield>
-      <subfield code="d">38</subfield>
-      <subfield code="k">NRW</subfield>
-      <subfield code="l">a</subfield>
-      <subfield code="o">c</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="8">1</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="1" tag="852">
-      <subfield code="c">XK3897</subfield>
-      <subfield code="9">00</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DE-38</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="859">
-      <subfield code="8">1.1\x</subfield>
-      <subfield code="i">2012</subfield>
-    </datafield>
-    <datafield ind1="1" ind2="0" tag="859">
-      <subfield code="8">1.2\x</subfield>
-      <subfield code="i">2018</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="859">
-      <subfield code="8">2.1\x</subfield>
-      <subfield code="i">2018</subfield>
-    </datafield>
-    <datafield ind1="1" ind2="0" tag="859">
-      <subfield code="8">2.2\x</subfield>
-      <subfield code="i">2020</subfield>
-    </datafield>
-    <datafield ind1="3" ind2="0" tag="866">
-      <subfield code="a">2012 - 2018,Apr.-Juni; 2018,Okt-Dez - 2020,Apr.-Juni</subfield>
-    </datafield>
-    <datafield ind1="3" ind2="0" tag="866">
-      <subfield code="z">[N=2012,Apr./Juni; 2014,Jan./Juni; 2015,Jul./Sep.; 2015,Okt./Dez.; 2017,Jan./März; 2017,Jul./Sep.; 2017,Okt./Dez.]</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="933">
-      <subfield code="a">CC0</subfield>
-    </datafield>
-  </record>
-  <record type="Holdings">
-    <leader>00000ny  a22000003n 4500</leader>
-    <controlfield tag="001">1026708745</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20231221061958.0</controlfield>
-    <controlfield tag="008">231013||||||||||||||||ger|||||||</controlfield>
-    <datafield ind1=" " ind2=" " tag="092">
-      <subfield code="a">568101-7</subfield>
-      <subfield code="d">Sol 1</subfield>
-      <subfield code="k">NRW</subfield>
-      <subfield code="l">b</subfield>
-      <subfield code="o">d</subfield>
-      <subfield code="y">wk</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="1" tag="852">
-      <subfield code="c">EX 1812</subfield>
-      <subfield code="9">00</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DE-Sol1</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="859">
-      <subfield code="8">1.1\x</subfield>
-      <subfield code="i">2017</subfield>
-    </datafield>
-    <datafield ind1="1" ind2="0" tag="859">
-      <subfield code="8">1.2\x</subfield>
-      <subfield code="i">2020</subfield>
-    </datafield>
-    <datafield ind1="3" ind2="0" tag="866">
-      <subfield code="a">2017,3 - 2020,2</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="933">
-      <subfield code="a">CC0</subfield>
-    </datafield>
-  </record>
-</collection></recordData><recordPosition>9</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
-  <record type="Bibliographic">
-    <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">1028278918</controlfield>
     <controlfield tag="003">DE-101</controlfield>
     <controlfield tag="005">20241113213237.0</controlfield>
@@ -4228,10 +3964,7 @@
       <subfield code="a">CC0</subfield>
     </datafield>
   </record>
-</collection></recordData><recordPosition>10</recordPosition></record></records><nextRecordPosition>11</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>dnb.isil=DE-Sol1</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><startRecord>6</startRecord><maximumRecords>5</maximumRecords><recordSchema>MARC21plus-xml</recordSchema></echoedSearchRetrieveRequest></searchRetrieveResponse>
-
-
-<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>3032</numberOfRecords><records><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+</collection></recordData><recordPosition>9</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">1028907397</controlfield>
@@ -6779,7 +6512,8 @@
       <subfield code="a">CC0</subfield>
     </datafield>
   </record>
-</collection></recordData><recordPosition>11</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+</collection></recordData><recordPosition>10</recordPosition></record></records><nextRecordPosition>11</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>dnb.isil=DE-Sol1</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><startRecord>6</startRecord><maximumRecords>5</maximumRecords><recordSchema>MARC21plus-xml</recordSchema></echoedSearchRetrieveRequest></searchRetrieveResponse>
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>3032</numberOfRecords><records><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">1024459284</controlfield>
@@ -7191,7 +6925,7 @@
       <subfield code="a">CC0</subfield>
     </datafield>
   </record>
-</collection></recordData><recordPosition>12</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+</collection></recordData><recordPosition>11</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">98822559X</controlfield>
@@ -7506,7 +7240,7 @@
       <subfield code="a">CC0</subfield>
     </datafield>
   </record>
-</collection></recordData><recordPosition>13</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+</collection></recordData><recordPosition>12</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">987396730</controlfield>
@@ -7860,385 +7594,7 @@
       <subfield code="a">CC0</subfield>
     </datafield>
   </record>
-</collection></recordData><recordPosition>14</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
-  <record type="Bibliographic">
-    <leader>00000nas a2200000 c 4500</leader>
-    <controlfield tag="001">987884999</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20171201121153.0</controlfield>
-    <controlfield tag="007">tu</controlfield>
-    <controlfield tag="008">080311d20002004gw u||p|  ||| 0||||1ger c</controlfield>
-    <datafield ind1="7" ind2=" " tag="016">
-      <subfield code="2">DE-600</subfield>
-      <subfield code="a">2415244-4</subfield>
-    </datafield>
-    <datafield ind1="7" ind2=" " tag="016">
-      <subfield code="2">DE-101</subfield>
-      <subfield code="a">987884999</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="035">
-      <subfield code="a">(DE-599)ZDB2415244-4</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="035">
-      <subfield code="a">(OCoLC)723618522</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="040">
-      <subfield code="a">4013</subfield>
-      <subfield code="b">ger</subfield>
-      <subfield code="c">DE-101</subfield>
-      <subfield code="d">9999</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="041">
-      <subfield code="a">ger</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="042">
-      <subfield code="a">zdb</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="044">
-      <subfield code="c">XA-DE</subfield>
-    </datafield>
-    <datafield ind1="7" ind2="4" tag="082">
-      <subfield code="a">300</subfield>
-      <subfield code="q">DE-101</subfield>
-      <subfield code="2">22sdnb</subfield>
-    </datafield>
-    <datafield ind1="7" ind2=" " tag="083">
-      <subfield code="a">330</subfield>
-      <subfield code="a">360</subfield>
-      <subfield code="q">DE-600</subfield>
-      <subfield code="2">22sdnb</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="245">
-      <subfield code="a">Zuwanderung und Integration in Nordrhein-Westfalen</subfield>
-      <subfield code="b">... Bericht der Landesregierung</subfield>
-      <subfield code="c">Ministerium für Gesundheit, Soziales, Frauen und Familie des Landes Nordrhein-Westfalen</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="247">
-      <subfield code="a">Zuwanderung und Integration in NRW</subfield>
-      <subfield code="f">Hauptsacht. 2.2000</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="247">
-      <subfield code="a">Bericht der Interministeriellen Arbeitsgruppe "Zuwanderung" der Landesregierung</subfield>
-      <subfield code="f">Zusatz 2.2000</subfield>
-    </datafield>
-    <datafield ind1="3" ind2="1" tag="264">
-      <subfield code="a">Düsseldorf</subfield>
-      <subfield code="b">Ministerium für Gesundheit, Soziales, Frauen und Familie</subfield>
-      <subfield code="c">2000-2004</subfield>
-    </datafield>
-    <datafield ind1="2" ind2="1" tag="264">
-      <subfield code="3">2000</subfield>
-      <subfield code="a">Düsseldorf</subfield>
-      <subfield code="b">Ministerium für Arbeit und Soziales, Qualifikation und Technologie</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="336">
-      <subfield code="a">Text</subfield>
-      <subfield code="b">txt</subfield>
-      <subfield code="2">rdacontent</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="337">
-      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
-      <subfield code="b">n</subfield>
-      <subfield code="2">rdamedia</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="338">
-      <subfield code="a">Band</subfield>
-      <subfield code="b">nc</subfield>
-      <subfield code="2">rdacarrier</subfield>
-    </datafield>
-    <datafield ind1="0" ind2=" " tag="362">
-      <subfield code="a">2.2000 - 3.2004</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="363">
-      <subfield code="8">1.1\x</subfield>
-      <subfield code="i">2000</subfield>
-    </datafield>
-    <datafield ind1="1" ind2="0" tag="363">
-      <subfield code="8">1.2\x</subfield>
-      <subfield code="i">2004</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="550">
-      <subfield code="a">Beteil. Körp. 2.2000: Ministerium für Arbeit und Soziales, Qualifikation und Technologie des Landes Nordrhein-Westfalen</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="591">
-      <subfield code="a">Zählung teilw. im Vorwort, 101a!(04-06-09)</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="7" tag="655">
-      <subfield code="0">(DE-588)4067488-5</subfield>
-      <subfield code="0">https://d-nb.info/gnd/4067488-5</subfield>
-      <subfield code="0">(DE-101)040674886</subfield>
-      <subfield code="a">Zeitschrift</subfield>
-      <subfield code="2">gnd-content</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="710">
-      <subfield code="0">(DE-588)2029490-6</subfield>
-      <subfield code="0">https://d-nb.info/gnd/2029490-6</subfield>
-      <subfield code="0">(DE-101)004859715</subfield>
-      <subfield code="a">Nordrhein-Westfalen</subfield>
-      <subfield code="b">Landesregierung</subfield>
-      <subfield code="e">Herausgebendes Organ</subfield>
-      <subfield code="4">isb</subfield>
-      <subfield code="2">gnd</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="710">
-      <subfield code="0">(DE-588)10053222-6</subfield>
-      <subfield code="0">https://d-nb.info/gnd/10053222-6</subfield>
-      <subfield code="0">(DE-101)967479746</subfield>
-      <subfield code="a">Nordrhein-Westfalen</subfield>
-      <subfield code="b">Ministerium für Gesundheit, Soziales, Frauen und Familie</subfield>
-      <subfield code="e">Herausgebendes Organ</subfield>
-      <subfield code="4">isb</subfield>
-      <subfield code="2">gnd</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="710">
-      <subfield code="0">(DE-588)10014424-X</subfield>
-      <subfield code="0">https://d-nb.info/gnd/10014424-X</subfield>
-      <subfield code="0">(DE-101)96052407X</subfield>
-      <subfield code="a">Nordrhein-Westfalen</subfield>
-      <subfield code="b">Ministerium für Arbeit und Soziales, Qualifikation und Technologie</subfield>
-      <subfield code="e">Herausgebendes Organ</subfield>
-      <subfield code="4">isb</subfield>
-      <subfield code="2">gnd</subfield>
-    </datafield>
-    <datafield ind1="1" ind2=" " tag="710">
-      <subfield code="0">(DE-588)10166928-8</subfield>
-      <subfield code="0">https://d-nb.info/gnd/10166928-8</subfield>
-      <subfield code="0">(DE-101)983866635</subfield>
-      <subfield code="a">Nordrhein-Westfalen</subfield>
-      <subfield code="b">Interministerielle Arbeitsgruppe Zuwanderung</subfield>
-      <subfield code="e">Herausgebendes Organ</subfield>
-      <subfield code="4">isb</subfield>
-      <subfield code="2">gnd</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="780">
-      <subfield code="i">Vorg.:</subfield>
-      <subfield code="t">Zuwanderung in Nordrhein-Westfalen</subfield>
-      <subfield code="d">Düsseldorf : Ministerium für Arbeit, Gesundheit und Soziales, 1995-1995</subfield>
-      <subfield code="w">(DE-600)2419628-9</subfield>
-      <subfield code="w">(DE-101)988186713</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="785">
-      <subfield code="i">Forts.:</subfield>
-      <subfield code="t">Nordrhein-Westfalen: Land der neuen Integrationschancen</subfield>
-      <subfield code="d">Düsseldorf : Ministerium für Generationen, Familie, Frauen u. Integration d. Landes Nordrhein-Westfalen, Referat Kommunikation, [2008]-</subfield>
-      <subfield code="w">(DE-600)2462612-0</subfield>
-      <subfield code="w">(DE-101)991097750</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="850">
-      <subfield code="a">DE-101a</subfield>
-      <subfield code="a">DE-101b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="889">
-      <subfield code="w">(DE-101)976100029</subfield>
-    </datafield>
-  </record>
-
-  <record type="Holdings">
-    <leader>00000ny  a22000003n 4500</leader>
-    <controlfield tag="001">156635739</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20091021123115.0</controlfield>
-    <controlfield tag="008">090603||||||||||||||||ger|||||||</controlfield>
-    <datafield ind1=" " ind2=" " tag="092">
-      <subfield code="a">950200-2</subfield>
-      <subfield code="d">101a</subfield>
-      <subfield code="k">SAX</subfield>
-      <subfield code="l">a</subfield>
-      <subfield code="o">b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="541">
-      <subfield code="e">L-2000-156635739</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="8">1</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="1" tag="852">
-      <subfield code="c">2005 B 27597</subfield>
-      <subfield code="9">00</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DE-101a</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="859">
-      <subfield code="8">1.1\x</subfield>
-      <subfield code="a">3</subfield>
-      <subfield code="i">2004</subfield>
-    </datafield>
-    <datafield ind1="3" ind2="0" tag="866">
-      <subfield code="a">3.2004</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="933">
-      <subfield code="a">CC0</subfield>
-    </datafield>
-  </record>
-  <record type="Holdings">
-    <leader>00000ny  a22000003n 4500</leader>
-    <controlfield tag="001">156635801</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20190719210636.0</controlfield>
-    <controlfield tag="008">090603||||||||||||||||ger|||||||</controlfield>
-    <datafield ind1=" " ind2=" " tag="092">
-      <subfield code="a">600100-2</subfield>
-      <subfield code="d">101b</subfield>
-      <subfield code="k">HES</subfield>
-      <subfield code="l">a</subfield>
-      <subfield code="o">b</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="541">
-      <subfield code="e">F-2000-156635801</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="8">1</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="1" tag="852">
-      <subfield code="c">2005 B 26324</subfield>
-      <subfield code="9">00</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DE-101b</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="859">
-      <subfield code="8">1.1\x</subfield>
-      <subfield code="a">3</subfield>
-      <subfield code="i">2004</subfield>
-    </datafield>
-    <datafield ind1="3" ind2="0" tag="866">
-      <subfield code="a">3.2004</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="933">
-      <subfield code="a">CC0</subfield>
-    </datafield>
-  </record>
-  <record type="Holdings">
-    <leader>00000ny  a22000003n 4500</leader>
-    <controlfield tag="001">216445256</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20240302021923.0</controlfield>
-    <controlfield tag="008">111115||||||||||||||||ger|||||||</controlfield>
-    <datafield ind1=" " ind2=" " tag="035">
-      <subfield code="a">(DE-605)22514593590006449</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="092">
-      <subfield code="a">441300-3</subfield>
-      <subfield code="d">6/A</subfield>
-      <subfield code="k">NRW</subfield>
-      <subfield code="l">a</subfield>
-      <subfield code="o">c</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="8">1</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="1" tag="852">
-      <subfield code="c">Z 982</subfield>
-      <subfield code="9">00</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DE-6-A</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="859">
-      <subfield code="8">1.1\x</subfield>
-      <subfield code="a">2</subfield>
-      <subfield code="i">2000</subfield>
-    </datafield>
-    <datafield ind1="1" ind2="0" tag="859">
-      <subfield code="8">1.2\x</subfield>
-      <subfield code="a">3</subfield>
-      <subfield code="i">2004</subfield>
-    </datafield>
-    <datafield ind1="3" ind2="0" tag="866">
-      <subfield code="a">2.2000 - 3.2004</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="933">
-      <subfield code="a">CC0</subfield>
-    </datafield>
-  </record>
-  <record type="Holdings">
-    <leader>00000ny  a22000003n 4500</leader>
-    <controlfield tag="001">246846089</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20121031030614.0</controlfield>
-    <controlfield tag="008">080311||||||||||||||||ger|||||||</controlfield>
-    <datafield ind1=" " ind2=" " tag="092">
-      <subfield code="a">170100-9</subfield>
-      <subfield code="d">109</subfield>
-      <subfield code="k">BER</subfield>
-      <subfield code="l">a</subfield>
-      <subfield code="o">b</subfield>
-      <subfield code="y">1</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="8">1</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="1" tag="852">
-      <subfield code="c">Zs 7695</subfield>
-      <subfield code="9">00</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="2" tag="852">
-      <subfield code="b">BStB</subfield>
-      <subfield code="9">09</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DE-109</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="859">
-      <subfield code="8">1.1\x</subfield>
-      <subfield code="a">2</subfield>
-      <subfield code="i">2000</subfield>
-    </datafield>
-    <datafield ind1="1" ind2="0" tag="859">
-      <subfield code="8">1.2\x</subfield>
-      <subfield code="a">3</subfield>
-      <subfield code="i">2004</subfield>
-    </datafield>
-    <datafield ind1="3" ind2="0" tag="866">
-      <subfield code="a">2.2000 - 3.2004</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="933">
-      <subfield code="a">CC0</subfield>
-    </datafield>
-  </record>
-  <record type="Holdings">
-    <leader>00000ny  a22000003n 4500</leader>
-    <controlfield tag="001">1026173833</controlfield>
-    <controlfield tag="003">DE-101</controlfield>
-    <controlfield tag="005">20231012073012.0</controlfield>
-    <controlfield tag="008">231012||||||||||||||||ger|||||||</controlfield>
-    <datafield ind1=" " ind2=" " tag="092">
-      <subfield code="a">568101-7</subfield>
-      <subfield code="d">Sol 1</subfield>
-      <subfield code="k">NRW</subfield>
-      <subfield code="l">b</subfield>
-      <subfield code="o">d</subfield>
-      <subfield code="y">wk</subfield>
-    </datafield>
-    <datafield ind1=" " ind2="1" tag="852">
-      <subfield code="c">III Z 3017</subfield>
-      <subfield code="9">00</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="852">
-      <subfield code="a">DE-Sol1</subfield>
-    </datafield>
-    <datafield ind1="0" ind2="0" tag="859">
-      <subfield code="8">1.1\x</subfield>
-      <subfield code="a">2</subfield>
-      <subfield code="i">2000</subfield>
-    </datafield>
-    <datafield ind1="1" ind2="0" tag="859">
-      <subfield code="8">1.2\x</subfield>
-      <subfield code="a">3</subfield>
-      <subfield code="i">2004</subfield>
-    </datafield>
-    <datafield ind1="3" ind2="0" tag="866">
-      <subfield code="a">2.2000 - 3.2004</subfield>
-    </datafield>
-    <datafield ind1=" " ind2=" " tag="933">
-      <subfield code="a">CC0</subfield>
-    </datafield>
-  </record>
-</collection></recordData><recordPosition>15</recordPosition></record></records><nextRecordPosition>16</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>dnb.isil=DE-Sol1</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><startRecord>11</startRecord><maximumRecords>5</maximumRecords><recordSchema>MARC21plus-xml</recordSchema></echoedSearchRetrieveRequest></searchRetrieveResponse>
-
-
-<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>3032</numberOfRecords><records><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+</collection></recordData><recordPosition>13</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">98935220X</controlfield>
@@ -8534,7 +7890,7 @@
       <subfield code="a">CC0</subfield>
     </datafield>
   </record>
-</collection></recordData><recordPosition>16</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+</collection></recordData><recordPosition>14</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">989833666</controlfield>
@@ -8747,7 +8103,8 @@
       <subfield code="a">CC0</subfield>
     </datafield>
   </record>
-</collection></recordData><recordPosition>17</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+</collection></recordData><recordPosition>15</recordPosition></record></records><nextRecordPosition>16</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>dnb.isil=DE-Sol1</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><startRecord>11</startRecord><maximumRecords>5</maximumRecords><recordSchema>MARC21plus-xml</recordSchema></echoedSearchRetrieveRequest></searchRetrieveResponse>
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/"><version>1.1</version><numberOfRecords>3032</numberOfRecords><records><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">985828749</controlfield>
@@ -8942,7 +8299,7 @@
       <subfield code="a">CC0</subfield>
     </datafield>
   </record>
-</collection></recordData><recordPosition>18</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+</collection></recordData><recordPosition>16</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">98365977X</controlfield>
@@ -9481,7 +8838,7 @@
       <subfield code="a">CC0</subfield>
     </datafield>
   </record>
-</collection></recordData><recordPosition>19</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+</collection></recordData><recordPosition>17</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
   <record type="Bibliographic">
     <leader>00000nas a2200000 c 4500</leader>
     <controlfield tag="001">984128700</controlfield>
@@ -11559,5 +10916,779 @@
       <subfield code="a">CC0</subfield>
     </datafield>
   </record>
-</collection></recordData><recordPosition>20</recordPosition></record></records><nextRecordPosition>21</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>dnb.isil=DE-Sol1</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><startRecord>16</startRecord><maximumRecords>5</maximumRecords><recordSchema>MARC21plus-xml</recordSchema></echoedSearchRetrieveRequest></searchRetrieveResponse>
-</harvest>
+</collection></recordData><recordPosition>18</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record type="Bibliographic">
+    <leader>00000nas a2200000 c 4500</leader>
+    <controlfield tag="001">984496092</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20240131213100.0</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">070604d20062019gw u||p|  ||| 0||||1ger c</controlfield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="2">DE-600</subfield>
+      <subfield code="a">2325717-9</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="2">DE-101</subfield>
+      <subfield code="a">984496092</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-599)ZDB2325717-9</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(OCoLC)649528425</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">0018</subfield>
+      <subfield code="b">ger</subfield>
+      <subfield code="c">DE-101</subfield>
+      <subfield code="d">9999</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="041">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">zdb</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="044">
+      <subfield code="c">XA-DE</subfield>
+    </datafield>
+    <datafield ind1="7" ind2="4" tag="082">
+      <subfield code="a">380</subfield>
+      <subfield code="q">DE-600</subfield>
+      <subfield code="2">22sdnb</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="110">
+      <subfield code="0">(DE-588)10082464-X</subfield>
+      <subfield code="0">https://d-nb.info/gnd/10082464-X</subfield>
+      <subfield code="0">(DE-101)971769192</subfield>
+      <subfield code="a">Otto (GmbH &amp; Co KG)</subfield>
+      <subfield code="e">Verfasser</subfield>
+      <subfield code="4">aut</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Otto / Otto (GmbH &amp; Co. KG)</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="1" tag="264">
+      <subfield code="a">Hamburg</subfield>
+      <subfield code="b">[Verlag nicht ermittelbar]</subfield>
+      <subfield code="c">2006-2019</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="362">
+      <subfield code="a">2006,Frü. -2019</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="363">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2006</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="363">
+      <subfield code="8">1.2\x</subfield>
+      <subfield code="i">2019</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Fortgesetzt als Online-Ausgabe</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="591">
+      <subfield code="a">8!(26-02-19)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="0">(DE-588)4067488-5</subfield>
+      <subfield code="0">https://d-nb.info/gnd/4067488-5</subfield>
+      <subfield code="0">(DE-101)040674886</subfield>
+      <subfield code="a">Zeitschrift</subfield>
+      <subfield code="2">gnd-content</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="780">
+      <subfield code="i">Vorg.:</subfield>
+      <subfield code="a">Otto (GmbH &amp; Co KG)</subfield>
+      <subfield code="t">Ihr persönlicher Otto-Partner-Katalog</subfield>
+      <subfield code="d">Hamburg : [Verlag nicht ermittelbar], 2002-2005</subfield>
+      <subfield code="w">(DE-600)2201431-7</subfield>
+      <subfield code="w">(DE-101)976249413</subfield>
+    </datafield>
+  </record>
+
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">1060751054</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20240215191623.0</controlfield>
+    <controlfield tag="008">190606||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-601)3481780346</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-8)530578883</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">231000-4</subfield>
+      <subfield code="d">8</subfield>
+      <subfield code="k">HAM</subfield>
+      <subfield code="l">a</subfield>
+      <subfield code="o">c</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="8">1</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">Xa 6129</subfield>
+      <subfield code="m">u</subfield>
+      <subfield code="=">l</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="852">
+      <subfield code="b">16</subfield>
+      <subfield code="9">09</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-8</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2019</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">Frühling/Sommer 2019</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="866">
+      <subfield code="z">*1</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">813707846</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20220913031629.0</controlfield>
+    <controlfield tag="008">070604||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-601)821698451</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-H46)530578883</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">208046-1</subfield>
+      <subfield code="d">H 46</subfield>
+      <subfield code="k">HAM</subfield>
+      <subfield code="l">b</subfield>
+      <subfield code="o">d</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="8">1</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">Z 302/0056</subfield>
+      <subfield code="m">i</subfield>
+      <subfield code="=">n</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-H46</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2006</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="859">
+      <subfield code="8">1.2\x</subfield>
+      <subfield code="i">2015</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">2006,Frü. - 2015,Herb./Win.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">813707862</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20220913031630.0</controlfield>
+    <controlfield tag="008">080715||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-601)882226169</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-H77)530578883</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">208077-1</subfield>
+      <subfield code="d">H 77</subfield>
+      <subfield code="k">HAM</subfield>
+      <subfield code="l">b</subfield>
+      <subfield code="o">d</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="8">1</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">Al IV 31</subfield>
+      <subfield code="m">i</subfield>
+      <subfield code="=">n</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="852">
+      <subfield code="b">H77</subfield>
+      <subfield code="9">09</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-H77</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2008</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">2.1\x</subfield>
+      <subfield code="i">2011</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">3.1\x</subfield>
+      <subfield code="i">2019</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">2007,Frü.; 2008,Som.; 2008,Herb./Win.; 2010,Frü./Som.; 2011,Frü./Som.; 2011, Herb./Win.; 2014,Frü./Som.; 2019</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">813707870</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20220913031630.0</controlfield>
+    <controlfield tag="008">181217||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-601)1833207920</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-H353)530578883</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">208353-X</subfield>
+      <subfield code="d">H 353</subfield>
+      <subfield code="k">HAM</subfield>
+      <subfield code="l">b</subfield>
+      <subfield code="o">d</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="8">2</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">Nac8-53</subfield>
+      <subfield code="m">i</subfield>
+      <subfield code="=">n</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="852">
+      <subfield code="b">H353</subfield>
+      <subfield code="9">09</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-H353</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2019</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">2019</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">813707889</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20241218170529.0</controlfield>
+    <controlfield tag="008">190827||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-601)3509170199</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-H103)530578883</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">208103-9</subfield>
+      <subfield code="d">H 103</subfield>
+      <subfield code="k">HAM</subfield>
+      <subfield code="l">b</subfield>
+      <subfield code="o">d</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="8">3</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">U</subfield>
+      <subfield code="m">i</subfield>
+      <subfield code="=">n</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="852">
+      <subfield code="b">H103</subfield>
+      <subfield code="9">09</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-H103</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2019</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">2019</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="866">
+      <subfield code="z">Standort: Teilbibliothek 2.OG</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">367474379</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20160613170030.0</controlfield>
+    <controlfield tag="008">160609||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-603)776119605</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">358020-9</subfield>
+      <subfield code="d">Ks 14a</subfield>
+      <subfield code="k">HES</subfield>
+      <subfield code="l">b</subfield>
+      <subfield code="o">d</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="541">
+      <subfield code="e">2016/0628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="8">1</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">V K/Otto ...</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-Ks14a</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2015</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">2015,Frü./Som.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">481998616</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20190115161106.0</controlfield>
+    <controlfield tag="008">190115||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">847000-5</subfield>
+      <subfield code="d">155</subfield>
+      <subfield code="k">BAY</subfield>
+      <subfield code="l">a</subfield>
+      <subfield code="o">c</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="8">3999 A</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="852">
+      <subfield code="b">999</subfield>
+      <subfield code="c">999/4 ZZ 1127</subfield>
+      <subfield code="9">09</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-155</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2019</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">2019</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">813707854</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20220913031630.0</controlfield>
+    <controlfield tag="008">140224||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-601)1458866203</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-B11)530578883</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">155011-1</subfield>
+      <subfield code="d">B 11</subfield>
+      <subfield code="k">BER</subfield>
+      <subfield code="l">a</subfield>
+      <subfield code="o">b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="8">10</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">Lipp Zc 10</subfield>
+      <subfield code="m">f</subfield>
+      <subfield code="=">k</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="852">
+      <subfield code="b">KB LIPP</subfield>
+      <subfield code="9">09</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-B11</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2010</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">2.1\x</subfield>
+      <subfield code="i">2011</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">2010,Frü./So.; 2011,Frü./So.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">1026708257</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20231013105100.0</controlfield>
+    <controlfield tag="008">231013||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">568101-7</subfield>
+      <subfield code="d">Sol 1</subfield>
+      <subfield code="k">NRW</subfield>
+      <subfield code="l">b</subfield>
+      <subfield code="o">d</subfield>
+      <subfield code="y">wk</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">EX 1736</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-Sol1</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2015</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">2.1\x</subfield>
+      <subfield code="i">2016</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">2015,He./Wi.; 2016,Frü./So.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">494288493</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20220527231403.0</controlfield>
+    <controlfield tag="008">101125||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-602)22575794730002884</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">150000-4</subfield>
+      <subfield code="d">B 170</subfield>
+      <subfield code="k">BER</subfield>
+      <subfield code="l">b</subfield>
+      <subfield code="o">d</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">ZZ 1089</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="852">
+      <subfield code="b">Zeitschriftenfreihandmagazin Design</subfield>
+      <subfield code="9">09</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-B170</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="i">2006</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">2.1\x</subfield>
+      <subfield code="i">2009</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="859">
+      <subfield code="8">2.2\x</subfield>
+      <subfield code="i">2010</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">3.1\x</subfield>
+      <subfield code="i">2013</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="859">
+      <subfield code="8">3.2\x</subfield>
+      <subfield code="i">2017</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">2006,Frü.; 2009 - 2010; 2013,Frü. - 2017,Frü</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">618039430</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20240131213100.0</controlfield>
+    <controlfield tag="008">190424||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">708266-6</subfield>
+      <subfield code="d">Stg 266</subfield>
+      <subfield code="k">BAW</subfield>
+      <subfield code="l">b</subfield>
+      <subfield code="o">d</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="852">
+      <subfield code="=">n</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="2" tag="852">
+      <subfield code="b">Modezeitschriften</subfield>
+      <subfield code="9">09</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-Stg266</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="z">[L=2019 Juli]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="866">
+      <subfield code="z">Final Edition</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+</collection></recordData><recordPosition>19</recordPosition></record><record><recordSchema>MARC21plus-xml</recordSchema><recordPacking>xml</recordPacking><recordData><collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record type="Bibliographic">
+    <leader>00000nas a2200000 c 4500</leader>
+    <controlfield tag="001">980322251</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20171201193516.0</controlfield>
+    <controlfield tag="007">tu</controlfield>
+    <controlfield tag="008">060629d19581958gw u||p|  ||| 0||||1ger c</controlfield>
+    <datafield ind1=" " ind2=" " tag="015">
+      <subfield code="a">04,F01</subfield>
+      <subfield code="2">dnb</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="2">DE-600</subfield>
+      <subfield code="a">2326035-X</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="2">DE-101</subfield>
+      <subfield code="a">980322251</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DE-599)ZDB2326035-X</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(OCoLC)723559080</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">2002</subfield>
+      <subfield code="b">ger</subfield>
+      <subfield code="c">DE-101</subfield>
+      <subfield code="d">9999</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="041">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">zdb</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="044">
+      <subfield code="c">XA-DE</subfield>
+    </datafield>
+    <datafield ind1="7" ind2="4" tag="082">
+      <subfield code="a">050</subfield>
+      <subfield code="q">DE-600</subfield>
+      <subfield code="2">22sdnb</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="245">
+      <subfield code="a">Länder-Branchen-Adressbuch für die Bundesländer Deutschlands</subfield>
+      <subfield code="b">Industrie, Handel, Gewerbe</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="1" tag="264">
+      <subfield code="a">Darmstadt</subfield>
+      <subfield code="b">Allg. Adressbuchverl. Honisch</subfield>
+      <subfield code="c">1958-1958</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="362">
+      <subfield code="a">4.1958/59(1958); damit Ersch. eingest.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="363">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="a">4</subfield>
+      <subfield code="i">1958/59</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="0">(DE-588)4067488-5</subfield>
+      <subfield code="0">https://d-nb.info/gnd/4067488-5</subfield>
+      <subfield code="0">(DE-101)040674886</subfield>
+      <subfield code="a">Zeitschrift</subfield>
+      <subfield code="2">gnd-content</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="780">
+      <subfield code="i">Vorg.:</subfield>
+      <subfield code="t">Deutsches Firmenadressbuch für die Bundesrepublik Deutschland</subfield>
+      <subfield code="d">Frankfurt, M. : [Verlag nicht ermittelbar], 1957-1958</subfield>
+      <subfield code="w">(DE-600)956570-X</subfield>
+      <subfield code="w">(DE-101)010053573</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="785">
+      <subfield code="t">Forts. bildet: Allgemeines Firmen-Adressbuch für die Bundesrepublik Deutschland</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="850">
+      <subfield code="a">DE-101b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="889">
+      <subfield code="w">(DE-101)980322251</subfield>
+    </datafield>
+  </record>
+
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">117443794</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20190719203802.0</controlfield>
+    <controlfield tag="008">060629||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">600100-2</subfield>
+      <subfield code="d">101b</subfield>
+      <subfield code="k">HES</subfield>
+      <subfield code="l">a</subfield>
+      <subfield code="o">b</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="541">
+      <subfield code="e">F-1958-117443794</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="8">1</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">DZb 5673</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-101b</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="a">4</subfield>
+      <subfield code="i">1958/59</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">4.1958/59(1958)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+  <record type="Holdings">
+    <leader>00000ny  a22000003n 4500</leader>
+    <controlfield tag="001">1025999533</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20231011104406.0</controlfield>
+    <controlfield tag="008">231011||||||||||||||||ger|||||||</controlfield>
+    <datafield ind1=" " ind2=" " tag="092">
+      <subfield code="a">568101-7</subfield>
+      <subfield code="d">Sol 1</subfield>
+      <subfield code="k">NRW</subfield>
+      <subfield code="l">b</subfield>
+      <subfield code="o">d</subfield>
+      <subfield code="y">wk</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="852">
+      <subfield code="c">III Y 10</subfield>
+      <subfield code="9">00</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">DE-Sol1</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="859">
+      <subfield code="8">1.1\x</subfield>
+      <subfield code="a">4</subfield>
+      <subfield code="i">1958/59</subfield>
+    </datafield>
+    <datafield ind1="3" ind2="0" tag="866">
+      <subfield code="a">4.1958/59(1959)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="933">
+      <subfield code="a">CC0</subfield>
+    </datafield>
+  </record>
+</collection></recordData><recordPosition>20</recordPosition></record></records><nextRecordPosition>21</nextRecordPosition><echoedSearchRetrieveRequest><version>1.1</version><query>dnb.isil=DE-Sol1</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><startRecord>16</startRecord><maximumRecords>5</maximumRecords><recordSchema>MARC21plus-xml</recordSchema></echoedSearchRetrieveRequest></searchRetrieveResponse></harvest>
