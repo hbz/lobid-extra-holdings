@@ -6,7 +6,7 @@ default outfile2="test/output/sol1Holding_sru.tsv";
 
 infile
 | open-file
-| decode-xml(totalEntitySizeLimit="0")
+| decode-xml
 | handle-marcxml
 | fix(
 	"do list(path:'0167 ', 'var':'$i')
