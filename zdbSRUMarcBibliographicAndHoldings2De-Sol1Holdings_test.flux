@@ -38,10 +38,7 @@ FLUX_DIR + outfile
 | open-file
 | as-records
 | decode-json(recordPath="*")
-| fix("	to_json('hasItem[]')
-	move_field('hasItem[]','holdings')
-	retain('id','holdings')"
-)
+| fix(FLUX_DIR + "prepareHoldingForLobidLookupTsv.fix") 
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
 | write(FLUX_DIR + outfile2)
 ;
