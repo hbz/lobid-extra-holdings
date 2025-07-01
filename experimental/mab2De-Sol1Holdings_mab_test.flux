@@ -11,7 +11,7 @@ infile
 | fix(FLUX_DIR + "mab2De-Sol1Holdings_mab.fix") // creates holding information for ME records, currently metadata from ML records are not used.
 | change-id(idliteral="almaMmsId")
 | merge-same-ids  // merge records that belong to the same MMS ID.
-| fix(FLUX_DIR + "combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
+| fix(FLUX_DIR + "combineHoldingsIntoHasItems_mab.fix") // combine holding information in one hasItem statement.
 | encode-json(prettyPrinting="true")
 | write(FLUX_DIR + outfile, header="[",footer="]", separator=",")
 ;
