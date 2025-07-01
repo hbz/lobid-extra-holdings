@@ -1,6 +1,4 @@
 default infile="test/input/sru_records_and_holdings.xml";
-default outfile="test/output/sol1Holding_sru.json";
-default outfile2="test/output/sol1Holding_sru.tsv";
 
 //Create mapping file of almaMmsIds:
 
@@ -8,17 +6,7 @@ infile
 | open-file
 | decode-xml
 | handle-marcxml
-| fix(
-	"do list(path:'0167 ', 'var':'$i')
-		if any_match('$i.2','DE-600')
-			copy_field('$i.a','zdblobidLink')
-		end
-	end
-	prepend('zdblobidLink','https://lobid.org/resources/')
-	unless exists('zdblobidLink')
-		reject()
-	end
-	retain('zdblobidLink')")
+| fix(FLUX_DIR + "zdbSru2LobidLink.fix")
 | literal-to-object
 | open-http(accept="application/json")
 | as-records
