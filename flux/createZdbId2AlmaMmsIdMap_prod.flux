@@ -6,10 +6,11 @@
 | handle-marcxml
 | fix(FLUX_DIR + "../fix/zdbSru2LobidLink.fix")
 | literal-to-object
-| open-http(accept="application/json")
+| open-http(accept="application/json", header="User-Agent: lobid-extra-holdings for DE-Sol1 with Metafacture")
 | as-records
 | decode-json
-| fix("retain('almaMmsId','zdbId')") 
+| fix("retain('almaMmsId','zdbId')")
+| batch-log(batchsize="1000")
 | encode-csv(noQuotes="true",separator="\t")
 | write("prod/map/almaMmsId2ZdbId.tsv")
 ;
