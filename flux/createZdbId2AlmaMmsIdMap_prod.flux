@@ -11,6 +11,6 @@
 | decode-json
 | fix("retain('almaMmsId','zdbId')") 
 | encode-csv(noQuotes="true",separator="\t")
-| write("prod/map/almaMmsId2zdbId.tsv")
+| write("prod/map/almaMmsId2ZdbId.tsv")
 ;
 
