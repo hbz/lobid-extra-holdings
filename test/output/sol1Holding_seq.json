@@ -1,5 +1,5 @@
 [{
-  "id" : "990110477260206441",
+  "id" : "https://lobid.org/resources/990110477260206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477260206441:DE-Sol1:HBZ60037868936-000010#!",
     "label" : "lobid Bestandsressource",
@@ -16,7 +16,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477270206441",
+  "id" : "https://lobid.org/resources/990110477270206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477270206441:DE-Sol1:HBZ60037868945-000010#!",
     "label" : "lobid Bestandsressource",
@@ -33,7 +33,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477280206441",
+  "id" : "https://lobid.org/resources/990110477280206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477280206441:DE-Sol1:HBZ60037868958-000010#!",
     "label" : "lobid Bestandsressource",
@@ -50,7 +50,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477380206441",
+  "id" : "https://lobid.org/resources/990110477380206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477380206441:DE-Sol1:HBZ60037868969-000010#!",
     "label" : "lobid Bestandsressource",
@@ -67,7 +67,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477410206441",
+  "id" : "https://lobid.org/resources/990110477410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477410206441:DE-Sol1:HBZ60037868972-000010#!",
     "label" : "lobid Bestandsressource",
@@ -84,7 +84,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477440206441",
+  "id" : "https://lobid.org/resources/990110477440206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477440206441:DE-Sol1:HBZ60037868975-000010#!",
     "label" : "lobid Bestandsressource",
@@ -101,7 +101,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477450206441",
+  "id" : "https://lobid.org/resources/990110477450206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477450206441:DE-Sol1:HBZ60037868980-000010#!",
     "label" : "lobid Bestandsressource",
@@ -118,7 +118,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477460206441",
+  "id" : "https://lobid.org/resources/990110477460206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477460206441:DE-Sol1:HBZ60037868987-000010#!",
     "label" : "lobid Bestandsressource",
@@ -135,7 +135,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477470206441",
+  "id" : "https://lobid.org/resources/990110477470206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477470206441:DE-Sol1:HBZ60037868996-000010#!",
     "label" : "lobid Bestandsressource",
@@ -152,7 +152,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477480206441",
+  "id" : "https://lobid.org/resources/990110477480206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477480206441:DE-Sol1:HBZ60037869300-000010#!",
     "label" : "lobid Bestandsressource",
@@ -169,7 +169,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477490206441",
+  "id" : "https://lobid.org/resources/990110477490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477490206441:DE-Sol1:HBZ60037869014-000010#!",
     "label" : "lobid Bestandsressource",
@@ -186,7 +186,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477500206441",
+  "id" : "https://lobid.org/resources/990110477500206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477500206441:DE-Sol1:HBZ60037869063-000010#!",
     "label" : "lobid Bestandsressource",
@@ -203,7 +203,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477510206441",
+  "id" : "https://lobid.org/resources/990110477510206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477510206441:DE-Sol1:HBZ60037868885-000010#!",
     "label" : "lobid Bestandsressource",
@@ -220,7 +220,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477530206441",
+  "id" : "https://lobid.org/resources/990110477530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477530206441:DE-Sol1:HBZ60037869070-000010#!",
     "label" : "lobid Bestandsressource",
@@ -237,7 +237,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477540206441",
+  "id" : "https://lobid.org/resources/990110477540206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477540206441:DE-Sol1:HBZ60037869074-000010#!",
     "label" : "lobid Bestandsressource",
@@ -254,7 +254,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477550206441",
+  "id" : "https://lobid.org/resources/990110477550206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477550206441:DE-Sol1:HBZ60037869077-000010#!",
     "label" : "lobid Bestandsressource",
@@ -271,7 +271,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477560206441",
+  "id" : "https://lobid.org/resources/990110477560206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477560206441:DE-Sol1:HBZ60037869083-000010#!",
     "label" : "lobid Bestandsressource",
@@ -288,7 +288,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477570206441",
+  "id" : "https://lobid.org/resources/990110477570206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477570206441:DE-Sol1:HBZ60037869090-000010#!",
     "label" : "lobid Bestandsressource",
@@ -305,7 +305,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477640206441",
+  "id" : "https://lobid.org/resources/990110477640206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477640206441:DE-Sol1:HBZ60037869099-000010#!",
     "label" : "lobid Bestandsressource",
@@ -322,7 +322,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477680206441",
+  "id" : "https://lobid.org/resources/990110477680206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477680206441:DE-Sol1:HBZ60037869102-000010#!",
     "label" : "lobid Bestandsressource",
@@ -339,7 +339,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477710206441",
+  "id" : "https://lobid.org/resources/990110477710206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477710206441:DE-Sol1:HBZ60037869105-000010#!",
     "label" : "lobid Bestandsressource",
@@ -356,7 +356,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477720206441",
+  "id" : "https://lobid.org/resources/990110477720206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477720206441:DE-Sol1:HBZ60037869131-000010#!",
     "label" : "lobid Bestandsressource",
@@ -373,7 +373,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477750206441",
+  "id" : "https://lobid.org/resources/990110477750206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477750206441:DE-Sol1:HBZ60037869138-000010#!",
     "label" : "lobid Bestandsressource",
@@ -390,7 +390,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477840206441",
+  "id" : "https://lobid.org/resources/990110477840206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477840206441:DE-Sol1:HBZ60037869151-000010#!",
     "label" : "lobid Bestandsressource",
@@ -407,7 +407,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110477990206441",
+  "id" : "https://lobid.org/resources/990110477990206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110477990206441:DE-Sol1:HBZ60036393041-000010#!",
     "label" : "lobid Bestandsressource",
@@ -424,7 +424,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478000206441",
+  "id" : "https://lobid.org/resources/990110478000206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478000206441:DE-Sol1:HBZ60036393044-000010#!",
     "label" : "lobid Bestandsressource",
@@ -441,7 +441,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478010206441",
+  "id" : "https://lobid.org/resources/990110478010206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478010206441:DE-Sol1:HBZ60036393049-000010#!",
     "label" : "lobid Bestandsressource",
@@ -458,7 +458,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478050206441",
+  "id" : "https://lobid.org/resources/990110478050206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478050206441:DE-Sol1:HBZ60036393052-000010#!",
     "label" : "lobid Bestandsressource",
@@ -475,7 +475,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478060206441",
+  "id" : "https://lobid.org/resources/990110478060206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478060206441:DE-Sol1:HBZ60036393054-000010#!",
     "label" : "lobid Bestandsressource",
@@ -492,7 +492,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478090206441",
+  "id" : "https://lobid.org/resources/990110478090206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478090206441:DE-Sol1:HBZ60036393056-000010#!",
     "label" : "lobid Bestandsressource",
@@ -509,7 +509,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478140206441",
+  "id" : "https://lobid.org/resources/990110478140206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478140206441:DE-Sol1:HBZ60036393058-000010#!",
     "label" : "lobid Bestandsressource",
@@ -526,7 +526,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478150206441",
+  "id" : "https://lobid.org/resources/990110478150206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478150206441:DE-Sol1:HBZ60036393062-000010#!",
     "label" : "lobid Bestandsressource",
@@ -543,7 +543,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478190206441",
+  "id" : "https://lobid.org/resources/990110478190206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478190206441:DE-Sol1:HBZ60036393068-000010#!",
     "label" : "lobid Bestandsressource",
@@ -560,7 +560,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478200206441",
+  "id" : "https://lobid.org/resources/990110478200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478200206441:DE-Sol1:HBZ60036393071-000010#!",
     "label" : "lobid Bestandsressource",
@@ -577,7 +577,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478210206441",
+  "id" : "https://lobid.org/resources/990110478210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478210206441:DE-Sol1:HBZ60036393075-000010#!",
     "label" : "lobid Bestandsressource",
@@ -594,7 +594,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478220206441",
+  "id" : "https://lobid.org/resources/990110478220206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478220206441:DE-Sol1:HBZ60036393196-000010#!",
     "label" : "lobid Bestandsressource",
@@ -611,7 +611,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478230206441",
+  "id" : "https://lobid.org/resources/990110478230206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478230206441:DE-Sol1:HBZ60036393200-000010#!",
     "label" : "lobid Bestandsressource",
@@ -628,7 +628,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478240206441",
+  "id" : "https://lobid.org/resources/990110478240206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478240206441:DE-Sol1:HBZ60036393217-000010#!",
     "label" : "lobid Bestandsressource",
@@ -645,7 +645,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478260206441",
+  "id" : "https://lobid.org/resources/990110478260206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478260206441:DE-Sol1:HBZ60036393220-000010#!",
     "label" : "lobid Bestandsressource",
@@ -662,7 +662,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478270206441",
+  "id" : "https://lobid.org/resources/990110478270206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478270206441:DE-Sol1:HBZ60036393226-000010#!",
     "label" : "lobid Bestandsressource",
@@ -679,7 +679,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478280206441",
+  "id" : "https://lobid.org/resources/990110478280206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478280206441:DE-Sol1:HBZ60036393230-000010#!",
     "label" : "lobid Bestandsressource",
@@ -696,7 +696,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478290206441",
+  "id" : "https://lobid.org/resources/990110478290206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478290206441:DE-Sol1:HBZ60036393231-000010#!",
     "label" : "lobid Bestandsressource",
@@ -713,7 +713,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478300206441",
+  "id" : "https://lobid.org/resources/990110478300206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478300206441:DE-Sol1:HBZ60036393234-000010#!",
     "label" : "lobid Bestandsressource",
@@ -730,7 +730,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478320206441",
+  "id" : "https://lobid.org/resources/990110478320206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478320206441:DE-Sol1:HBZ60036393236-000010#!",
     "label" : "lobid Bestandsressource",
@@ -747,7 +747,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478330206441",
+  "id" : "https://lobid.org/resources/990110478330206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478330206441:DE-Sol1:HBZ60036393257-000010#!",
     "label" : "lobid Bestandsressource",
@@ -764,7 +764,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478340206441",
+  "id" : "https://lobid.org/resources/990110478340206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478340206441:DE-Sol1:HBZ60036393259-000010#!",
     "label" : "lobid Bestandsressource",
@@ -781,7 +781,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478350206441",
+  "id" : "https://lobid.org/resources/990110478350206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478350206441:DE-Sol1:HBZ60036393264-000010#!",
     "label" : "lobid Bestandsressource",
@@ -798,7 +798,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478360206441",
+  "id" : "https://lobid.org/resources/990110478360206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478360206441:DE-Sol1:HBZ60036393268-000010#!",
     "label" : "lobid Bestandsressource",
@@ -815,7 +815,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478400206441",
+  "id" : "https://lobid.org/resources/990110478400206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478400206441:DE-Sol1:HBZ60036393273-000010#!",
     "label" : "lobid Bestandsressource",
@@ -832,7 +832,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478410206441",
+  "id" : "https://lobid.org/resources/990110478410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478410206441:DE-Sol1:HBZ60036393539-000010#!",
     "label" : "lobid Bestandsressource",
@@ -849,7 +849,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478470206441",
+  "id" : "https://lobid.org/resources/990110478470206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478470206441:DE-Sol1:HBZ60036393624-000010#!",
     "label" : "lobid Bestandsressource",
@@ -866,7 +866,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478480206441",
+  "id" : "https://lobid.org/resources/990110478480206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478480206441:DE-Sol1:HBZ60036393628-000010#!",
     "label" : "lobid Bestandsressource",
@@ -883,7 +883,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478490206441",
+  "id" : "https://lobid.org/resources/990110478490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478490206441:DE-Sol1:HBZ60036393639-000010#!",
     "label" : "lobid Bestandsressource",
@@ -900,7 +900,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478510206441",
+  "id" : "https://lobid.org/resources/990110478510206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478510206441:DE-Sol1:HBZ60036393643-000010#!",
     "label" : "lobid Bestandsressource",
@@ -917,7 +917,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478520206441",
+  "id" : "https://lobid.org/resources/990110478520206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478520206441:DE-Sol1:HBZ60036393647-000010#!",
     "label" : "lobid Bestandsressource",
@@ -934,7 +934,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478530206441",
+  "id" : "https://lobid.org/resources/990110478530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478530206441:DE-Sol1:HBZ60036393650-000010#!",
     "label" : "lobid Bestandsressource",
@@ -951,7 +951,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478540206441",
+  "id" : "https://lobid.org/resources/990110478540206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478540206441:DE-Sol1:HBZ60036393660-000010#!",
     "label" : "lobid Bestandsressource",
@@ -968,7 +968,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478560206441",
+  "id" : "https://lobid.org/resources/990110478560206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478560206441:DE-Sol1:HBZ60036393666-000010#!",
     "label" : "lobid Bestandsressource",
@@ -985,7 +985,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478570206441",
+  "id" : "https://lobid.org/resources/990110478570206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478570206441:DE-Sol1:HBZ60036393670-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1002,7 +1002,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478590206441",
+  "id" : "https://lobid.org/resources/990110478590206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478590206441:DE-Sol1:HBZ60036393677-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1019,7 +1019,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478600206441",
+  "id" : "https://lobid.org/resources/990110478600206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478600206441:DE-Sol1:HBZ60036393680-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1036,7 +1036,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478610206441",
+  "id" : "https://lobid.org/resources/990110478610206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478610206441:DE-Sol1:HBZ60036393688-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1053,7 +1053,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478620206441",
+  "id" : "https://lobid.org/resources/990110478620206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478620206441:DE-Sol1:HBZ60036393693-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1070,7 +1070,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478630206441",
+  "id" : "https://lobid.org/resources/990110478630206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478630206441:DE-Sol1:HBZ60036393697-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1087,7 +1087,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478640206441",
+  "id" : "https://lobid.org/resources/990110478640206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478640206441:DE-Sol1:HBZ60036393703-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1104,7 +1104,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478650206441",
+  "id" : "https://lobid.org/resources/990110478650206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478650206441:DE-Sol1:HBZ60036393708-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1121,7 +1121,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478660206441",
+  "id" : "https://lobid.org/resources/990110478660206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478660206441:DE-Sol1:HBZ60036393712-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1138,7 +1138,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478750206441",
+  "id" : "https://lobid.org/resources/990110478750206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478750206441:DE-Sol1:HBZ60036393718-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1155,7 +1155,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478760206441",
+  "id" : "https://lobid.org/resources/990110478760206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478760206441:DE-Sol1:HBZ60036393724-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1172,7 +1172,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478770206441",
+  "id" : "https://lobid.org/resources/990110478770206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478770206441:DE-Sol1:HBZ60036393729-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1189,7 +1189,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478780206441",
+  "id" : "https://lobid.org/resources/990110478780206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478780206441:DE-Sol1:HBZ60036393732-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1206,7 +1206,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478790206441",
+  "id" : "https://lobid.org/resources/990110478790206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478790206441:DE-Sol1:HBZ60036393738-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1223,7 +1223,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478800206441",
+  "id" : "https://lobid.org/resources/990110478800206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478800206441:DE-Sol1:HBZ60036393742-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1240,7 +1240,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110478810206441",
+  "id" : "https://lobid.org/resources/990110478810206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110478810206441:DE-Sol1:HBZ60036393745-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1257,7 +1257,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479520206441",
+  "id" : "https://lobid.org/resources/990110479520206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479520206441:DE-Sol1:HBZ60035064783-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1274,7 +1274,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479530206441",
+  "id" : "https://lobid.org/resources/990110479530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479530206441:DE-Sol1:HBZ60035064778-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1291,7 +1291,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479540206441",
+  "id" : "https://lobid.org/resources/990110479540206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479540206441:DE-Sol1:HBZ60035064774-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1308,7 +1308,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479550206441",
+  "id" : "https://lobid.org/resources/990110479550206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479550206441:DE-Sol1:HBZ60035064769-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1325,7 +1325,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479610206441",
+  "id" : "https://lobid.org/resources/990110479610206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479610206441:DE-Sol1:HBZ60035064764-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1342,7 +1342,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479670206441",
+  "id" : "https://lobid.org/resources/990110479670206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479670206441:DE-Sol1:HBZ60037869250-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1359,7 +1359,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479690206441",
+  "id" : "https://lobid.org/resources/990110479690206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479690206441:DE-Sol1:HBZ60037869258-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1376,7 +1376,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479700206441",
+  "id" : "https://lobid.org/resources/990110479700206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479700206441:DE-Sol1:HBZ60037869265-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1393,7 +1393,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479710206441",
+  "id" : "https://lobid.org/resources/990110479710206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479710206441:DE-Sol1:HBZ60037869278-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1410,7 +1410,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479720206441",
+  "id" : "https://lobid.org/resources/990110479720206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479720206441:DE-Sol1:HBZ60037869284-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1427,7 +1427,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110479730206441",
+  "id" : "https://lobid.org/resources/990110479730206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110479730206441:DE-Sol1:HBZ60037869294-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1444,7 +1444,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110480660206441",
+  "id" : "https://lobid.org/resources/990110480660206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110480660206441:DE-Sol1:HBZ60037615129-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1461,7 +1461,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110480670206441",
+  "id" : "https://lobid.org/resources/990110480670206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110480670206441:DE-Sol1:HBZ60037615122-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1478,7 +1478,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110480680206441",
+  "id" : "https://lobid.org/resources/990110480680206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110480680206441:DE-Sol1:HBZ60037615113-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1495,7 +1495,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110480690206441",
+  "id" : "https://lobid.org/resources/990110480690206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110480690206441:DE-Sol1:HBZ60037615164-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1512,7 +1512,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110480740206441",
+  "id" : "https://lobid.org/resources/990110480740206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110480740206441:DE-Sol1:HBZ60037615183-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1529,7 +1529,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110482040206441",
+  "id" : "https://lobid.org/resources/990110482040206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110482040206441:DE-Sol1:ZDB50011048204-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1547,7 +1547,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110483850206441",
+  "id" : "https://lobid.org/resources/990110483850206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110483850206441:DE-Sol1:HBZ60037869214-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1564,7 +1564,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110486260206441",
+  "id" : "https://lobid.org/resources/990110486260206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110486260206441:DE-Sol1:HBZ60037868892-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1581,7 +1581,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110486270206441",
+  "id" : "https://lobid.org/resources/990110486270206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110486270206441:DE-Sol1:HBZ60037868902-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1598,7 +1598,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110486280206441",
+  "id" : "https://lobid.org/resources/990110486280206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110486280206441:DE-Sol1:HBZ60037868911-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1615,7 +1615,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110486320206441",
+  "id" : "https://lobid.org/resources/990110486320206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110486320206441:DE-Sol1:HBZ60037868918-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1632,7 +1632,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110486330206441",
+  "id" : "https://lobid.org/resources/990110486330206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110486330206441:DE-Sol1:HBZ60037868926-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1649,7 +1649,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110486750206441",
+  "id" : "https://lobid.org/resources/990110486750206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110486750206441:DE-Sol1:ZDB50011048675-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1681,7 +1681,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488020206441",
+  "id" : "https://lobid.org/resources/990110488020206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488020206441:DE-Sol1:HBZ60037869028-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1698,7 +1698,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488040206441",
+  "id" : "https://lobid.org/resources/990110488040206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488040206441:DE-Sol1:HBZ60037869039-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1715,7 +1715,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488050206441",
+  "id" : "https://lobid.org/resources/990110488050206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488050206441:DE-Sol1:HBZ60037869045-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1732,7 +1732,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488060206441",
+  "id" : "https://lobid.org/resources/990110488060206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488060206441:DE-Sol1:HBZ60037869056-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1749,7 +1749,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488090206441",
+  "id" : "https://lobid.org/resources/990110488090206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488090206441:DE-Sol1:HBZ60035021837-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1766,7 +1766,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488110206441",
+  "id" : "https://lobid.org/resources/990110488110206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488110206441:DE-Sol1:HBZ60035021831-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1783,7 +1783,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488130206441",
+  "id" : "https://lobid.org/resources/990110488130206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488130206441:DE-Sol1:HBZ60035021828-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1800,7 +1800,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488140206441",
+  "id" : "https://lobid.org/resources/990110488140206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488140206441:DE-Sol1:HBZ60035021822-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1817,7 +1817,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488810206441",
+  "id" : "https://lobid.org/resources/990110488810206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488810206441:DE-Sol1:HBZ60036074904-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1834,7 +1834,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488830206441",
+  "id" : "https://lobid.org/resources/990110488830206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488830206441:DE-Sol1:HBZ60036074899-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1851,7 +1851,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110488850206441",
+  "id" : "https://lobid.org/resources/990110488850206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110488850206441:DE-Sol1:HBZ60036074892-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1868,7 +1868,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489100206441",
+  "id" : "https://lobid.org/resources/990110489100206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489100206441:DE-Sol1:HBZ60034792402-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1885,7 +1885,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489110206441",
+  "id" : "https://lobid.org/resources/990110489110206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489110206441:DE-Sol1:HBZ60034792396-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1902,7 +1902,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489120206441",
+  "id" : "https://lobid.org/resources/990110489120206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489120206441:DE-Sol1:HBZ60034792408-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1919,7 +1919,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489130206441",
+  "id" : "https://lobid.org/resources/990110489130206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489130206441:DE-Sol1:HBZ60034792414-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1936,7 +1936,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489140206441",
+  "id" : "https://lobid.org/resources/990110489140206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489140206441:DE-Sol1:HBZ60034792432-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1953,7 +1953,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489150206441",
+  "id" : "https://lobid.org/resources/990110489150206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489150206441:DE-Sol1:HBZ60034792440-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1970,7 +1970,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489160206441",
+  "id" : "https://lobid.org/resources/990110489160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489160206441:DE-Sol1:HBZ60034792446-000010#!",
     "label" : "lobid Bestandsressource",
@@ -1987,7 +1987,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489720206441",
+  "id" : "https://lobid.org/resources/990110489720206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489720206441:DE-Sol1:HBZ60037869221-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2004,7 +2004,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489750206441",
+  "id" : "https://lobid.org/resources/990110489750206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489750206441:DE-Sol1:HBZ60037869226-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2021,7 +2021,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489760206441",
+  "id" : "https://lobid.org/resources/990110489760206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489760206441:DE-Sol1:HBZ60037869234-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2038,7 +2038,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489770206441",
+  "id" : "https://lobid.org/resources/990110489770206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489770206441:DE-Sol1:HBZ60037869242-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2055,7 +2055,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110489830206441",
+  "id" : "https://lobid.org/resources/990110489830206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110489830206441:DE-Sol1:ZDB50011048983-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2073,7 +2073,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110490080206441",
+  "id" : "https://lobid.org/resources/990110490080206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110490080206441:DE-Sol1:HBZ60036074880-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2090,7 +2090,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110490090206441",
+  "id" : "https://lobid.org/resources/990110490090206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110490090206441:DE-Sol1:HBZ60036074863-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2107,7 +2107,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110490410206441",
+  "id" : "https://lobid.org/resources/990110490410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110490410206441:DE-Sol1:HBZ60035064756-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2124,7 +2124,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110490420206441",
+  "id" : "https://lobid.org/resources/990110490420206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110490420206441:DE-Sol1:HBZ60035064751-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2141,7 +2141,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110490430206441",
+  "id" : "https://lobid.org/resources/990110490430206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110490430206441:DE-Sol1:HBZ60035064749-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2158,7 +2158,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110491110206441",
+  "id" : "https://lobid.org/resources/990110491110206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110491110206441:DE-Sol1:HBZ60035064801-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2175,7 +2175,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110491120206441",
+  "id" : "https://lobid.org/resources/990110491120206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110491120206441:DE-Sol1:HBZ60035064804-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2192,7 +2192,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110491130206441",
+  "id" : "https://lobid.org/resources/990110491130206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110491130206441:DE-Sol1:HBZ60035064811-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2209,7 +2209,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110491140206441",
+  "id" : "https://lobid.org/resources/990110491140206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110491140206441:DE-Sol1:HBZ60035064835-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2226,7 +2226,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110491150206441",
+  "id" : "https://lobid.org/resources/990110491150206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110491150206441:DE-Sol1:HBZ60035064814-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2243,7 +2243,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110491420206441",
+  "id" : "https://lobid.org/resources/990110491420206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110491420206441:DE-Sol1:HBZ60036074914-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2260,7 +2260,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110493030206441",
+  "id" : "https://lobid.org/resources/990110493030206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110493030206441:DE-Sol1:HBZ60036074908-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2277,7 +2277,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110493040206441",
+  "id" : "https://lobid.org/resources/990110493040206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110493040206441:DE-Sol1:HBZ60035064791-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2294,7 +2294,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110493050206441",
+  "id" : "https://lobid.org/resources/990110493050206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110493050206441:DE-Sol1:HBZ60035064788-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2311,7 +2311,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110493380206441",
+  "id" : "https://lobid.org/resources/990110493380206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110493380206441:DE-Sol1:HBZ60037869172-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2328,7 +2328,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110493570206441",
+  "id" : "https://lobid.org/resources/990110493570206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110493570206441:DE-Sol1:HBZ60037869183-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2345,7 +2345,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110493590206441",
+  "id" : "https://lobid.org/resources/990110493590206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110493590206441:DE-Sol1:HBZ60037869188-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2362,7 +2362,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110493600206441",
+  "id" : "https://lobid.org/resources/990110493600206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110493600206441:DE-Sol1:HBZ60037869195-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2379,7 +2379,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110493630206441",
+  "id" : "https://lobid.org/resources/990110493630206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110493630206441:DE-Sol1:HBZ60037869199-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2396,7 +2396,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110493680206441",
+  "id" : "https://lobid.org/resources/990110493680206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110493680206441:DE-Sol1:HBZ60037869206-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2413,7 +2413,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494120206441",
+  "id" : "https://lobid.org/resources/990110494120206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494120206441:DE-Sol1:HBZ60034718857-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2430,7 +2430,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494170206441",
+  "id" : "https://lobid.org/resources/990110494170206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494170206441:DE-Sol1:HBZ60039333184-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2447,7 +2447,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494190206441",
+  "id" : "https://lobid.org/resources/990110494190206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494190206441:DE-Sol1:HBZ60039333242-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2464,7 +2464,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494210206441",
+  "id" : "https://lobid.org/resources/990110494210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494210206441:DE-Sol1:HBZ60039333253-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2481,7 +2481,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494230206441",
+  "id" : "https://lobid.org/resources/990110494230206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494230206441:DE-Sol1:HBZ60039333265-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2498,7 +2498,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494250206441",
+  "id" : "https://lobid.org/resources/990110494250206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494250206441:DE-Sol1:HBZ60039333274-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2515,7 +2515,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494270206441",
+  "id" : "https://lobid.org/resources/990110494270206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494270206441:DE-Sol1:HBZ60039333566-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2532,7 +2532,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494290206441",
+  "id" : "https://lobid.org/resources/990110494290206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494290206441:DE-Sol1:HBZ60039333290-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2549,7 +2549,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494300206441",
+  "id" : "https://lobid.org/resources/990110494300206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494300206441:DE-Sol1:HBZ60039333307-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2566,7 +2566,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494310206441",
+  "id" : "https://lobid.org/resources/990110494310206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494310206441:DE-Sol1:HBZ60039333336-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2583,7 +2583,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494320206441",
+  "id" : "https://lobid.org/resources/990110494320206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494320206441:DE-Sol1:HBZ60039333359-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2600,7 +2600,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494370206441",
+  "id" : "https://lobid.org/resources/990110494370206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494370206441:DE-Sol1:HBZ60039333370-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2617,7 +2617,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494380206441",
+  "id" : "https://lobid.org/resources/990110494380206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494380206441:DE-Sol1:HBZ60039333386-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2634,7 +2634,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494400206441",
+  "id" : "https://lobid.org/resources/990110494400206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494400206441:DE-Sol1:HBZ60039333402-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2651,7 +2651,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494410206441",
+  "id" : "https://lobid.org/resources/990110494410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494410206441:DE-Sol1:HBZ60039333416-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2668,7 +2668,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494420206441",
+  "id" : "https://lobid.org/resources/990110494420206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494420206441:DE-Sol1:HBZ60039333426-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2685,7 +2685,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494450206441",
+  "id" : "https://lobid.org/resources/990110494450206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494450206441:DE-Sol1:HBZ60039333436-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2702,7 +2702,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494470206441",
+  "id" : "https://lobid.org/resources/990110494470206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494470206441:DE-Sol1:HBZ60039333443-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2719,7 +2719,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494490206441",
+  "id" : "https://lobid.org/resources/990110494490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494490206441:DE-Sol1:HBZ60039333457-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2736,7 +2736,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494520206441",
+  "id" : "https://lobid.org/resources/990110494520206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494520206441:DE-Sol1:HBZ60039333465-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2753,7 +2753,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494530206441",
+  "id" : "https://lobid.org/resources/990110494530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494530206441:DE-Sol1:HBZ60039333479-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2770,7 +2770,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494550206441",
+  "id" : "https://lobid.org/resources/990110494550206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494550206441:DE-Sol1:HBZ60039333500-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2787,7 +2787,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494570206441",
+  "id" : "https://lobid.org/resources/990110494570206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494570206441:DE-Sol1:HBZ60039333517-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2804,7 +2804,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494590206441",
+  "id" : "https://lobid.org/resources/990110494590206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494590206441:DE-Sol1:HBZ60039333528-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2821,7 +2821,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494600206441",
+  "id" : "https://lobid.org/resources/990110494600206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494600206441:DE-Sol1:HBZ60039333554-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2838,7 +2838,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494610206441",
+  "id" : "https://lobid.org/resources/990110494610206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494610206441:DE-Sol1:HBZ60034718623-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2855,7 +2855,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110494640206441",
+  "id" : "https://lobid.org/resources/990110494640206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110494640206441:DE-Sol1:HBZ60034718642-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2872,7 +2872,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110495050206441",
+  "id" : "https://lobid.org/resources/990110495050206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110495050206441:DE-Sol1:HBZ60037615188-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2889,7 +2889,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110495080206441",
+  "id" : "https://lobid.org/resources/990110495080206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110495080206441:DE-Sol1:HBZ60037615269-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2906,7 +2906,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110495100206441",
+  "id" : "https://lobid.org/resources/990110495100206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110495100206441:DE-Sol1:HBZ60037615283-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2923,7 +2923,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110495130206441",
+  "id" : "https://lobid.org/resources/990110495130206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110495130206441:DE-Sol1:HBZ60037615329-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2940,7 +2940,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110495210206441",
+  "id" : "https://lobid.org/resources/990110495210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110495210206441:DE-Sol1:HBZ60037615339-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2957,7 +2957,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110495240206441",
+  "id" : "https://lobid.org/resources/990110495240206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110495240206441:DE-Sol1:HBZ60037615090-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2974,7 +2974,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110495530206441",
+  "id" : "https://lobid.org/resources/990110495530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110495530206441:DE-Sol1:HBZ60035084005-000010#!",
     "label" : "lobid Bestandsressource",
@@ -2991,7 +2991,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110495590206441",
+  "id" : "https://lobid.org/resources/990110495590206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110495590206441:DE-Sol1:HBZ60037615101-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3008,7 +3008,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110496340206441",
+  "id" : "https://lobid.org/resources/990110496340206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110496340206441:DE-Sol1:HBZ60035021847-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3025,7 +3025,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110496350206441",
+  "id" : "https://lobid.org/resources/990110496350206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110496350206441:DE-Sol1:HBZ60035021843-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3042,7 +3042,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110497490206441",
+  "id" : "https://lobid.org/resources/990110497490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110497490206441:DE-Sol1:HBZ60035252310-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3059,7 +3059,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110497500206441",
+  "id" : "https://lobid.org/resources/990110497500206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110497500206441:DE-Sol1:HBZ60035252290-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3076,7 +3076,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110497510206441",
+  "id" : "https://lobid.org/resources/990110497510206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110497510206441:DE-Sol1:HBZ60035252296-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3093,7 +3093,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110497520206441",
+  "id" : "https://lobid.org/resources/990110497520206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110497520206441:DE-Sol1:HBZ60035252300-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3110,7 +3110,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110497540206441",
+  "id" : "https://lobid.org/resources/990110497540206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110497540206441:DE-Sol1:HBZ60035252307-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3127,7 +3127,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110497850206441",
+  "id" : "https://lobid.org/resources/990110497850206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110497850206441:DE-Sol1:HBZ60035070878-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3144,7 +3144,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110498680206441",
+  "id" : "https://lobid.org/resources/990110498680206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110498680206441:DE-Sol1:HBZ60034718619-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3161,7 +3161,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110498740206441",
+  "id" : "https://lobid.org/resources/990110498740206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110498740206441:DE-Sol1:HBZ60034718638-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3178,7 +3178,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110498840206441",
+  "id" : "https://lobid.org/resources/990110498840206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110498840206441:DE-Sol1:HBZ60034718635-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3195,7 +3195,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110498910206441",
+  "id" : "https://lobid.org/resources/990110498910206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110498910206441:DE-Sol1:HBZ60034718629-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3212,7 +3212,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110499070206441",
+  "id" : "https://lobid.org/resources/990110499070206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110499070206441:DE-Sol1:ZDB50011049907-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3230,7 +3230,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110500190206441",
+  "id" : "https://lobid.org/resources/990110500190206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110500190206441:DE-Sol1:HBZ60035021819-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3247,7 +3247,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110501140206441",
+  "id" : "https://lobid.org/resources/990110501140206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110501140206441:DE-Sol1:HBZ60037868805-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3264,7 +3264,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110501160206441",
+  "id" : "https://lobid.org/resources/990110501160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110501160206441:DE-Sol1:HBZ60037868813-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3281,7 +3281,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110501180206441",
+  "id" : "https://lobid.org/resources/990110501180206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110501180206441:DE-Sol1:HBZ60037868819-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3298,7 +3298,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110501200206441",
+  "id" : "https://lobid.org/resources/990110501200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110501200206441:DE-Sol1:HBZ60037868828-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3315,7 +3315,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110501450206441",
+  "id" : "https://lobid.org/resources/990110501450206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110501450206441:DE-Sol1:HBZ60035064830-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3332,7 +3332,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110501460206441",
+  "id" : "https://lobid.org/resources/990110501460206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110501460206441:DE-Sol1:HBZ60035064826-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3349,7 +3349,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110501470206441",
+  "id" : "https://lobid.org/resources/990110501470206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110501470206441:DE-Sol1:HBZ60035064821-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3366,7 +3366,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110502980206441",
+  "id" : "https://lobid.org/resources/990110502980206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110502980206441:DE-Sol1:ZDB50011050298-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3384,7 +3384,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110504720206441",
+  "id" : "https://lobid.org/resources/990110504720206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110504720206441:DE-Sol1:ZDB50011050472-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3402,7 +3402,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110505140206441",
+  "id" : "https://lobid.org/resources/990110505140206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110505140206441:DE-Sol1:HBZ60036393980-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3419,7 +3419,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110505180206441",
+  "id" : "https://lobid.org/resources/990110505180206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110505180206441:DE-Sol1:HBZ60036393960-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3436,7 +3436,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110505200206441",
+  "id" : "https://lobid.org/resources/990110505200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110505200206441:DE-Sol1:HBZ60036393968-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3453,7 +3453,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110505250206441",
+  "id" : "https://lobid.org/resources/990110505250206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110505250206441:DE-Sol1:HBZ60036393972-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3470,7 +3470,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110505290206441",
+  "id" : "https://lobid.org/resources/990110505290206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110505290206441:DE-Sol1:HBZ60036393883-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3487,7 +3487,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110505300206441",
+  "id" : "https://lobid.org/resources/990110505300206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110505300206441:DE-Sol1:HBZ60036393955-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3504,7 +3504,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110506270206441",
+  "id" : "https://lobid.org/resources/990110506270206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110506270206441:DE-Sol1:HBZ60035326677-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3521,7 +3521,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110506340206441",
+  "id" : "https://lobid.org/resources/990110506340206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110506340206441:DE-Sol1:HBZ60035326865-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3538,7 +3538,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110506750206441",
+  "id" : "https://lobid.org/resources/990110506750206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110506750206441:DE-Sol1:HBZ60039367916-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3555,7 +3555,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110507710206441",
+  "id" : "https://lobid.org/resources/990110507710206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110507710206441:DE-Sol1:HBZ60039367931-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3572,7 +3572,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110507760206441",
+  "id" : "https://lobid.org/resources/990110507760206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110507760206441:DE-Sol1:HBZ60039367902-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3589,7 +3589,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110508190206441",
+  "id" : "https://lobid.org/resources/990110508190206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110508190206441:DE-Sol1:HBZ60039179632-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3606,7 +3606,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110508390206441",
+  "id" : "https://lobid.org/resources/990110508390206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110508390206441:DE-Sol1:HBZ60035103550-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3623,7 +3623,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110508410206441",
+  "id" : "https://lobid.org/resources/990110508410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110508410206441:DE-Sol1:HBZ60037615252-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3640,7 +3640,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110508440206441",
+  "id" : "https://lobid.org/resources/990110508440206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110508440206441:DE-Sol1:HBZ60037615263-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3657,7 +3657,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110508460206441",
+  "id" : "https://lobid.org/resources/990110508460206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110508460206441:DE-Sol1:HBZ60037615349-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3674,7 +3674,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110508490206441",
+  "id" : "https://lobid.org/resources/990110508490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110508490206441:DE-Sol1:HBZ60037615214-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3691,7 +3691,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110508500206441",
+  "id" : "https://lobid.org/resources/990110508500206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110508500206441:DE-Sol1:HBZ60037615200-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3708,7 +3708,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110508780206441",
+  "id" : "https://lobid.org/resources/990110508780206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110508780206441:DE-Sol1:HBZ60039179618-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3725,7 +3725,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110508870206441",
+  "id" : "https://lobid.org/resources/990110508870206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110508870206441:DE-Sol1:HBZ60037615223-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3742,7 +3742,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110509070206441",
+  "id" : "https://lobid.org/resources/990110509070206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110509070206441:DE-Sol1:HBZ60037615192-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3759,7 +3759,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110509790206441",
+  "id" : "https://lobid.org/resources/990110509790206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110509790206441:DE-Sol1:HBZ60034718590-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3776,7 +3776,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110509820206441",
+  "id" : "https://lobid.org/resources/990110509820206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110509820206441:DE-Sol1:HBZ60034718597-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3793,7 +3793,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110509920206441",
+  "id" : "https://lobid.org/resources/990110509920206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110509920206441:DE-Sol1:HBZ60035306511-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3810,7 +3810,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110509960206441",
+  "id" : "https://lobid.org/resources/990110509960206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110509960206441:DE-Sol1:HBZ60035306506-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3827,7 +3827,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110509970206441",
+  "id" : "https://lobid.org/resources/990110509970206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110509970206441:DE-Sol1:HBZ60035306496-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3844,7 +3844,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110510050206441",
+  "id" : "https://lobid.org/resources/990110510050206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110510050206441:DE-Sol1:HBZ60035306536-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3861,7 +3861,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110510060206441",
+  "id" : "https://lobid.org/resources/990110510060206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110510060206441:DE-Sol1:HBZ60035306530-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3878,7 +3878,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110510070206441",
+  "id" : "https://lobid.org/resources/990110510070206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110510070206441:DE-Sol1:HBZ60034718602-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3895,7 +3895,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110510080206441",
+  "id" : "https://lobid.org/resources/990110510080206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110510080206441:DE-Sol1:HBZ60035306502-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3912,7 +3912,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110510090206441",
+  "id" : "https://lobid.org/resources/990110510090206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110510090206441:DE-Sol1:HBZ60035306526-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3929,7 +3929,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110510120206441",
+  "id" : "https://lobid.org/resources/990110510120206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110510120206441:DE-Sol1:HBZ60035306546-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3946,7 +3946,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110510160206441",
+  "id" : "https://lobid.org/resources/990110510160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110510160206441:DE-Sol1:HBZ60035306519-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3963,7 +3963,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110510210206441",
+  "id" : "https://lobid.org/resources/990110510210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110510210206441:DE-Sol1:HBZ60037870044-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3980,7 +3980,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110510230206441",
+  "id" : "https://lobid.org/resources/990110510230206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110510230206441:DE-Sol1:HBZ60037870083-000010#!",
     "label" : "lobid Bestandsressource",
@@ -3997,7 +3997,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110510290206441",
+  "id" : "https://lobid.org/resources/990110510290206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110510290206441:DE-Sol1:HBZ60037870024-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4014,7 +4014,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110511570206441",
+  "id" : "https://lobid.org/resources/990110511570206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110511570206441:DE-Sol1:HBZ60034718609-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4031,7 +4031,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512040206441",
+  "id" : "https://lobid.org/resources/990110512040206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512040206441:DE-Sol1:HBZ60035271031-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4048,7 +4048,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512060206441",
+  "id" : "https://lobid.org/resources/990110512060206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512060206441:DE-Sol1:HBZ60035271035-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4065,7 +4065,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512080206441",
+  "id" : "https://lobid.org/resources/990110512080206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512080206441:DE-Sol1:HBZ60035271039-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4082,7 +4082,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512140206441",
+  "id" : "https://lobid.org/resources/990110512140206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512140206441:DE-Sol1:HBZ60035271044-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4099,7 +4099,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512160206441",
+  "id" : "https://lobid.org/resources/990110512160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512160206441:DE-Sol1:HBZ60035271019-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4116,7 +4116,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512200206441",
+  "id" : "https://lobid.org/resources/990110512200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512200206441:DE-Sol1:HBZ60035271046-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4133,7 +4133,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512250206441",
+  "id" : "https://lobid.org/resources/990110512250206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512250206441:DE-Sol1:HBZ60035271049-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4150,7 +4150,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512300206441",
+  "id" : "https://lobid.org/resources/990110512300206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512300206441:DE-Sol1:HBZ60035271055-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4167,7 +4167,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512340206441",
+  "id" : "https://lobid.org/resources/990110512340206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512340206441:DE-Sol1:HBZ60035271020-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4184,7 +4184,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512350206441",
+  "id" : "https://lobid.org/resources/990110512350206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512350206441:DE-Sol1:HBZ60035271022-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4201,7 +4201,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512370206441",
+  "id" : "https://lobid.org/resources/990110512370206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512370206441:DE-Sol1:HBZ60035271025-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4218,7 +4218,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512380206441",
+  "id" : "https://lobid.org/resources/990110512380206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512380206441:DE-Sol1:HBZ60035271029-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4235,7 +4235,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512620206441",
+  "id" : "https://lobid.org/resources/990110512620206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512620206441:DE-Sol1:ZDB50011051262-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4253,7 +4253,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512660206441",
+  "id" : "https://lobid.org/resources/990110512660206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512660206441:DE-Sol1:HBZ60035103579-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4270,7 +4270,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512690206441",
+  "id" : "https://lobid.org/resources/990110512690206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512690206441:DE-Sol1:HBZ60035103520-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4287,7 +4287,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512710206441",
+  "id" : "https://lobid.org/resources/990110512710206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512710206441:DE-Sol1:HBZ60035103546-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4304,7 +4304,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512740206441",
+  "id" : "https://lobid.org/resources/990110512740206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512740206441:DE-Sol1:HBZ60035103518-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4321,7 +4321,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512850206441",
+  "id" : "https://lobid.org/resources/990110512850206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512850206441:DE-Sol1:HBZ60035750209-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4338,7 +4338,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512890206441",
+  "id" : "https://lobid.org/resources/990110512890206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512890206441:DE-Sol1:HBZ60035750204-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4355,7 +4355,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512920206441",
+  "id" : "https://lobid.org/resources/990110512920206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512920206441:DE-Sol1:HBZ60035750196-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4372,7 +4372,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110512940206441",
+  "id" : "https://lobid.org/resources/990110512940206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110512940206441:DE-Sol1:HBZ60035750192-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4389,7 +4389,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110514750206441",
+  "id" : "https://lobid.org/resources/990110514750206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110514750206441:DE-Sol1:HBZ60035103516-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4406,7 +4406,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110514960206441",
+  "id" : "https://lobid.org/resources/990110514960206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110514960206441:DE-Sol1:HBZ60035750191-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4423,7 +4423,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110515020206441",
+  "id" : "https://lobid.org/resources/990110515020206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110515020206441:DE-Sol1:HBZ60035750188-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4440,7 +4440,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110515190206441",
+  "id" : "https://lobid.org/resources/990110515190206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110515190206441:DE-Sol1:HBZ60035103511-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4457,7 +4457,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110515200206441",
+  "id" : "https://lobid.org/resources/990110515200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110515200206441:DE-Sol1:HBZ60035103543-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4474,7 +4474,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110515210206441",
+  "id" : "https://lobid.org/resources/990110515210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110515210206441:DE-Sol1:HBZ60035103514-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4491,7 +4491,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110516560206441",
+  "id" : "https://lobid.org/resources/990110516560206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110516560206441:DE-Sol1:HBZ60035308530-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4508,7 +4508,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110517220206441",
+  "id" : "https://lobid.org/resources/990110517220206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110517220206441:DE-Sol1:HBZ60035308528-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4525,7 +4525,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110517270206441",
+  "id" : "https://lobid.org/resources/990110517270206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110517270206441:DE-Sol1:HBZ60035308522-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4542,7 +4542,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110517370206441",
+  "id" : "https://lobid.org/resources/990110517370206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110517370206441:DE-Sol1:HBZ60035103508-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4559,7 +4559,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110517410206441",
+  "id" : "https://lobid.org/resources/990110517410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110517410206441:DE-Sol1:HBZ60035103603-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4576,7 +4576,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110517720206441",
+  "id" : "https://lobid.org/resources/990110517720206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110517720206441:DE-Sol1:HBZ60035103594-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4593,7 +4593,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110517810206441",
+  "id" : "https://lobid.org/resources/990110517810206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110517810206441:DE-Sol1:HBZ60035103600-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4610,7 +4610,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110517850206441",
+  "id" : "https://lobid.org/resources/990110517850206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110517850206441:DE-Sol1:HBZ60035103596-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4627,7 +4627,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110517880206441",
+  "id" : "https://lobid.org/resources/990110517880206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110517880206441:DE-Sol1:HBZ60035103592-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4644,7 +4644,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110519790206441",
+  "id" : "https://lobid.org/resources/990110519790206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110519790206441:DE-Sol1:HBZ60037868837-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4661,7 +4661,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110519990206441",
+  "id" : "https://lobid.org/resources/990110519990206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110519990206441:DE-Sol1:HBZ60037870133-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4678,7 +4678,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520000206441",
+  "id" : "https://lobid.org/resources/990110520000206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520000206441:DE-Sol1:HBZ60037870174-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4695,7 +4695,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520030206441",
+  "id" : "https://lobid.org/resources/990110520030206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520030206441:DE-Sol1:HBZ60037870114-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4712,7 +4712,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520050206441",
+  "id" : "https://lobid.org/resources/990110520050206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520050206441:DE-Sol1:HBZ60037870105-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4729,7 +4729,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520060206441",
+  "id" : "https://lobid.org/resources/990110520060206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520060206441:DE-Sol1:HBZ60037870120-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4746,7 +4746,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520080206441",
+  "id" : "https://lobid.org/resources/990110520080206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520080206441:DE-Sol1:HBZ60035277279-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4763,7 +4763,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520100206441",
+  "id" : "https://lobid.org/resources/990110520100206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520100206441:DE-Sol1:HBZ60035251791-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4780,7 +4780,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520110206441",
+  "id" : "https://lobid.org/resources/990110520110206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520110206441:DE-Sol1:HBZ60035251788-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4797,7 +4797,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520120206441",
+  "id" : "https://lobid.org/resources/990110520120206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520120206441:DE-Sol1:HBZ60035251780-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4814,7 +4814,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520140206441",
+  "id" : "https://lobid.org/resources/990110520140206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520140206441:DE-Sol1:HBZ60035251785-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4831,7 +4831,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520160206441",
+  "id" : "https://lobid.org/resources/990110520160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520160206441:DE-Sol1:HBZ60036394049-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4848,7 +4848,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520170206441",
+  "id" : "https://lobid.org/resources/990110520170206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520170206441:DE-Sol1:HBZ60035251776-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4865,7 +4865,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520190206441",
+  "id" : "https://lobid.org/resources/990110520190206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520190206441:DE-Sol1:HBZ60036394055-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4882,7 +4882,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520200206441",
+  "id" : "https://lobid.org/resources/990110520200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520200206441:DE-Sol1:HBZ60036394040-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4899,7 +4899,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520250206441",
+  "id" : "https://lobid.org/resources/990110520250206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520250206441:DE-Sol1:HBZ60036394036-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4916,7 +4916,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520420206441",
+  "id" : "https://lobid.org/resources/990110520420206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520420206441:DE-Sol1:ZDB50011052042-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4934,7 +4934,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520430206441",
+  "id" : "https://lobid.org/resources/990110520430206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520430206441:DE-Sol1:HBZ60035767008-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4951,7 +4951,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520490206441",
+  "id" : "https://lobid.org/resources/990110520490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520490206441:DE-Sol1:HBZ60035767010-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4968,7 +4968,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520680206441",
+  "id" : "https://lobid.org/resources/990110520680206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520680206441:DE-Sol1:HBZ60035767012-000010#!",
     "label" : "lobid Bestandsressource",
@@ -4985,7 +4985,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110520730206441",
+  "id" : "https://lobid.org/resources/990110520730206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110520730206441:DE-Sol1:HBZ60035767013-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5002,7 +5002,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110521430206441",
+  "id" : "https://lobid.org/resources/990110521430206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110521430206441:DE-Sol1:HBZ60034919419-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5019,7 +5019,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110521920206441",
+  "id" : "https://lobid.org/resources/990110521920206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110521920206441:DE-Sol1:HBZ60034713253-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5036,7 +5036,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110521960206441",
+  "id" : "https://lobid.org/resources/990110521960206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110521960206441:DE-Sol1:HBZ60034713274-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5053,7 +5053,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110523590206441",
+  "id" : "https://lobid.org/resources/990110523590206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110523590206441:DE-Sol1:HBZ60034713255-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5070,7 +5070,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110523650206441",
+  "id" : "https://lobid.org/resources/990110523650206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110523650206441:DE-Sol1:HBZ60034713257-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5087,7 +5087,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110523660206441",
+  "id" : "https://lobid.org/resources/990110523660206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110523660206441:DE-Sol1:HBZ60034713260-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5104,7 +5104,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110523670206441",
+  "id" : "https://lobid.org/resources/990110523670206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110523670206441:DE-Sol1:HBZ60034713266-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5121,7 +5121,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110523750206441",
+  "id" : "https://lobid.org/resources/990110523750206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110523750206441:DE-Sol1:HBZ60034713269-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5138,7 +5138,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110523910206441",
+  "id" : "https://lobid.org/resources/990110523910206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110523910206441:DE-Sol1:ZDB50011052391-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5170,7 +5170,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525290206441",
+  "id" : "https://lobid.org/resources/990110525290206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525290206441:DE-Sol1:HBZ60035370829-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5187,7 +5187,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525300206441",
+  "id" : "https://lobid.org/resources/990110525300206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525300206441:DE-Sol1:HBZ60035370818-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5204,7 +5204,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525310206441",
+  "id" : "https://lobid.org/resources/990110525310206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525310206441:DE-Sol1:HBZ60035370788-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5221,7 +5221,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525320206441",
+  "id" : "https://lobid.org/resources/990110525320206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525320206441:DE-Sol1:HBZ60035370811-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5238,7 +5238,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525330206441",
+  "id" : "https://lobid.org/resources/990110525330206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525330206441:DE-Sol1:HBZ60035370805-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5255,7 +5255,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525350206441",
+  "id" : "https://lobid.org/resources/990110525350206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525350206441:DE-Sol1:HBZ60035370785-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5272,7 +5272,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525370206441",
+  "id" : "https://lobid.org/resources/990110525370206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525370206441:DE-Sol1:HBZ60035370780-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5289,7 +5289,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525390206441",
+  "id" : "https://lobid.org/resources/990110525390206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525390206441:DE-Sol1:HBZ60035370823-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5306,7 +5306,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525410206441",
+  "id" : "https://lobid.org/resources/990110525410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525410206441:DE-Sol1:HBZ60035370826-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5323,7 +5323,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525420206441",
+  "id" : "https://lobid.org/resources/990110525420206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525420206441:DE-Sol1:HBZ60035370765-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5340,7 +5340,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525440206441",
+  "id" : "https://lobid.org/resources/990110525440206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525440206441:DE-Sol1:HBZ60035370835-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5357,7 +5357,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525460206441",
+  "id" : "https://lobid.org/resources/990110525460206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525460206441:DE-Sol1:HBZ60035370834-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5374,7 +5374,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525480206441",
+  "id" : "https://lobid.org/resources/990110525480206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525480206441:DE-Sol1:HBZ60035370807-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5391,7 +5391,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525500206441",
+  "id" : "https://lobid.org/resources/990110525500206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525500206441:DE-Sol1:HBZ60035370776-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5408,7 +5408,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525520206441",
+  "id" : "https://lobid.org/resources/990110525520206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525520206441:DE-Sol1:HBZ60035370774-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5425,7 +5425,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110525530206441",
+  "id" : "https://lobid.org/resources/990110525530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110525530206441:DE-Sol1:HBZ60035370769-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5442,7 +5442,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110526520206441",
+  "id" : "https://lobid.org/resources/990110526520206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110526520206441:DE-Sol1:HBZ60037868843-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5459,7 +5459,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110526530206441",
+  "id" : "https://lobid.org/resources/990110526530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110526530206441:DE-Sol1:HBZ60037868868-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5476,7 +5476,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110526550206441",
+  "id" : "https://lobid.org/resources/990110526550206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110526550206441:DE-Sol1:HBZ60037868871-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5493,7 +5493,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110526970206441",
+  "id" : "https://lobid.org/resources/990110526970206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110526970206441:DE-Sol1:HBZ60035113484-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5510,7 +5510,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527020206441",
+  "id" : "https://lobid.org/resources/990110527020206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527020206441:DE-Sol1:HBZ60035113481-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5527,7 +5527,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527030206441",
+  "id" : "https://lobid.org/resources/990110527030206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527030206441:DE-Sol1:HBZ60035113480-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5544,7 +5544,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527160206441",
+  "id" : "https://lobid.org/resources/990110527160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527160206441:DE-Sol1:HBZ60035268809-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5561,7 +5561,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527170206441",
+  "id" : "https://lobid.org/resources/990110527170206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527170206441:DE-Sol1:HBZ60035268835-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5578,7 +5578,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527210206441",
+  "id" : "https://lobid.org/resources/990110527210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527210206441:DE-Sol1:HBZ60035268779-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5595,7 +5595,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527250206441",
+  "id" : "https://lobid.org/resources/990110527250206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527250206441:DE-Sol1:HBZ60035268785-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5612,7 +5612,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527280206441",
+  "id" : "https://lobid.org/resources/990110527280206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527280206441:DE-Sol1:HBZ60035268814-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5629,7 +5629,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527290206441",
+  "id" : "https://lobid.org/resources/990110527290206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527290206441:DE-Sol1:HBZ60035268857-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5646,7 +5646,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527350206441",
+  "id" : "https://lobid.org/resources/990110527350206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527350206441:DE-Sol1:HBZ60035280066-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5663,7 +5663,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527360206441",
+  "id" : "https://lobid.org/resources/990110527360206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527360206441:DE-Sol1:HBZ60035268817-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5680,7 +5680,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527370206441",
+  "id" : "https://lobid.org/resources/990110527370206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527370206441:DE-Sol1:HBZ60035268805-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5697,7 +5697,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527380206441",
+  "id" : "https://lobid.org/resources/990110527380206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527380206441:DE-Sol1:HBZ60035280048-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5714,7 +5714,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527390206441",
+  "id" : "https://lobid.org/resources/990110527390206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527390206441:DE-Sol1:HBZ60035280046-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5731,7 +5731,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527790206441",
+  "id" : "https://lobid.org/resources/990110527790206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527790206441:DE-Sol1:HBZ60035370808-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5748,7 +5748,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527830206441",
+  "id" : "https://lobid.org/resources/990110527830206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527830206441:DE-Sol1:HBZ60035370827-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5765,7 +5765,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527850206441",
+  "id" : "https://lobid.org/resources/990110527850206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527850206441:DE-Sol1:HBZ60035370815-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5782,7 +5782,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110527970206441",
+  "id" : "https://lobid.org/resources/990110527970206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110527970206441:DE-Sol1:HBZ60036605441-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5799,7 +5799,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528240206441",
+  "id" : "https://lobid.org/resources/990110528240206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528240206441:DE-Sol1:HBZ60035268790-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5816,7 +5816,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528250206441",
+  "id" : "https://lobid.org/resources/990110528250206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528250206441:DE-Sol1:HBZ60035268795-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5833,7 +5833,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528260206441",
+  "id" : "https://lobid.org/resources/990110528260206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528260206441:DE-Sol1:HBZ60035268825-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5850,7 +5850,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528290206441",
+  "id" : "https://lobid.org/resources/990110528290206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528290206441:DE-Sol1:HBZ60035268797-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5867,7 +5867,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528320206441",
+  "id" : "https://lobid.org/resources/990110528320206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528320206441:DE-Sol1:HBZ60035268800-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5884,7 +5884,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528330206441",
+  "id" : "https://lobid.org/resources/990110528330206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528330206441:DE-Sol1:HBZ60035268838-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5901,7 +5901,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528600206441",
+  "id" : "https://lobid.org/resources/990110528600206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528600206441:DE-Sol1:HBZ60035280054-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5918,7 +5918,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528630206441",
+  "id" : "https://lobid.org/resources/990110528630206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528630206441:DE-Sol1:HBZ60035280064-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5935,7 +5935,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528660206441",
+  "id" : "https://lobid.org/resources/990110528660206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528660206441:DE-Sol1:HBZ60035280058-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5952,7 +5952,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528710206441",
+  "id" : "https://lobid.org/resources/990110528710206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528710206441:DE-Sol1:HBZ60035280074-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5969,7 +5969,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528730206441",
+  "id" : "https://lobid.org/resources/990110528730206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528730206441:DE-Sol1:HBZ60035280071-000010#!",
     "label" : "lobid Bestandsressource",
@@ -5986,7 +5986,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110528870206441",
+  "id" : "https://lobid.org/resources/990110528870206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110528870206441:DE-Sol1:HBZ60034919405-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6003,7 +6003,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110529200206441",
+  "id" : "https://lobid.org/resources/990110529200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110529200206441:DE-Sol1:HBZ60035249060-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6020,7 +6020,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110529210206441",
+  "id" : "https://lobid.org/resources/990110529210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110529210206441:DE-Sol1:HBZ60035249054-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6037,7 +6037,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110529870206441",
+  "id" : "https://lobid.org/resources/990110529870206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110529870206441:DE-Sol1:HBZ60035249068-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6054,7 +6054,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110530140206441",
+  "id" : "https://lobid.org/resources/990110530140206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110530140206441:DE-Sol1:HBZ60035280078-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6071,7 +6071,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110530180206441",
+  "id" : "https://lobid.org/resources/990110530180206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110530180206441:DE-Sol1:HBZ60035280092-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6088,7 +6088,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110530190206441",
+  "id" : "https://lobid.org/resources/990110530190206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110530190206441:DE-Sol1:HBZ60035280089-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6105,7 +6105,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110530200206441",
+  "id" : "https://lobid.org/resources/990110530200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110530200206441:DE-Sol1:HBZ60035280081-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6122,7 +6122,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110530210206441",
+  "id" : "https://lobid.org/resources/990110530210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110530210206441:DE-Sol1:HBZ60035280084-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6139,7 +6139,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110530220206441",
+  "id" : "https://lobid.org/resources/990110530220206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110530220206441:DE-Sol1:HBZ60035280086-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6156,7 +6156,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110530990206441",
+  "id" : "https://lobid.org/resources/990110530990206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110530990206441:DE-Sol1:HBZ60035249112-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6173,7 +6173,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531000206441",
+  "id" : "https://lobid.org/resources/990110531000206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531000206441:DE-Sol1:HBZ60035249076-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6190,7 +6190,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531010206441",
+  "id" : "https://lobid.org/resources/990110531010206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531010206441:DE-Sol1:HBZ60035249079-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6207,7 +6207,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531020206441",
+  "id" : "https://lobid.org/resources/990110531020206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531020206441:DE-Sol1:HBZ60035249083-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6224,7 +6224,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531030206441",
+  "id" : "https://lobid.org/resources/990110531030206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531030206441:DE-Sol1:HBZ60035249088-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6241,7 +6241,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531040206441",
+  "id" : "https://lobid.org/resources/990110531040206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531040206441:DE-Sol1:HBZ60035280136-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6258,7 +6258,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531050206441",
+  "id" : "https://lobid.org/resources/990110531050206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531050206441:DE-Sol1:HBZ60035280127-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6275,7 +6275,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531060206441",
+  "id" : "https://lobid.org/resources/990110531060206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531060206441:DE-Sol1:HBZ60035280123-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6292,7 +6292,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531070206441",
+  "id" : "https://lobid.org/resources/990110531070206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531070206441:DE-Sol1:HBZ60035280118-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6309,7 +6309,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531080206441",
+  "id" : "https://lobid.org/resources/990110531080206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531080206441:DE-Sol1:HBZ60035249089-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6326,7 +6326,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531090206441",
+  "id" : "https://lobid.org/resources/990110531090206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531090206441:DE-Sol1:HBZ60035280108-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6343,7 +6343,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531100206441",
+  "id" : "https://lobid.org/resources/990110531100206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531100206441:DE-Sol1:HBZ60035249095-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6360,7 +6360,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531110206441",
+  "id" : "https://lobid.org/resources/990110531110206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531110206441:DE-Sol1:HBZ60035280102-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6377,7 +6377,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531130206441",
+  "id" : "https://lobid.org/resources/990110531130206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531130206441:DE-Sol1:HBZ60035280097-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6394,7 +6394,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531180206441",
+  "id" : "https://lobid.org/resources/990110531180206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531180206441:DE-Sol1:HBZ60035249098-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6411,7 +6411,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531210206441",
+  "id" : "https://lobid.org/resources/990110531210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531210206441:DE-Sol1:HBZ60035249100-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6428,7 +6428,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531250206441",
+  "id" : "https://lobid.org/resources/990110531250206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531250206441:DE-Sol1:HBZ60035249106-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6445,7 +6445,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531750206441",
+  "id" : "https://lobid.org/resources/990110531750206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531750206441:DE-Sol1:HBZ60035268841-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6462,7 +6462,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531820206441",
+  "id" : "https://lobid.org/resources/990110531820206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531820206441:DE-Sol1:HBZ60035268844-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6479,7 +6479,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531830206441",
+  "id" : "https://lobid.org/resources/990110531830206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531830206441:DE-Sol1:HBZ60035268849-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6496,7 +6496,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110531890206441",
+  "id" : "https://lobid.org/resources/990110531890206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110531890206441:DE-Sol1:HBZ60035268853-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6513,7 +6513,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110532190206441",
+  "id" : "https://lobid.org/resources/990110532190206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110532190206441:DE-Sol1:HBZ60035123041-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6530,7 +6530,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110532200206441",
+  "id" : "https://lobid.org/resources/990110532200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110532200206441:DE-Sol1:HBZ60035123045-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6547,7 +6547,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110532220206441",
+  "id" : "https://lobid.org/resources/990110532220206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110532220206441:DE-Sol1:HBZ60035123049-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6564,7 +6564,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110532230206441",
+  "id" : "https://lobid.org/resources/990110532230206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110532230206441:DE-Sol1:HBZ60035123050-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6581,7 +6581,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533090206441",
+  "id" : "https://lobid.org/resources/990110533090206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533090206441:DE-Sol1:HBZ60034718814-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6598,7 +6598,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533100206441",
+  "id" : "https://lobid.org/resources/990110533100206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533100206441:DE-Sol1:HBZ60034718812-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6615,7 +6615,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533150206441",
+  "id" : "https://lobid.org/resources/990110533150206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533150206441:DE-Sol1:HBZ60034718808-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6632,7 +6632,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533170206441",
+  "id" : "https://lobid.org/resources/990110533170206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533170206441:DE-Sol1:HBZ60034718805-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6649,7 +6649,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533200206441",
+  "id" : "https://lobid.org/resources/990110533200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533200206441:DE-Sol1:HBZ60037870155-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6666,7 +6666,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533220206441",
+  "id" : "https://lobid.org/resources/990110533220206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533220206441:DE-Sol1:HBZ60037870151-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6683,7 +6683,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533240206441",
+  "id" : "https://lobid.org/resources/990110533240206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533240206441:DE-Sol1:HBZ60037870055-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6700,7 +6700,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533270206441",
+  "id" : "https://lobid.org/resources/990110533270206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533270206441:DE-Sol1:HBZ60037870063-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6717,7 +6717,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533440206441",
+  "id" : "https://lobid.org/resources/990110533440206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533440206441:DE-Sol1:HBZ60037870069-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6734,7 +6734,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533450206441",
+  "id" : "https://lobid.org/resources/990110533450206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533450206441:DE-Sol1:HBZ60035103651-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6751,7 +6751,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533460206441",
+  "id" : "https://lobid.org/resources/990110533460206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533460206441:DE-Sol1:HBZ60035103649-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6768,7 +6768,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533470206441",
+  "id" : "https://lobid.org/resources/990110533470206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533470206441:DE-Sol1:HBZ60035103644-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6785,7 +6785,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533480206441",
+  "id" : "https://lobid.org/resources/990110533480206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533480206441:DE-Sol1:HBZ60035103642-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6802,7 +6802,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533490206441",
+  "id" : "https://lobid.org/resources/990110533490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533490206441:DE-Sol1:HBZ60035103640-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6819,7 +6819,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533500206441",
+  "id" : "https://lobid.org/resources/990110533500206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533500206441:DE-Sol1:HBZ60035103638-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6836,7 +6836,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533510206441",
+  "id" : "https://lobid.org/resources/990110533510206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533510206441:DE-Sol1:HBZ60035103633-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6853,7 +6853,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533680206441",
+  "id" : "https://lobid.org/resources/990110533680206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533680206441:DE-Sol1:HBZ60034792605-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6870,7 +6870,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110533720206441",
+  "id" : "https://lobid.org/resources/990110533720206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110533720206441:DE-Sol1:HBZ60034792501-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6887,7 +6887,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110535410206441",
+  "id" : "https://lobid.org/resources/990110535410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110535410206441:DE-Sol1:HBZ60034792493-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6904,7 +6904,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110535490206441",
+  "id" : "https://lobid.org/resources/990110535490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110535490206441:DE-Sol1:HBZ60034792484-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6921,7 +6921,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110535640206441",
+  "id" : "https://lobid.org/resources/990110535640206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110535640206441:DE-Sol1:HBZ60034792479-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6938,7 +6938,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110536510206441",
+  "id" : "https://lobid.org/resources/990110536510206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110536510206441:DE-Sol1:HBZ60039179665-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6955,7 +6955,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110537760206441",
+  "id" : "https://lobid.org/resources/990110537760206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110537760206441:DE-Sol1:HBZ60035021912-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6972,7 +6972,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110538390206441",
+  "id" : "https://lobid.org/resources/990110538390206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110538390206441:DE-Sol1:HBZ60039514200-000010#!",
     "label" : "lobid Bestandsressource",
@@ -6989,7 +6989,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110538910206441",
+  "id" : "https://lobid.org/resources/990110538910206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110538910206441:DE-Sol1:HBZ60035252318-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7006,7 +7006,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110538930206441",
+  "id" : "https://lobid.org/resources/990110538930206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110538930206441:DE-Sol1:HBZ60035252315-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7023,7 +7023,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110538950206441",
+  "id" : "https://lobid.org/resources/990110538950206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110538950206441:DE-Sol1:HBZ60035252289-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7040,7 +7040,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110538960206441",
+  "id" : "https://lobid.org/resources/990110538960206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110538960206441:DE-Sol1:HBZ60035252314-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7057,7 +7057,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539160206441",
+  "id" : "https://lobid.org/resources/990110539160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539160206441:DE-Sol1:HBZ60034718850-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7074,7 +7074,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539220206441",
+  "id" : "https://lobid.org/resources/990110539220206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539220206441:DE-Sol1:HBZ60034718848-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7091,7 +7091,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539240206441",
+  "id" : "https://lobid.org/resources/990110539240206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539240206441:DE-Sol1:HBZ60034718833-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7108,7 +7108,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539340206441",
+  "id" : "https://lobid.org/resources/990110539340206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539340206441:DE-Sol1:HBZ60035250339-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7125,7 +7125,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539390206441",
+  "id" : "https://lobid.org/resources/990110539390206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539390206441:DE-Sol1:HBZ60035252304-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7142,7 +7142,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539430206441",
+  "id" : "https://lobid.org/resources/990110539430206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539430206441:DE-Sol1:HBZ60035252293-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7159,7 +7159,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539500206441",
+  "id" : "https://lobid.org/resources/990110539500206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539500206441:DE-Sol1:HBZ60035250329-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7176,7 +7176,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539540206441",
+  "id" : "https://lobid.org/resources/990110539540206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539540206441:DE-Sol1:HBZ60035250337-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7193,7 +7193,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539610206441",
+  "id" : "https://lobid.org/resources/990110539610206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539610206441:DE-Sol1:HBZ60035250301-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7210,7 +7210,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539640206441",
+  "id" : "https://lobid.org/resources/990110539640206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539640206441:DE-Sol1:HBZ60035250326-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7227,7 +7227,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539700206441",
+  "id" : "https://lobid.org/resources/990110539700206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539700206441:DE-Sol1:HBZ60035250320-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7244,7 +7244,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539730206441",
+  "id" : "https://lobid.org/resources/990110539730206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539730206441:DE-Sol1:HBZ60035250310-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7261,7 +7261,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110539910206441",
+  "id" : "https://lobid.org/resources/990110539910206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110539910206441:DE-Sol1:HBZ60034919380-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7278,7 +7278,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540150206441",
+  "id" : "https://lobid.org/resources/990110540150206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540150206441:DE-Sol1:HBZ60035250307-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7295,7 +7295,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540160206441",
+  "id" : "https://lobid.org/resources/990110540160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540160206441:DE-Sol1:ZDB50011054016-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7313,7 +7313,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540440206441",
+  "id" : "https://lobid.org/resources/990110540440206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540440206441:DE-Sol1:HBZ60035247051-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7330,7 +7330,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540500206441",
+  "id" : "https://lobid.org/resources/990110540500206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540500206441:DE-Sol1:HBZ60037870193-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7347,7 +7347,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540510206441",
+  "id" : "https://lobid.org/resources/990110540510206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540510206441:DE-Sol1:HBZ60037870188-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7364,7 +7364,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540520206441",
+  "id" : "https://lobid.org/resources/990110540520206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540520206441:DE-Sol1:HBZ60037870169-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7381,7 +7381,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540530206441",
+  "id" : "https://lobid.org/resources/990110540530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540530206441:DE-Sol1:HBZ60037870164-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7398,7 +7398,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540540206441",
+  "id" : "https://lobid.org/resources/990110540540206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540540206441:DE-Sol1:HBZ60037870161-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7415,7 +7415,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540550206441",
+  "id" : "https://lobid.org/resources/990110540550206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540550206441:DE-Sol1:HBZ60035155402-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7432,7 +7432,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540560206441",
+  "id" : "https://lobid.org/resources/990110540560206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540560206441:DE-Sol1:HBZ60037870057-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7449,7 +7449,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110540580206441",
+  "id" : "https://lobid.org/resources/990110540580206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110540580206441:DE-Sol1:HBZ60035155432-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7466,7 +7466,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110541330206441",
+  "id" : "https://lobid.org/resources/990110541330206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110541330206441:DE-Sol1:HBZ60035767212-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7483,7 +7483,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542100206441",
+  "id" : "https://lobid.org/resources/990110542100206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542100206441:DE-Sol1:HBZ60035978957-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7500,7 +7500,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542140206441",
+  "id" : "https://lobid.org/resources/990110542140206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542140206441:DE-Sol1:HBZ60035979011-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7517,7 +7517,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542160206441",
+  "id" : "https://lobid.org/resources/990110542160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542160206441:DE-Sol1:HBZ60035978973-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7534,7 +7534,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542170206441",
+  "id" : "https://lobid.org/resources/990110542170206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542170206441:DE-Sol1:HBZ60035979019-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7551,7 +7551,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542190206441",
+  "id" : "https://lobid.org/resources/990110542190206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542190206441:DE-Sol1:HBZ60035978974-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7568,7 +7568,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542200206441",
+  "id" : "https://lobid.org/resources/990110542200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542200206441:DE-Sol1:HBZ60035195783-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7585,7 +7585,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542220206441",
+  "id" : "https://lobid.org/resources/990110542220206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542220206441:DE-Sol1:HBZ60035979027-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7602,7 +7602,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542360206441",
+  "id" : "https://lobid.org/resources/990110542360206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542360206441:DE-Sol1:HBZ60035064847-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7619,7 +7619,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542380206441",
+  "id" : "https://lobid.org/resources/990110542380206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542380206441:DE-Sol1:HBZ60035064844-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7636,7 +7636,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542390206441",
+  "id" : "https://lobid.org/resources/990110542390206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542390206441:DE-Sol1:HBZ60035064887-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7653,7 +7653,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542400206441",
+  "id" : "https://lobid.org/resources/990110542400206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542400206441:DE-Sol1:HBZ60035064893-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7670,7 +7670,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542410206441",
+  "id" : "https://lobid.org/resources/990110542410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542410206441:DE-Sol1:HBZ60035064894-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7687,7 +7687,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542530206441",
+  "id" : "https://lobid.org/resources/990110542530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542530206441:DE-Sol1:HBZ60035070863-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7704,7 +7704,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542540206441",
+  "id" : "https://lobid.org/resources/990110542540206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542540206441:DE-Sol1:HBZ60035978965-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7721,7 +7721,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542550206441",
+  "id" : "https://lobid.org/resources/990110542550206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542550206441:DE-Sol1:HBZ60035979029-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7738,7 +7738,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542560206441",
+  "id" : "https://lobid.org/resources/990110542560206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542560206441:DE-Sol1:HBZ60035979035-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7755,7 +7755,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542570206441",
+  "id" : "https://lobid.org/resources/990110542570206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542570206441:DE-Sol1:HBZ60035979041-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7772,7 +7772,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542580206441",
+  "id" : "https://lobid.org/resources/990110542580206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542580206441:DE-Sol1:HBZ60035979045-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7789,7 +7789,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542610206441",
+  "id" : "https://lobid.org/resources/990110542610206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542610206441:DE-Sol1:HBZ60035070859-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7806,7 +7806,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542630206441",
+  "id" : "https://lobid.org/resources/990110542630206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542630206441:DE-Sol1:HBZ60035070857-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7823,7 +7823,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542790206441",
+  "id" : "https://lobid.org/resources/990110542790206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542790206441:DE-Sol1:HBZ60035070876-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7840,7 +7840,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110542840206441",
+  "id" : "https://lobid.org/resources/990110542840206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110542840206441:DE-Sol1:HBZ60035070867-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7857,7 +7857,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110543420206441",
+  "id" : "https://lobid.org/resources/990110543420206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110543420206441:DE-Sol1:HBZ60034792385-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7874,7 +7874,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110543450206441",
+  "id" : "https://lobid.org/resources/990110543450206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110543450206441:DE-Sol1:HBZ60034792271-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7891,7 +7891,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110543470206441",
+  "id" : "https://lobid.org/resources/990110543470206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110543470206441:DE-Sol1:HBZ60034792329-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7908,7 +7908,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110544090206441",
+  "id" : "https://lobid.org/resources/990110544090206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110544090206441:DE-Sol1:HBZ60034718844-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7925,7 +7925,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110544130206441",
+  "id" : "https://lobid.org/resources/990110544130206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110544130206441:DE-Sol1:HBZ60034718832-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7942,7 +7942,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110544160206441",
+  "id" : "https://lobid.org/resources/990110544160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110544160206441:DE-Sol1:HBZ60034718829-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7959,7 +7959,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110544210206441",
+  "id" : "https://lobid.org/resources/990110544210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110544210206441:DE-Sol1:HBZ60034718715-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7976,7 +7976,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110544240206441",
+  "id" : "https://lobid.org/resources/990110544240206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110544240206441:DE-Sol1:HBZ60034718822-000010#!",
     "label" : "lobid Bestandsressource",
@@ -7993,7 +7993,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110544300206441",
+  "id" : "https://lobid.org/resources/990110544300206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110544300206441:DE-Sol1:HBZ60034718801-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8010,7 +8010,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110544760206441",
+  "id" : "https://lobid.org/resources/990110544760206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110544760206441:DE-Sol1:HBZ60034718819-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8027,7 +8027,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110544780206441",
+  "id" : "https://lobid.org/resources/990110544780206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110544780206441:DE-Sol1:HBZ60034718792-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8044,7 +8044,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110545110206441",
+  "id" : "https://lobid.org/resources/990110545110206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110545110206441:DE-Sol1:HBZ60035767216-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8061,7 +8061,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110545260206441",
+  "id" : "https://lobid.org/resources/990110545260206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110545260206441:DE-Sol1:HBZ60034718840-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8078,7 +8078,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110545290206441",
+  "id" : "https://lobid.org/resources/990110545290206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110545290206441:DE-Sol1:HBZ60034718836-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8095,7 +8095,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110545320206441",
+  "id" : "https://lobid.org/resources/990110545320206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110545320206441:DE-Sol1:HBZ60034718824-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8112,7 +8112,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547190206441",
+  "id" : "https://lobid.org/resources/990110547190206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547190206441:DE-Sol1:HBZ60039255352-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8129,7 +8129,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547200206441",
+  "id" : "https://lobid.org/resources/990110547200206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547200206441:DE-Sol1:HBZ60039255397-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8146,7 +8146,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547220206441",
+  "id" : "https://lobid.org/resources/990110547220206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547220206441:DE-Sol1:HBZ60039255382-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8163,7 +8163,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547630206441",
+  "id" : "https://lobid.org/resources/990110547630206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547630206441:DE-Sol1:ZDB50011054763-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8181,7 +8181,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547720206441",
+  "id" : "https://lobid.org/resources/990110547720206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547720206441:DE-Sol1:HBZ60035334125-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8198,7 +8198,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547730206441",
+  "id" : "https://lobid.org/resources/990110547730206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547730206441:DE-Sol1:HBZ60035334132-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8215,7 +8215,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547750206441",
+  "id" : "https://lobid.org/resources/990110547750206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547750206441:DE-Sol1:HBZ60035334137-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8232,7 +8232,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547760206441",
+  "id" : "https://lobid.org/resources/990110547760206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547760206441:DE-Sol1:HBZ60035334145-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8249,7 +8249,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547770206441",
+  "id" : "https://lobid.org/resources/990110547770206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547770206441:DE-Sol1:HBZ60035334117-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8266,7 +8266,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547780206441",
+  "id" : "https://lobid.org/resources/990110547780206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547780206441:DE-Sol1:HBZ60035334121-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8283,7 +8283,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547790206441",
+  "id" : "https://lobid.org/resources/990110547790206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547790206441:DE-Sol1:HBZ60035334016-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8300,7 +8300,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547800206441",
+  "id" : "https://lobid.org/resources/990110547800206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547800206441:DE-Sol1:HBZ60035334005-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8317,7 +8317,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547810206441",
+  "id" : "https://lobid.org/resources/990110547810206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547810206441:DE-Sol1:HBZ60035334001-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8334,7 +8334,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547820206441",
+  "id" : "https://lobid.org/resources/990110547820206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547820206441:DE-Sol1:HBZ60035333994-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8351,7 +8351,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547830206441",
+  "id" : "https://lobid.org/resources/990110547830206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547830206441:DE-Sol1:HBZ60035333991-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8368,7 +8368,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547840206441",
+  "id" : "https://lobid.org/resources/990110547840206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547840206441:DE-Sol1:HBZ60035333987-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8385,7 +8385,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110547860206441",
+  "id" : "https://lobid.org/resources/990110547860206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110547860206441:DE-Sol1:HBZ60035333989-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8402,7 +8402,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110548600206441",
+  "id" : "https://lobid.org/resources/990110548600206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110548600206441:DE-Sol1:HBZ60035085611-000020#!",
     "label" : "lobid Bestandsressource",
@@ -8419,7 +8419,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110548630206441",
+  "id" : "https://lobid.org/resources/990110548630206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110548630206441:DE-Sol1:HBZ60035085619-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8436,7 +8436,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110548660206441",
+  "id" : "https://lobid.org/resources/990110548660206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110548660206441:DE-Sol1:HBZ60035085636-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8453,7 +8453,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110548680206441",
+  "id" : "https://lobid.org/resources/990110548680206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110548680206441:DE-Sol1:HBZ60035085625-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8470,7 +8470,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110548690206441",
+  "id" : "https://lobid.org/resources/990110548690206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110548690206441:DE-Sol1:HBZ60035085629-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8487,7 +8487,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110548700206441",
+  "id" : "https://lobid.org/resources/990110548700206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110548700206441:DE-Sol1:HBZ60035085632-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8504,7 +8504,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549550206441",
+  "id" : "https://lobid.org/resources/990110549550206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549550206441:DE-Sol1:HBZ60037869933-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8521,7 +8521,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549580206441",
+  "id" : "https://lobid.org/resources/990110549580206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549580206441:DE-Sol1:HBZ60037870001-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8538,7 +8538,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549590206441",
+  "id" : "https://lobid.org/resources/990110549590206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549590206441:DE-Sol1:HBZ60037869950-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8555,7 +8555,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549600206441",
+  "id" : "https://lobid.org/resources/990110549600206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549600206441:DE-Sol1:HBZ60037869959-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8572,7 +8572,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549610206441",
+  "id" : "https://lobid.org/resources/990110549610206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549610206441:DE-Sol1:HBZ60037869966-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8589,7 +8589,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549620206441",
+  "id" : "https://lobid.org/resources/990110549620206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549620206441:DE-Sol1:HBZ60037869970-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8606,7 +8606,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549640206441",
+  "id" : "https://lobid.org/resources/990110549640206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549640206441:DE-Sol1:HBZ60037869835-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8623,7 +8623,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549940206441",
+  "id" : "https://lobid.org/resources/990110549940206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549940206441:DE-Sol1:HBZ60035103588-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8640,7 +8640,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549950206441",
+  "id" : "https://lobid.org/resources/990110549950206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549950206441:DE-Sol1:HBZ60035103584-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8657,7 +8657,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549960206441",
+  "id" : "https://lobid.org/resources/990110549960206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549960206441:DE-Sol1:HBZ60035103581-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8674,7 +8674,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549970206441",
+  "id" : "https://lobid.org/resources/990110549970206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549970206441:DE-Sol1:HBZ60035103607-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8691,7 +8691,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549980206441",
+  "id" : "https://lobid.org/resources/990110549980206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549980206441:DE-Sol1:HBZ60035103574-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8708,7 +8708,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110549990206441",
+  "id" : "https://lobid.org/resources/990110549990206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110549990206441:DE-Sol1:HBZ60035103571-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8725,7 +8725,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550000206441",
+  "id" : "https://lobid.org/resources/990110550000206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550000206441:DE-Sol1:HBZ60035103569-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8742,7 +8742,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550040206441",
+  "id" : "https://lobid.org/resources/990110550040206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550040206441:DE-Sol1:HBZ60035103568-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8759,7 +8759,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550060206441",
+  "id" : "https://lobid.org/resources/990110550060206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550060206441:DE-Sol1:HBZ60035103661-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8776,7 +8776,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550230206441",
+  "id" : "https://lobid.org/resources/990110550230206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550230206441:DE-Sol1:HBZ60035103553-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8793,7 +8793,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550250206441",
+  "id" : "https://lobid.org/resources/990110550250206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550250206441:DE-Sol1:HBZ60035103658-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8810,7 +8810,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550310206441",
+  "id" : "https://lobid.org/resources/990110550310206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550310206441:DE-Sol1:HBZ60035103656-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8827,7 +8827,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550320206441",
+  "id" : "https://lobid.org/resources/990110550320206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550320206441:DE-Sol1:HBZ60035103653-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8844,7 +8844,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550330206441",
+  "id" : "https://lobid.org/resources/990110550330206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550330206441:DE-Sol1:HBZ60035103629-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8861,7 +8861,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550380206441",
+  "id" : "https://lobid.org/resources/990110550380206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550380206441:DE-Sol1:HBZ60035103626-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8878,7 +8878,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550390206441",
+  "id" : "https://lobid.org/resources/990110550390206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550390206441:DE-Sol1:HBZ60035103621-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8895,7 +8895,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550400206441",
+  "id" : "https://lobid.org/resources/990110550400206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550400206441:DE-Sol1:HBZ60035103616-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8912,7 +8912,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550410206441",
+  "id" : "https://lobid.org/resources/990110550410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550410206441:DE-Sol1:HBZ60035103613-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8929,7 +8929,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550470206441",
+  "id" : "https://lobid.org/resources/990110550470206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550470206441:DE-Sol1:HBZ60035323204-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8946,7 +8946,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550480206441",
+  "id" : "https://lobid.org/resources/990110550480206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550480206441:DE-Sol1:HBZ60035323199-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8963,7 +8963,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550490206441",
+  "id" : "https://lobid.org/resources/990110550490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550490206441:DE-Sol1:HBZ60035323193-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8980,7 +8980,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550500206441",
+  "id" : "https://lobid.org/resources/990110550500206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550500206441:DE-Sol1:HBZ60035323186-000010#!",
     "label" : "lobid Bestandsressource",
@@ -8997,7 +8997,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550510206441",
+  "id" : "https://lobid.org/resources/990110550510206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550510206441:DE-Sol1:HBZ60035323236-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9014,7 +9014,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550520206441",
+  "id" : "https://lobid.org/resources/990110550520206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550520206441:DE-Sol1:HBZ60035323176-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9031,7 +9031,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550530206441",
+  "id" : "https://lobid.org/resources/990110550530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550530206441:DE-Sol1:HBZ60035323182-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9048,7 +9048,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550540206441",
+  "id" : "https://lobid.org/resources/990110550540206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550540206441:DE-Sol1:HBZ60039255194-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9065,7 +9065,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550550206441",
+  "id" : "https://lobid.org/resources/990110550550206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550550206441:DE-Sol1:HBZ60035323228-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9082,7 +9082,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550560206441",
+  "id" : "https://lobid.org/resources/990110550560206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550560206441:DE-Sol1:HBZ60035323220-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9099,7 +9099,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550570206441",
+  "id" : "https://lobid.org/resources/990110550570206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550570206441:DE-Sol1:HBZ60035323209-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9116,7 +9116,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550580206441",
+  "id" : "https://lobid.org/resources/990110550580206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550580206441:DE-Sol1:HBZ60039255208-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9133,7 +9133,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550590206441",
+  "id" : "https://lobid.org/resources/990110550590206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550590206441:DE-Sol1:HBZ60035323213-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9150,7 +9150,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550600206441",
+  "id" : "https://lobid.org/resources/990110550600206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550600206441:DE-Sol1:HBZ60035323215-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9167,7 +9167,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550610206441",
+  "id" : "https://lobid.org/resources/990110550610206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550610206441:DE-Sol1:HBZ60039255223-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9184,7 +9184,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550620206441",
+  "id" : "https://lobid.org/resources/990110550620206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550620206441:DE-Sol1:HBZ60039255389-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9201,7 +9201,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550630206441",
+  "id" : "https://lobid.org/resources/990110550630206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550630206441:DE-Sol1:HBZ60039255230-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9218,7 +9218,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550640206441",
+  "id" : "https://lobid.org/resources/990110550640206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550640206441:DE-Sol1:HBZ60039255244-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9235,7 +9235,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550650206441",
+  "id" : "https://lobid.org/resources/990110550650206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550650206441:DE-Sol1:HBZ60039255272-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9252,7 +9252,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550660206441",
+  "id" : "https://lobid.org/resources/990110550660206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550660206441:DE-Sol1:HBZ60039255307-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9269,7 +9269,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550670206441",
+  "id" : "https://lobid.org/resources/990110550670206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550670206441:DE-Sol1:HBZ60039255320-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9286,7 +9286,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550680206441",
+  "id" : "https://lobid.org/resources/990110550680206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550680206441:DE-Sol1:HBZ60039255342-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9303,7 +9303,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550690206441",
+  "id" : "https://lobid.org/resources/990110550690206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550690206441:DE-Sol1:HBZ60039255371-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9320,7 +9320,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110550940206441",
+  "id" : "https://lobid.org/resources/990110550940206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110550940206441:DE-Sol1:HBZ60034919383-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9337,7 +9337,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110552460206441",
+  "id" : "https://lobid.org/resources/990110552460206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110552460206441:DE-Sol1:HBZ60035103563-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9354,7 +9354,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110552470206441",
+  "id" : "https://lobid.org/resources/990110552470206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110552470206441:DE-Sol1:HBZ60035103561-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9371,7 +9371,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110552490206441",
+  "id" : "https://lobid.org/resources/990110552490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110552490206441:DE-Sol1:HBZ60035103559-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9388,7 +9388,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110552500206441",
+  "id" : "https://lobid.org/resources/990110552500206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110552500206441:DE-Sol1:HBZ60035103556-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9405,7 +9405,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110552630206441",
+  "id" : "https://lobid.org/resources/990110552630206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110552630206441:DE-Sol1:ZDB50011055263-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9423,7 +9423,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110553920206441",
+  "id" : "https://lobid.org/resources/990110553920206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110553920206441:DE-Sol1:HBZ60034718614-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9440,7 +9440,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555090206441",
+  "id" : "https://lobid.org/resources/990110555090206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555090206441:DE-Sol1:HBZ60036074934-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9457,7 +9457,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555100206441",
+  "id" : "https://lobid.org/resources/990110555100206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555100206441:DE-Sol1:HBZ60036074920-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9474,7 +9474,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555400206441",
+  "id" : "https://lobid.org/resources/990110555400206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555400206441:DE-Sol1:HBZ60035277266-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9491,7 +9491,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555420206441",
+  "id" : "https://lobid.org/resources/990110555420206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555420206441:DE-Sol1:HBZ60053525947-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9508,7 +9508,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555430206441",
+  "id" : "https://lobid.org/resources/990110555430206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555430206441:DE-Sol1:HBZ60053525950-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9525,7 +9525,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555440206441",
+  "id" : "https://lobid.org/resources/990110555440206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555440206441:DE-Sol1:HBZ60053525952-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9542,7 +9542,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555450206441",
+  "id" : "https://lobid.org/resources/990110555450206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555450206441:DE-Sol1:HBZ60035277258-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9559,7 +9559,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555460206441",
+  "id" : "https://lobid.org/resources/990110555460206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555460206441:DE-Sol1:HBZ60035277270-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9576,7 +9576,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555470206441",
+  "id" : "https://lobid.org/resources/990110555470206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555470206441:DE-Sol1:HBZ60053525959-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9593,7 +9593,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555480206441",
+  "id" : "https://lobid.org/resources/990110555480206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555480206441:DE-Sol1:HBZ60035277276-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9610,7 +9610,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555490206441",
+  "id" : "https://lobid.org/resources/990110555490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555490206441:DE-Sol1:HBZ60035277261-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9627,7 +9627,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555510206441",
+  "id" : "https://lobid.org/resources/990110555510206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555510206441:DE-Sol1:HBZ60035277288-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9644,7 +9644,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555840206441",
+  "id" : "https://lobid.org/resources/990110555840206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555840206441:DE-Sol1:HBZ60053525992-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9661,7 +9661,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555850206441",
+  "id" : "https://lobid.org/resources/990110555850206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555850206441:DE-Sol1:HBZ60053525933-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9678,7 +9678,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555860206441",
+  "id" : "https://lobid.org/resources/990110555860206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555860206441:DE-Sol1:HBZ60053525975-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9695,7 +9695,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555870206441",
+  "id" : "https://lobid.org/resources/990110555870206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555870206441:DE-Sol1:HBZ60053525979-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9712,7 +9712,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555880206441",
+  "id" : "https://lobid.org/resources/990110555880206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555880206441:DE-Sol1:HBZ60053525981-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9729,7 +9729,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555900206441",
+  "id" : "https://lobid.org/resources/990110555900206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555900206441:DE-Sol1:HBZ60053526004-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9746,7 +9746,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555910206441",
+  "id" : "https://lobid.org/resources/990110555910206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555910206441:DE-Sol1:HBZ60053525941-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9763,7 +9763,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555920206441",
+  "id" : "https://lobid.org/resources/990110555920206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555920206441:DE-Sol1:HBZ60053525997-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9780,7 +9780,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555960206441",
+  "id" : "https://lobid.org/resources/990110555960206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555960206441:DE-Sol1:HBZ60053525984-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9797,7 +9797,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555970206441",
+  "id" : "https://lobid.org/resources/990110555970206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555970206441:DE-Sol1:HBZ60053525939-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9814,7 +9814,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110555980206441",
+  "id" : "https://lobid.org/resources/990110555980206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110555980206441:DE-Sol1:HBZ60053525998-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9831,7 +9831,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556010206441",
+  "id" : "https://lobid.org/resources/990110556010206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556010206441:DE-Sol1:HBZ60053525986-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9848,7 +9848,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556020206441",
+  "id" : "https://lobid.org/resources/990110556020206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556020206441:DE-Sol1:HBZ60053525990-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9865,7 +9865,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556030206441",
+  "id" : "https://lobid.org/resources/990110556030206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556030206441:DE-Sol1:HBZ60053525991-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9882,7 +9882,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556040206441",
+  "id" : "https://lobid.org/resources/990110556040206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556040206441:DE-Sol1:HBZ60035291410-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9899,7 +9899,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556050206441",
+  "id" : "https://lobid.org/resources/990110556050206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556050206441:DE-Sol1:HBZ60035291400-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9916,7 +9916,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556070206441",
+  "id" : "https://lobid.org/resources/990110556070206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556070206441:DE-Sol1:HBZ60035291373-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9933,7 +9933,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556080206441",
+  "id" : "https://lobid.org/resources/990110556080206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556080206441:DE-Sol1:HBZ60035291368-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9950,7 +9950,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556100206441",
+  "id" : "https://lobid.org/resources/990110556100206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556100206441:DE-Sol1:HBZ60035291380-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9967,7 +9967,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556160206441",
+  "id" : "https://lobid.org/resources/990110556160206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556160206441:DE-Sol1:HBZ60035291363-000010#!",
     "label" : "lobid Bestandsressource",
@@ -9984,7 +9984,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556210206441",
+  "id" : "https://lobid.org/resources/990110556210206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556210206441:DE-Sol1:HBZ60035291347-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10001,7 +10001,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556220206441",
+  "id" : "https://lobid.org/resources/990110556220206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556220206441:DE-Sol1:HBZ60035291325-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10018,7 +10018,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556390206441",
+  "id" : "https://lobid.org/resources/990110556390206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556390206441:DE-Sol1:HBZ60035291309-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10035,7 +10035,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556400206441",
+  "id" : "https://lobid.org/resources/990110556400206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556400206441:DE-Sol1:HBZ60035291300-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10052,7 +10052,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556410206441",
+  "id" : "https://lobid.org/resources/990110556410206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556410206441:DE-Sol1:HBZ60035291276-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10069,7 +10069,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556430206441",
+  "id" : "https://lobid.org/resources/990110556430206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556430206441:DE-Sol1:HBZ60035291250-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10086,7 +10086,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556450206441",
+  "id" : "https://lobid.org/resources/990110556450206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556450206441:DE-Sol1:HBZ60035291222-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10103,7 +10103,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556460206441",
+  "id" : "https://lobid.org/resources/990110556460206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556460206441:DE-Sol1:HBZ60035291207-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10120,7 +10120,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556490206441",
+  "id" : "https://lobid.org/resources/990110556490206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556490206441:DE-Sol1:HBZ60035291463-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10137,7 +10137,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556500206441",
+  "id" : "https://lobid.org/resources/990110556500206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556500206441:DE-Sol1:HBZ60035291456-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10154,7 +10154,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556520206441",
+  "id" : "https://lobid.org/resources/990110556520206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556520206441:DE-Sol1:HBZ60035291450-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10171,7 +10171,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556530206441",
+  "id" : "https://lobid.org/resources/990110556530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556530206441:DE-Sol1:HBZ60035291440-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10188,7 +10188,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556560206441",
+  "id" : "https://lobid.org/resources/990110556560206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556560206441:DE-Sol1:HBZ60035291430-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10205,7 +10205,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556570206441",
+  "id" : "https://lobid.org/resources/990110556570206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556570206441:DE-Sol1:HBZ60035291420-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10222,7 +10222,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556580206441",
+  "id" : "https://lobid.org/resources/990110556580206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556580206441:DE-Sol1:HBZ60035086172-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10239,7 +10239,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556590206441",
+  "id" : "https://lobid.org/resources/990110556590206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556590206441:DE-Sol1:HBZ60035086166-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10256,7 +10256,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556600206441",
+  "id" : "https://lobid.org/resources/990110556600206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556600206441:DE-Sol1:HBZ60035086143-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10273,7 +10273,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556610206441",
+  "id" : "https://lobid.org/resources/990110556610206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556610206441:DE-Sol1:HBZ60035086130-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10290,7 +10290,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556620206441",
+  "id" : "https://lobid.org/resources/990110556620206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556620206441:DE-Sol1:HBZ60035086120-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10307,7 +10307,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556630206441",
+  "id" : "https://lobid.org/resources/990110556630206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556630206441:DE-Sol1:HBZ60035086157-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10324,7 +10324,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556660206441",
+  "id" : "https://lobid.org/resources/990110556660206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556660206441:DE-Sol1:HBZ60035086137-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10341,7 +10341,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556700206441",
+  "id" : "https://lobid.org/resources/990110556700206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556700206441:DE-Sol1:HBZ60035086164-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10358,7 +10358,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556760206441",
+  "id" : "https://lobid.org/resources/990110556760206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556760206441:DE-Sol1:HBZ60035086182-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10375,7 +10375,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556770206441",
+  "id" : "https://lobid.org/resources/990110556770206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556770206441:DE-Sol1:HBZ60035086177-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10392,7 +10392,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110556900206441",
+  "id" : "https://lobid.org/resources/990110556900206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110556900206441:DE-Sol1:HBZ60035086146-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10409,7 +10409,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110557000206441",
+  "id" : "https://lobid.org/resources/990110557000206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110557000206441:DE-Sol1:HBZ60035113474-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10426,7 +10426,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110557030206441",
+  "id" : "https://lobid.org/resources/990110557030206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110557030206441:DE-Sol1:HBZ60035113476-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10443,7 +10443,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110557100206441",
+  "id" : "https://lobid.org/resources/990110557100206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110557100206441:DE-Sol1:HBZ60037615154-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10460,7 +10460,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110557320206441",
+  "id" : "https://lobid.org/resources/990110557320206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110557320206441:DE-Sol1:ZDB50011055732-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10478,7 +10478,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110557520206441",
+  "id" : "https://lobid.org/resources/990110557520206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110557520206441:DE-Sol1:HBZ60037870078-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10495,7 +10495,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110557530206441",
+  "id" : "https://lobid.org/resources/990110557530206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110557530206441:DE-Sol1:HBZ60037869935-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10512,7 +10512,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110557620206441",
+  "id" : "https://lobid.org/resources/990110557620206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110557620206441:DE-Sol1:HBZ60037869975-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10529,7 +10529,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110557910206441",
+  "id" : "https://lobid.org/resources/990110557910206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110557910206441:DE-Sol1:HBZ60037870072-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10546,7 +10546,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110558430206441",
+  "id" : "https://lobid.org/resources/990110558430206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110558430206441:DE-Sol1:HBZ60042274716-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10563,7 +10563,7 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110558450206441",
+  "id" : "https://lobid.org/resources/990110558450206441#!",
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990110558450206441:DE-Sol1:HBZ60042274769-000010#!",
     "label" : "lobid Bestandsressource",
@@ -10580,5 +10580,5 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "990110558470206441"
+  "id" : "https://lobid.org/resources/990110558470206441#!"
 }]
