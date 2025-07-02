@@ -20,7 +20,8 @@ outfile
 | open-file
 | as-records
 | decode-json(recordPath="*")  // Specify record path due to prettyPrinting and combining in one record.
-| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix") 
+| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix")
+| batch-log(batchsize="10")
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
 | write(outfile2)
 ;
