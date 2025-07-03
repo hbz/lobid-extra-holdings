@@ -1,6 +1,7 @@
 default infile="test/input/export_mab_hbz60.example.seq";
 default outfile="test/output/sol1Holding_seq.json";
 default outfile2="test/output/sol1Holding_seq.tsv";
+default source="aleph seq";
 
 
 infile
@@ -19,11 +20,9 @@ infile
 outfile
 | open-file
 | as-records
-| decode-json(recordPath="*")
-| fix("	to_json('hasItem[]')
-	move_field('hasItem[]','holdings')
-	retain('id','holdings')"
-)
+| decode-json(recordPath="*")  // Specify record path due to prettyPrinting and combining in one record.
+| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix",*)
+| batch-log(batchsize="10")
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
 | write(outfile2)
 ;
