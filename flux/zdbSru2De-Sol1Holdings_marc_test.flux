@@ -2,6 +2,7 @@ default infile="test/input/sru_records_and_holdings.xml";
 default outfile="test/output/sol1Holding_sru.json";
 default outfile2="test/output/sol1Holding_sru.tsv";
 default version="test/";
+default source="sru/zdb";
 
 
 // The SRU records are provided as collections combining bibliographic and holding records

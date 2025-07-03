@@ -1,6 +1,7 @@
 default infile="prod/input/export_mab_hbz60.z9035.f.20250108.091329.seq";
 default outfile="prod/output/sol1Holding_seq.json.gz";
 default outfile2="prod/output/sol1Holding_seq.tsv.gz";
+default source="aleph seq";
 
 
 infile
