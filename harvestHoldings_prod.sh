@@ -2,10 +2,6 @@
 
 Metafacture_Runner=$1
 
-# Create Mapping file for SRU
-
-$Metafacture_Runner flux/createZdbId2AlmaMmsIdMap_prod.flux
-
 # Create Holdings from old ALEPH Seq Dump
 echo "Start transformation for ALEPH Seq Data" && date
 $Metafacture_Runner flux/mab2De-Sol1Holdings_seq_prod.flux outfile2="prod/output/sol1Holding_seq.tsv.gz"
