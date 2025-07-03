@@ -31,7 +31,7 @@ sruHarvest
 | decode-json
 | fix("retain('almaMmsId','zdbId')")
 | encode-csv(noQuotes="true",separator="\t")
-| write("prod/map/almaMmsId2ZdbId.tsv")
+| write("test/map/almaMmsId2ZdbId.tsv")
 ;
 
 // Step 2: Read the data as generic xml and copy the ZDB-ID to the Holding-Records as 004
