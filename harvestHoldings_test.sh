@@ -17,5 +17,5 @@ $Metafacture_Runner flux/zdbSru2De-Sol1Holdings_marc_test.flux outfile2="test/ou
 
 # Concatinate results
 echo "Combine output in single file combinedDe-Sol1Holdings.tsv" && date
-cat test/output/sol1Holding_sru.tsv test/output/sol1Holding_seq.tsv > "test/output/combinedDe-Sol1Holdings.tsv"
+$Metafacture_Runner flux/combineFiles_test.flux
 echo "Done" && date
