@@ -1,4 +1,5 @@
-default outfile="prod/output/sol1Holding_sru.json";
+default outfile="prod/output/sol1Holding_sru.json.gz";
+default outfile2="prod/output/sol1Holding_sru.tsv.gz";
 default version="prod/";
 default source="sru/zdb";
 
@@ -25,18 +26,19 @@ default source="sru/zdb";
 // Step 4: Combine multiple holdings for one resource to one holding array/record.
 | change-id(idliteral="almaMmsId")
 | merge-same-ids  // merge records that belong to the same MMS I
-| fix(FLUX_DIR + "combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
-| encode-json(prettyPrinting="true")
-| write(FLUX_DIR + outfile, header="[",footer="]", separator=",")
+| fix(FLUX_DIR + "../fix/combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
+| encode-json // newline json is better for big file
+| write(outfile, compression="gzip") // compression is better for big file
 ;
 
 
-// Step5: Create a lookup file for lobid that has the almaMmsId in column 1 and the serialized json array of the holdings in column2
+// Step 5: Create a lookup file for lobid that has the almaMmsId in column 1 and the serialized json array of the holdings in column2
 outfile
 | open-file
-| as-records
-| decode-json(recordPath="*")
+| as-lines
+| decode-json
 | fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix",*)
+| batch-log(batchsize="1000")
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
 | write(outfile2, compression="gzip")
 ;
