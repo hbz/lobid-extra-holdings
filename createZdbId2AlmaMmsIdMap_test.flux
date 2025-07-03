@@ -4,8 +4,8 @@ default outfile2="test/output/sol1Holding_sru.tsv";
 
 //Create mapping file of almaMmsIds:
 
-infile
-| open-file
+"https://services.dnb.de/sru/zdb"
+| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1",version="1.1",maximumRecords="5",total="20")
 | decode-xml
 | handle-marcxml
 | fix(

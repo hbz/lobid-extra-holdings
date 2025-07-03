@@ -7,8 +7,8 @@ default version="test/";
 // The SRU records are provided as collections combining bibliographic and holding records
 // Beside the combining collection tag there seems to be no linkage / reference between bibliographic and holdings.
 
-infile
-| open-file
+"https://services.dnb.de/sru/zdb"
+| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1",version="1.1",maximumRecords="5",total="20")
 // Step 1: Read the data as generic xml and copy the ZDB-ID to the Holding-Records as 004
 // This is necessary to create the holdings in Step 2.
 | decode-xml
