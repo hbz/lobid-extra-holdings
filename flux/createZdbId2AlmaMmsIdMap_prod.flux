@@ -21,6 +21,6 @@
 | decode-json
 | fix("retain('almaMmsId','zdbId')") 
 | encode-csv(noQuotes="true",separator="\t")
-| write(FLUX_DIR + "prod/map/almaMmsId2zdbId.tsv")
+| write("prod/map/almaMmsId2zdbId.tsv")
 ;
 

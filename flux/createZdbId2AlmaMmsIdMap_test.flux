@@ -25,6 +25,6 @@ default outfile2="test/output/sol1Holding_sru.tsv";
 | decode-json
 | fix("retain('almaMmsId','zdbId')") 
 | encode-csv(noQuotes="true",separator="\t")
-| write(FLUX_DIR + "test/map/almaMmsId2ZdbId.tsv")
+| write("test/map/almaMmsId2ZdbId.tsv")
 ;
 

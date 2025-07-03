@@ -10,7 +10,7 @@ default version="prod/";
 // This is necessary to create the holdings in Step 2.
 | decode-xml
 | handle-generic-xml(recordtagname="collection", attributemarker="#")
-| fix(FLUX_DIR + "setReference004.fix")
+| fix(FLUX_DIR + "../fix/setReference004.fix")
 | encode-xml(recordtag="collection", attributemarker="#", valuetag="value")
 
 // Step 2:  Read the records again, but this time as marcXml.
@@ -19,7 +19,7 @@ default version="prod/";
 | read-string
 | decode-xml
 | handle-marcxml(ignorenamespace="true")
-| fix(FLUX_DIR + "zdbSru2De-Sol1Holdings_marc.fix",*) // creates holding information for Holding Records of DE-Sol1
+| fix(FLUX_DIR + "../fix/zdbSru2De-Sol1Holdings_marc.fix",*) // creates holding information for Holding Records of DE-Sol1
 
 // Step 4: Combine multiple holdings for one resource to one holding array/record.
 | change-id(idliteral="almaMmsId")
@@ -31,7 +31,7 @@ default version="prod/";
 
 
 // Step5: Create a lookup file for lobid that has the almaMmsId in column 1 and the serialized json array of the holdings in column2
-FLUX_DIR + outfile
+outfile
 | open-file
 | as-records
 | decode-json(recordPath="*")
@@ -40,5 +40,5 @@ FLUX_DIR + outfile
 	retain('id','holdings')"
 )
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
-| write(FLUX_DIR + outfile2, appendiffileexists="true", compression="gzip")
+| write(outfile2, compression="gzip")
 ;

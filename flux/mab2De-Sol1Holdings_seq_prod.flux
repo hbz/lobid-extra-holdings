@@ -8,15 +8,15 @@ infile
 | as-lines
 | decode-aseq
 | merge-same-ids // combines the aseq statements in single records. 
-| fix(FLUX_DIR + "mab2De-Sol1Holdings_seq.fix") // creates holding information for ME records, currently metadata from ML records are not used.
+| fix(FLUX_DIR + "../fix/mab2De-Sol1Holdings_seq.fix") // creates holding information for ME records, currently metadata from ML records are not used.
 | change-id(idliteral="almaMmsId")
 | merge-same-ids  // merge records that belong to the same MMS ID.
-| fix(FLUX_DIR + "combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
+| fix(FLUX_DIR + "../fix/combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
 | encode-json // newline json is better for big file
-| write(FLUX_DIR + outfile, compression="gzip") // compression is better for big file
+| write(outfile, compression="gzip") // compression is better for big file
 ;
 
-FLUX_DIR + outfile
+outfile
 | open-file
 | as-lines
 | decode-json
@@ -25,5 +25,5 @@ FLUX_DIR + outfile
 	retain('id','holdings')"
 )
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
-| write(FLUX_DIR + outfile2, compression="gzip")
+| write(outfile2, compression="gzip")
 ;
