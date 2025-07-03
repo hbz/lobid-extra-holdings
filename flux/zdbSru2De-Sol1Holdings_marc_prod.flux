@@ -2,6 +2,7 @@ default sruHarvest="prod/input/sru_records_and_holdings.xml";
 default outfile="prod/output/sol1Holding_sru.json.gz";
 default outfile2="prod/output/sol1Holding_sru.tsv.gz";
 default version="prod/";
+default source="sru/zdb";
 
 // The SRU records are provided as collections combining bibliographic and holding records
 // Beside the combining collection tag there seems to be no linkage / reference between bibliographic and holdings.
@@ -62,7 +63,7 @@ outfile
 | open-file
 | as-lines
 | decode-json
-| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix")
+| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix",*)
 | batch-log(batchsize="1000")
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
 | write(outfile2, compression="gzip")
