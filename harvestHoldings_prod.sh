@@ -12,7 +12,7 @@ $Metafacture_Runner flux/mab2De-Sol1Holdings_seq_prod.flux outfile2="prod/output
 
 # Create Holdings from SRU Request
 echo "Start transformation for SRU Data" && date
-$Metafacture_Runner flux/zdbSRUMarcBibliographicAndHoldings2De-Sol1Holdings_prod.flux outfile2="prod/output/sol1Holding_sru.tsv.gz"
+$Metafacture_Runner flux/zdbSru2De-Sol1Holdings_marc_prod.flux outfile2="prod/output/sol1Holding_sru.tsv.gz"
 
 # Concatinate results
 echo "Combine output in single file combinedDe-Sol1Holdings.tsv.gz" && date
