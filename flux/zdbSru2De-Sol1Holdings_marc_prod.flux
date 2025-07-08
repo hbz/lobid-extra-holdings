@@ -25,8 +25,8 @@ sruHarvest
 | literal-to-object
 | open-http(accept="application/json", header="User-Agent: lobid-extra-holdings for DE-Sol1 with Metafacture")
 | as-records
-| decode-json
-| fix("retain('almaMmsId','zdbId')")
+| decode-json(recordPath="member")
+| fix(FLUX_DIR + "../fix/zdbSru2LobidMap.fix")
 | encode-csv(noQuotes="true",separator="\t")
 | write("prod/map/almaMmsId2ZdbId.tsv")
 ;
