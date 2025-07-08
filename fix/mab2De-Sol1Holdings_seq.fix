@@ -1,11 +1,18 @@
 do once("maps")
 	put_filemap("../prod/map/identifier.tsv","hbzId2AlmaMmsId", sep_char:"\t",key_column:"1",value_column:"0",expected_columns:"-1")
 	put_filemap("../prod/map/identifier.tsv","zdbId2AlmaMmsId", sep_char:"\t",key_column:"2",value_column:"0",expected_columns:"-1")
+	put_filemap("../prod/map/identifier.tsv","hbzId2zdbId", sep_char:"\t",key_column:"1",value_column:"2",expected_columns:"-1")
 end
 
 # Lookup MMS Ids for the old HT Numbers or ZDB IDs.
 
 copy_field("012.a","almaMmsId")
+copy_field("012.a","zdbId")
+lookup("zdbId", "hbzId2zdbId",delete:"true")
+if exists("zdbId")
+	reject()
+end
+
 if any_match("almaMmsId","^[A-Z]{2}.*")
 	lookup("almaMmsId","hbzId2AlmaMmsId")
 else

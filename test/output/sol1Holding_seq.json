@@ -10596,21 +10596,4 @@
     },
     "type" : [ "Item", "PhysicalObject" ]
   } ]
-},{
-  "id" : "http://lobid.org/resources/990053977330206441#!",
-  "hasItem" : [ {
-    "id" : "http://lobid.org/items/990053977330206441:DE-Sol1:HBZ60033111491-000010#!",
-    "label" : "lobid Bestandsressource",
-    "callNumber" : "GA 1670",
-    "inCollection" : [ {
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    } ],
-    "heldBy" : {
-      "isil" : "DE-Sol1",
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    },
-    "type" : [ "Item", "PhysicalObject" ]
-  } ]
 }]
