@@ -1,6 +1,7 @@
 default infile="prod/input/export_mab_hbz60.z9035.f.20250108.091329.seq";
 default outfile="prod/output/sol1Holding_seq.json.gz";
 default outfile2="prod/output/sol1Holding_seq.tsv.gz";
+default source="aleph seq";
 
 
 infile
@@ -20,10 +21,8 @@ outfile
 | open-file
 | as-lines
 | decode-json
-| fix("	to_json('hasItem[]')
-	move_field('hasItem[]','holdings')
-	retain('id','holdings')"
-)
+| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix",*)
+| batch-log(batchsize="1000")
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
 | write(outfile2, compression="gzip")
 ;

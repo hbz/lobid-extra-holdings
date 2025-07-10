@@ -1,0 +1,7 @@
+to_json("hasItem[]")
+
+move_field("hasItem[]","holdings")
+
+add_field("source", "$[source]")
+
+retain("id","holdings","source")
