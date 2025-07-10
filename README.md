@@ -18,7 +18,7 @@ Paths in the following CLI commands may need to be adjusted.
 If you want to update the testfiles for SRU you have to undo the outcommenting of the initial workjflow part of `flux/zdbSru2De-Sol1Holdings_marc_test.flux`
 
 ### For complete prod bulk run:
-You need to have a aleph seq file placed in `prod/input` as well as a internet connection running to fecht data from SRU as well from lobid resources
+You need to have an aleph seq file placed in `prod/input` as well as an internet connection running to fetch data from SRU as well as from lobid resources.
 
 #### Transformation of MAB Data:
 `bash harvestHoldings_prod.sh '/path/to/your/metafix-runner/flux.sh'`
