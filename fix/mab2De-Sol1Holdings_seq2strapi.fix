@@ -1,0 +1,78 @@
+do once("maps")
+	put_filemap("../prod/map/identifier.tsv","hbzId2AlmaMmsId", sep_char:"\t",key_column:"1",value_column:"0",expected_columns:"-1")
+	put_filemap("../prod/map/identifier.tsv","zdbId2AlmaMmsId", sep_char:"\t",key_column:"2",value_column:"0",expected_columns:"-1")
+	put_filemap("../prod/map/identifier.tsv","hbzId2zdbId", sep_char:"\t",key_column:"1",value_column:"2",expected_columns:"-1")
+end
+
+if any_equal("FMT","ML")
+
+	copy_field("001.a","holdingId")
+	copy_field("002a.a","dateCreated")
+	copy_field("003.a","dateModified")
+	copy_field("004.a","dateAustausch")
+	# 012.a
+
+	copy_field("012.a","hbzId")
+	copy_field("012.a","almaMmsId")
+	copy_field("012.a","zdbId")
+
+	# 210a.*.d
+	# 210a.*.j
+	# 210a.*.k
+	# 210a.*.n
+	# 210a.d
+	# 210a.j
+	# 210a.k
+	# 210a.k.*
+	# 210a.n
+	# 210b.d
+	# 210b.j
+	# 210b.j.*
+	
+	do list(path:"210a","var":"$i")
+		copy_field("$i","holdingInfo[].$append")
+	end
+
+	copy_field("220","additionalCallNumber_2")
+
+else
+	copy_field("001.a","item.itemId")
+	copy_field("002a.a","item.dateCreated")
+	copy_field("003.a","item.dateModified")
+	copy_field("004.a","item.dateAustausch")
+# 010.a
+# 012.a
+	# copy_field("012.a","hbzId")
+	copy_field("012.a","almaMmsId")
+	copy_field("012.a","zdbId")
+	lookup("zdbId", "hbzId2zdbId",delete:"true")
+
+	copy_field("100.a","item.callNumber")
+	copy_field("105.a","item.location")
+	copy_field("107.a","item.additionalCallNumber")
+	copy_field("115.a","item.inventoryNumber")
+	copy_field("120.a","item.serialNumber")
+	copy_field("125a.a","item.note")
+	copy_field("125b.a","item.internalNote")
+end
+
+lookup("zdbId", "hbzId2zdbId",delete:"true")
+
+if any_match("almaMmsId","^[A-Z]{2}.*")
+	lookup("almaMmsId","hbzId2AlmaMmsId")
+else
+	lookup("almaMmsId","zdbId2AlmaMmsId")
+end
+
+retain("item",
+	"holdingId",
+	"dateCreated",
+	"dateModified",
+	"dateAustausch",
+	"hbzId",
+	"almaMmsId",
+	"zdbId",
+	"holdinginfo[]",
+	"additionalCallNumber_2"
+	)
+	

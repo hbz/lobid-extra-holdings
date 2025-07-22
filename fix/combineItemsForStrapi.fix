@@ -1,0 +1,3 @@
+paste("id", "~http://lobid.org/resources/", "_id", "~#!", join_char:"")
+copy_field("_id","almaMmsId")
+move_field("item","item[].$append")
