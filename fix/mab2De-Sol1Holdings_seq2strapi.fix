@@ -34,7 +34,31 @@ if any_equal("FMT","ML")
 	# 210b.j.*
 	
 	do list(path:"210a","var":"$i")
+		add_field("holdingInfo[].$append.ind","a")
+		copy_field("$i.d","holdingInfo[].$last.d")
+		copy_field("$i.n","holdingInfo[].$last.n")
+		if is_array("$i.k")
+			join_field("$i.k",", ")
+		end
+		copy_field("$i.k","holdingInfo[].$last.k")
+		if is_array("$i.j")
+			join_field("$i.j",", ")
+		end
+		copy_field("$i.j","holdingInfo[].$last.j")
+	end
+	do list(path:"210b","var":"$i")
+		add_field("holdingInfo[].$append.ind","b")
 		copy_field("$i","holdingInfo[].$append")
+		copy_field("$i.d","holdingInfo[].$last.d")
+		copy_field("$i.n","holdingInfo[].$last.n")
+		if is_array("$i.k")
+			join_field("$i.k",", ")
+		end
+		copy_field("$i.k","holdingInfo[].$last.k")
+		if is_array("$i.j")
+			join_field("$i.j",", ")
+		end
+		copy_field("$i.j","holdingInfo[].$last.j")
 	end
 
 	copy_field("220","additionalCallNumber_2")
@@ -84,7 +108,7 @@ retain("item",
 	"hbzId",
 	"almaMmsId",
 	"zdbId",
-	"holdinginfo[]",
+	"holdingInfo[]",
 	"additionalCallNumber_2"
 	)
 	
