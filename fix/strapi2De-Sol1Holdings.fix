@@ -15,6 +15,12 @@ do list(path:"hasItem[]", "var":"$i")
 end
 
 vacuum()
+
+
+if exists("zdbId")
+	reject()
+end
+
 retain("id",
 	"hasItem[].*.id",
 	"hasItem[].*.label",	
