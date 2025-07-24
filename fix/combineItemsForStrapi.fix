@@ -1,7 +1,7 @@
 paste("id", "~http://lobid.org/resources/", "_id", "~#!", join_char:"")
 paste("lobidUri", "~http://lobid.org/resources/", "_id", "~#!", join_char:"")
 copy_field("_id","almaMmsId")
-move_field("item","Item[].$append")
+move_field("item","hasItem[].$append")
 uniq("almaMmsId")
 uniq("zdbId")
 uniq("hbzId")
