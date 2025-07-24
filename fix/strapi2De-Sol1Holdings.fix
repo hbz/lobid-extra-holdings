@@ -1,0 +1,26 @@
+copy_field("lobidUri","id")
+
+do list(path:"hasItem[]", "var":"$i")
+	paste("$i.id","~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "itemId","~#!",join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
+	add_field("$i.label", "lobid Bestandsressource")
+	set_array("$i.inCollection[]")
+	add_field("$i.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
+	add_field("$i.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
+	add_field("$i.heldBy.isil", "DE-Sol1")
+	add_field("$i.heldBy.id", "http://lobid.org/organisations/DE-Sol1#!")
+	add_field("$i.heldBy.label", "Stadtarchiv Solingen, Bibliothek")
+	set_array("$i.type[]")
+	add_field("$i.type[].$append", "Item")
+	add_field("$i.type[].$append", "PhysicalObject") # Wie kann man andere Publikationstypen mappen?
+end
+
+vacuum()
+retain("id",
+	"hasItem[].*.id",
+	"hasItem[].*.label",	
+	"hasItem[].*.callNumber",
+	"hasItem[].*.inventoryNumber",
+	"hasItem[].*.serialNumber",
+	"hasItem[].*.inCollection[]",
+	"hasItem[].*.heldBy",
+	"hasItem[].*.type[]")
