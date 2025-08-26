@@ -23,9 +23,9 @@ echo "Combine output in single file combinedDe-Sol1Holdings.tsv.gz" && date
 $Metafacture_Runner flux/combineFiles_prod.flux
 echo "Done" && date
 
-numberOfLines=(wc -l ./prod/output/combinedDe-Sol1Holdings.tsv.gz)
-if (numberOfLines > 80000)
-	cp ./prod/output/combinedDe-Sol1Holdings.tsv.gz ..lobid-resources/src/main/resources/alma/maps/combinedDe-Sol1Holdings.tsv.gz
+numberOfLines=$(zcat ./prod/output/combinedDe-Sol1Holdings.tsv.gz | wc -l)
+if [[ $numberOfLines -gt 80000 ]]; then
+	cp ./prod/output/combinedDe-Sol1Holdings.tsv.gz ../lobid-resources/src/main/resources/alma/maps/combinedDe-Sol1Holdings.tsv.gz
 else
-	echo "Number of lines too small"
-end
+	echo "Number of lines ($numberOfLines) too small"
+fi
