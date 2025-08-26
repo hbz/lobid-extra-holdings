@@ -4,16 +4,19 @@ default outfile2="prod/output/sol1Holding_sru.tsv.gz";
 default version="prod/";
 default source="sru/zdb";
 
-// The SRU records are provided as collections combining bibliographic and holding records
+// The ZDB SRU records are provided as collections combining bibliographic and holding records
 // Beside the combining collection tag there seems to be no linkage / reference between bibliographic and holdings.
 
 "https://services.dnb.de/sru/zdb"
-| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1",version="1.1",maximumRecords="100")
+| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1",version="1.1",maximumRecords="100",userAgent="hbz/lobid-extra-holdings")
 | as-records
 // The following two steps create a single xml file from the multiple incoming sru requests, saved into a harvest tag
 | match(pattern="<\\?xml version=.*?>", replacement="")
 | write(sruHarvest, header="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<harvest>",footer="</harvest>")
 ;
+
+"SRU Harvest finished. Start creating ZDB -> ALMA Mapping file."
+| print;
 
 // Step 1: Create mapping file of zdbId -> almaMmsIds, this will be used in later process in step 3:
 
@@ -27,9 +30,13 @@ sruHarvest
 | as-records
 | decode-json(recordPath="member")
 | fix(FLUX_DIR + "../fix/zdbSru2LobidMap.fix")
+| batch-log(batchsize="1000")
 | encode-csv(noQuotes="true",separator="\t")
 | write("prod/map/almaMmsId2ZdbId.tsv")
 ;
+
+"ZDB Mapping File finished. Start transforming ZDB to lobid Holdings."
+| print;
 
 
 // Step 2: Read the data as generic xml and copy the ZDB-ID to the Holding-Records as 004
