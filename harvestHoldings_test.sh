@@ -10,9 +10,9 @@ die() {
     exit 1
 }
 
-# Create Holdings from old ALEPH Seq Dump
-echo "Start transformation for ALEPH Seq Data" && date
-$Metafacture_Runner flux/mab2De-Sol1Holdings_seq_test.flux outfile2="test/output/sol1Holding_seq.tsv" || die 'Harvesting or Transformation of Seq Data failed'
+# Create Holdings from Strapi Export
+echo "Start transformation for Strapi Export Data" && date
+$Metafacture_Runner flux/strapi2lobid_test.flux outfile2="test/output/sol1Holding_strapiOut.tsv" || die 'Harvesting or Transformation of Seq Data failed'
 
 
 # Create Holdings from  ZDB SRU Request
@@ -21,5 +21,5 @@ $Metafacture_Runner flux/zdbSru2De-Sol1Holdings_marc_test.flux outfile2="test/ou
 
 # Concatinate results
 echo "Combine output in single file combinedDe-Sol1Holdings.tsv" && date
-$Metafacture_Runner flux/combineFiles_test.flux
+$Metafacture_Runner flux/combineFiles_test.flux outfile="test/output/combinedDe-Sol1Holdings_withStrapi.tsv" fileName="sol1Holding_(strapiOut|sru)\\.tsv"
 echo "Done" && date
