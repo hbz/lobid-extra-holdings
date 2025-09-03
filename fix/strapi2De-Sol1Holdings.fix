@@ -1,7 +1,7 @@
 copy_field("lobidUri","id")
 
 do list(path:"hasItem[]", "var":"$i")
-	paste("$i.id","~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "itemId","~#!",join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
+	paste("$i.id","~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "$i.itemId","~#!",join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
 	add_field("$i.label", "lobid Bestandsressource")
 	set_array("$i.inCollection[]")
 	add_field("$i.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
