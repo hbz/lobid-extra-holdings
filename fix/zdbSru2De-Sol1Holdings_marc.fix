@@ -31,5 +31,6 @@ add_field("holding.heldBy.label", "Stadtarchiv Solingen, Bibliothek")
 set_array("holding.type[]")
 add_field("holding.type[].$append", "Item")
 add_field("holding.type[].$append", "PhysicalObject") # Wie kann man andere Publikationstypen mappen?
+copy_field("8663?.a","holding.enumarationAndChronology")
 
 retain("almaMmsId", "holding")
