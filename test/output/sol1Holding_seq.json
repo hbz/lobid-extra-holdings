@@ -10596,4 +10596,22 @@
     },
     "type" : [ "Item", "PhysicalObject" ]
   } ]
+},{
+  "id" : "http://lobid.org/resources/99371454179906441#!",
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/99371454179906441:DE-Sol1:HBZ60072791546-000010#!",
+    "label" : "lobid Bestandsressource",
+    "callNumber" : "MA 387/37,3",
+    "inventoryNumber" : "2022.116",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    },
+    "type" : [ "Item", "PhysicalObject" ]
+  } ]
 }]
