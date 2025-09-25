@@ -5,15 +5,13 @@ The holding for DE-Sol1 are provided as MAB and ALEPH Seq files, and for ZDB rel
 
 ## To run transformation workflow process the flux file with your current metafacture runner.
 
-For the transformations Metafacture is used.
-
-You need the current runner of metafacture fix release: https://github.com/metafacture/metafacture-fix/releases
+For the transformations Metafacture is used. A runner is included in the repo.
 
 Paths in the following CLI commands may need to be adjusted.
 
 ### For test purposes run:
 
-`bash harvestHoldings_test.sh '/path/to/your/metafix-runner/flux.sh'`
+`bash harvestHoldings_test.sh './metafix-core/flux.sh'`
 
 If you want to update the testfiles for SRU you have to undo the outcommenting of the initial workjflow part of `flux/zdbSru2De-Sol1Holdings_marc_test.flux`
 
@@ -21,4 +19,4 @@ If you want to update the testfiles for SRU you have to undo the outcommenting o
 You need to have an aleph seq file placed in `prod/input` as well as an internet connection running to fetch data from SRU as well as from lobid resources.
 
 #### Transformation of MAB Data:
-`bash harvestHoldings_prod.sh '/path/to/your/metafix-runner/flux.sh'`
+`bash harvestHoldings_prod.sh './metafix-core/flux.sh'`
