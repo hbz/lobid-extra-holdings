@@ -10597,9 +10597,9 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ]
 },{
-  "id" : "http://lobid.org/resources/HT021432025#!",
+  "id" : "http://lobid.org/resources/99371454179906441#!",
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/HT021432025:DE-Sol1:HBZ60072791546-000010#!",
+    "id" : "http://lobid.org/items/99371454179906441:DE-Sol1:HBZ60072791546-000010#!",
     "label" : "lobid Bestandsressource",
     "callNumber" : "MA 387/37,3",
     "inventoryNumber" : "2022.116",
