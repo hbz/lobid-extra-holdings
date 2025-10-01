@@ -14,7 +14,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "45.2021"
+    "enumerationAndChronology" : "45.2021"
   } ]
 },{
   "id" : "http://lobid.org/resources/990190704620206441#!",
@@ -32,7 +32,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "1994"
+    "enumerationAndChronology" : "1994"
   } ]
 },{
   "id" : "http://lobid.org/resources/990191404750206441#!",
@@ -50,7 +50,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "2006 - 2011"
+    "enumerationAndChronology" : "2006 - 2011"
   } ]
 },{
   "id" : "http://lobid.org/resources/990191405040206441#!",
@@ -68,7 +68,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "2012 - 2015; 2020"
+    "enumerationAndChronology" : "2012 - 2015; 2020"
   } ]
 },{
   "id" : "http://lobid.org/resources/990178651630206441#!",
@@ -86,7 +86,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "1996 - 2015"
+    "enumerationAndChronology" : "1996 - 2015"
   } ]
 },{
   "id" : "http://lobid.org/resources/990179404770206441#!",
@@ -104,7 +104,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "1928(1929) - 1929(1930)"
+    "enumerationAndChronology" : "1928(1929) - 1929(1930)"
   } ]
 },{
   "id" : "http://lobid.org/resources/990194061790206441#!",
@@ -122,7 +122,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "2.1911/12(1912)"
+    "enumerationAndChronology" : "2.1911/12(1912)"
   } ]
 },{
   "id" : "http://lobid.org/resources/990194446500206441#!",
@@ -140,7 +140,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "2012"
+    "enumerationAndChronology" : "2012"
   } ]
 },{
   "id" : "http://lobid.org/resources/990193841450206441#!",
@@ -158,7 +158,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "Wahlper. 16. 2012/17(2014)=2. Aufl."
+    "enumerationAndChronology" : "Wahlper. 16. 2012/17(2014)=2. Aufl."
   } ]
 },{
   "id" : "http://lobid.org/resources/990194004200206441#!",
@@ -176,7 +176,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "25.1987/2011(2012)"
+    "enumerationAndChronology" : "25.1987/2011(2012)"
   } ]
 },{
   "id" : "http://lobid.org/resources/990192304190206441#!",
@@ -194,7 +194,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "10.2020,3 - 11.2021,6; 12.2022,1-5; 13.2023,1-"
+    "enumerationAndChronology" : "10.2020,3 - 11.2021,6; 12.2022,1-5; 13.2023,1-"
   } ]
 },{
   "id" : "http://lobid.org/resources/990165489430206441#!",
@@ -212,7 +212,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "2009,3-4; 2010 - 2020,2"
+    "enumerationAndChronology" : "2009,3-4; 2010 - 2020,2"
   } ]
 },{
   "id" : "http://lobid.org/resources/990164705080206441#!",
@@ -230,7 +230,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "1964(1965)"
+    "enumerationAndChronology" : "1964(1965)"
   } ]
 },{
   "id" : "http://lobid.org/resources/990167161250206441#!",
@@ -248,7 +248,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "2008 - 2009; 2011-2013"
+    "enumerationAndChronology" : "2008 - 2009; 2011-2013"
   } ]
 },{
   "id" : "http://lobid.org/resources/990170707870206441#!",
@@ -266,7 +266,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "1.1875[1876]"
+    "enumerationAndChronology" : "1.1875[1876]"
   } ]
 },{
   "id" : "http://lobid.org/resources/990160083270206441#!",
@@ -284,7 +284,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "1950 - 1955"
+    "enumerationAndChronology" : "1950 - 1955"
   } ]
 },{
   "id" : "http://lobid.org/resources/990156352200206441#!",
@@ -302,7 +302,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "1815,1(3.Jan.) - 1815,52(26.Dez.)"
+    "enumerationAndChronology" : "1815,1(3.Jan.) - 1815,52(26.Dez.)"
   } ]
 },{
   "id" : "http://lobid.org/resources/990157201130206441#!",
@@ -320,7 +320,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "48.2007 -"
+    "enumerationAndChronology" : "48.2007 -"
   } ]
 },{
   "id" : "http://lobid.org/resources/990157589710206441#!",
@@ -338,7 +338,7 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "2015,He./Wi.; 2016,Frü./So."
+    "enumerationAndChronology" : "2015,He./Wi.; 2016,Frü./So."
   } ]
 },{
   "id" : "http://lobid.org/resources/990158022690206441#!",
@@ -356,6 +356,6 @@
       "label" : "Stadtarchiv Solingen, Bibliothek"
     },
     "type" : [ "Item", "PhysicalObject" ],
-    "enumarationAndChronology" : "4.1958/59(1959)"
+    "enumerationAndChronology" : "4.1958/59(1959)"
   } ]
 }]
