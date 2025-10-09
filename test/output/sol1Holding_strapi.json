@@ -9387,7 +9387,19 @@
     "callNumber" : "GA 1670"
   } ]
 },{
-  "id" : "http://lobid.org/resources/000034376#!",
-  "lobidUri" : "http://lobid.org/resources/000034376#!",
-  "almaMmsId" : "000034376"
+  "holdingId" : "HL022022994",
+  "dateCreated" : "2022-10-13",
+  "dateAustausch" : "2025-01-08",
+  "hbzId" : "HT021432025",
+  "id" : "http://lobid.org/resources/HT021432025#!",
+  "lobidUri" : "http://lobid.org/resources/HT021432025#!",
+  "almaMmsId" : "HT021432025",
+  "hasItem" : [ {
+    "itemId" : "HBZ60072791546-000010",
+    "dateCreated" : "2022-10-13",
+    "dateModified" : "2022-10-13",
+    "dateAustausch" : "2025-01-08",
+    "callNumber" : "MA 387/37,3",
+    "inventoryNumber" : "2022.116"
+  } ]
 }]
