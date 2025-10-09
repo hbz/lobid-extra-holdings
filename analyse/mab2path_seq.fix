@@ -1,0 +1,56 @@
+do once("maps")
+	put_filemap("../prod/map/identifier.tsv","hbzId2AlmaMmsId", sep_char:"\t",key_column:"1",value_column:"0",expected_columns:"-1")
+	put_filemap("../prod/map/identifier.tsv","zdbId2AlmaMmsId", sep_char:"\t",key_column:"2",value_column:"0",expected_columns:"-1")
+	put_filemap("../prod/map/identifier.tsv","hbzId2zdbId", sep_char:"\t",key_column:"1",value_column:"2",expected_columns:"-1")
+end
+
+# Lookup MMS Ids for the old HT Numbers or ZDB IDs.
+
+copy_field("012.a","almaMmsId")
+copy_field("012.a","zdbId")
+lookup("zdbId", "hbzId2zdbId",delete:"true")
+
+if any_match("almaMmsId","^[A-Z]{2}.*")
+	lookup("almaMmsId","hbzId2AlmaMmsId")
+else
+	lookup("almaMmsId","zdbId2AlmaMmsId")
+end
+
+if any_match("FMT","ML")
+	copy_field("001.a","_id")
+else
+	copy_field("010.a","_id")
+end
+
+# Only create holding_ for Records with ME as Format. The other are the local records.
+# Each ME Record is one holding_ They need to be aggregated.
+# holding_ are created not as arrays but as objects,
+# so that they can be combined into in hasItem in a later stage of the MF Workflow.do
+
+
+if any_equal("FMT","ME")
+	move_field("FMT","holding_FMT")
+	move_field("LDR","holding_LDR")
+	move_field("001","holding_001")
+	move_field("002a","holding_002a")
+	move_field("003","holding_003")
+	move_field("004","holding_004")
+	move_field("010","holding_010")
+	move_field("012","holding_012")
+	move_field("030","holding_030")
+	move_field("050","holding_050")
+	move_field("070","holding_070")
+	move_field("070a","holding_070a")
+	move_field("070b","holding_070b")
+	move_field("071","holding_071")
+	move_field("076a","holding_076a")
+	move_field("100","holding_100")
+	move_field("105","holding_105")
+	move_field("107","holding_107")
+	move_field("115","holding_115")
+	move_field("120","holding_120")
+	move_field("125a","holding_125a")
+	move_field("125b","holding_125b")
+end
+
+# retain("almaMmsId", "holding_)

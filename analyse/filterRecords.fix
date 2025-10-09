@@ -1,0 +1,13 @@
+uniq("_id")
+uniq("zdbId")
+uniq("hbzId")
+uniq("almaMmsId")
+
+if exists('zdbId')
+	reject()
+end
+
+unless exists("holding*")
+	reject()
+end
+
