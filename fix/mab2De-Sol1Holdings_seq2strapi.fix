@@ -40,35 +40,35 @@ if any_equal("FMT","ML")
 	# 210b.j.*
 	
 	do list(path:"210a","var":"$i")
-		add_hash("holdingInfo[].$append")
-		copy_field("$i.d","holdingInfo[].$last.value.$append")
-		copy_field("$i.n","holdingInfo[].$last.value.$append")
+		copy_field("$i.d","@210a.$append")
+		copy_field("$i.n","@210a.$append")
 		if is_array("$i.k")
 			join_field("$i.k",", ")
 		end
-		copy_field("$i.k","holdingInfo[].$last.value.$append")
+		copy_field("$i.k","@210a.$append")
 		if is_array("$i.j")
 			join_field("$i.j",", ")
 		end
-		copy_field("$i.j","holdingInfo[].$last.value.$append")
-		join_field("holdingInfo[].$last.value",", ")
-		prepend("holdingInfo[].$last.value","210a: ")
+		copy_field("$i.j","@210a.$append")
+		join_field("@210a",", ")
+		paste("holdingInfo.$append","~210a: ", "@210a")
 	end
 	do list(path:"210b","var":"$i")
-		add_hash("holdingInfo[].$append")		copy_field("$i.d","holdingInfo[].$last.value.$append")
-		copy_field("$i.n","holdingInfo[].$last.value.$append")
+		copy_field("$i.d","@210b.$append")
+		copy_field("$i.n","@210b.$append")
 		if is_array("$i.k")
 			join_field("$i.k",", ")
 		end
-		copy_field("$i.k","holdingInfo[].$last.value.$append")
+		copy_field("$i.k","@210b.$append")
 		if is_array("$i.j")
 			join_field("$i.j",", ")
 		end
-		copy_field("$i.j","holdingInfo[].$last.value.$append")
-		join_field("holdingInfo[].$last.value",", ")			prepend("holdingInfo[].$last.value","210b: ")
+		copy_field("$i.j","@210b.$append")
+		join_field("@210b",", ")
+		paste("holdingInfo.$append","~210b: ", "@210b")
 	end
-	call_macro("moveToNote",field:"220",targedField:"holdingInfo[].$append.value.$append")
-	
+	call_macro("moveToNote",field:"220",targedField:"holdingInfo.$append")
+	join_field("holdingInfo","\n")
 
 else
 	copy_field("001.a","item.itemId")
@@ -86,11 +86,13 @@ else
 
 	copy_field("115.a","item.inventoryNumber")
 
-	call_macro("moveToNote",field:"125a",targedField:"item.note[].$append.value")
-	call_macro("moveToNote",field:"125b",targedField:"item.note[].$append.value")
-	call_macro("moveToNote",field:"107",targedField:"item.note[].$append.value")
-	call_macro("moveToNote",field:"120",targedField:"item.note[].$append.value")
-	call_macro("moveToNote",field:"105",targedField:"item.note[].$append.value")
+	call_macro("moveToNote",field:"125a",targedField:"item.note.$append")
+	call_macro("moveToNote",field:"125b",targedField:"item.note.$append")
+	call_macro("moveToNote",field:"107",targedField:"item.note.$append")
+	call_macro("moveToNote",field:"120",targedField:"item.note.$append")
+	call_macro("moveToNote",field:"105",targedField:"item.note.$append")
+	join_field("item.note","\n")
+
 end
 
 lookup("zdbId", "hbzId2zdbId",delete:"true")
@@ -117,6 +119,6 @@ retain("item",
 	"hbzId",
 	"almaMmsId",
 	"zdbId",
-	"holdingInfo[]"
+	"holdingInfo"
 	)
 	

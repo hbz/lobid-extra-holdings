@@ -5103,9 +5103,7 @@
     "dateModified" : "2008-04-30",
     "dateAustausch" : "2024-11-28",
     "callNumber" : "GA 2700/[6]",
-    "note" : [ {
-      "value" : "125a: Kopie"
-    } ]
+    "note" : "125a: Kopie"
   } ]
 },{
   "holdingId" : "HL006382700",
@@ -9348,15 +9346,7 @@
   "dateAustausch" : "2025-01-08",
   "hbzId" : "HT000222451",
   "zdbId" : "1138-1",
-  "holdingInfo" : [ {
-    "value" : "210a: 5, 1953"
-  }, {
-    "value" : "210a: 6, 21, 1969, 1954"
-  }, {
-    "value" : "210a: 38, 43, 1991, 1986"
-  }, {
-    "value" : "220: I D 10"
-  } ],
+  "holdingInfo" : "210a:  5, 1953\n210a:  5, 1953, 6, 21, 1969, 1954\n210a:  5, 1953, 6, 21, 1969, 1954, 38, 43, 1991, 1986\n220: I D 10",
   "id" : "http://lobid.org/resources/990053975100206441#!",
   "lobidUri" : "http://lobid.org/resources/990053975100206441#!",
   "almaMmsId" : "990053975100206441"
