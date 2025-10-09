@@ -6,6 +6,12 @@ do once("maps_macros")
 	do put_macro("dateNormalizer")
 		replace_all("$[field]", "(\\d{4})(\\d{2})(\\d{2})","$1-$2-$3")
 	end
+
+	do put_macro("moveToNote")
+		if exists("$[field]")
+			paste("$[targedField]","~$[field]:", "$[field].a")
+		end
+	end
 end
 
 if any_equal("FMT","ML")
@@ -34,34 +40,35 @@ if any_equal("FMT","ML")
 	# 210b.j.*
 	
 	do list(path:"210a","var":"$i")
-		add_field("holdingInfo[].$append.ind","a")
-		copy_field("$i.d","holdingInfo[].$last.d")
-		copy_field("$i.n","holdingInfo[].$last.n")
+		add_hash("holdingInfo[].$append")
+		copy_field("$i.d","holdingInfo[].$last.value.$append")
+		copy_field("$i.n","holdingInfo[].$last.value.$append")
 		if is_array("$i.k")
 			join_field("$i.k",", ")
 		end
-		copy_field("$i.k","holdingInfo[].$last.k")
+		copy_field("$i.k","holdingInfo[].$last.value.$append")
 		if is_array("$i.j")
 			join_field("$i.j",", ")
 		end
-		copy_field("$i.j","holdingInfo[].$last.j")
+		copy_field("$i.j","holdingInfo[].$last.value.$append")
+		join_field("holdingInfo[].$last.value",", ")
+		prepend("holdingInfo[].$last.value","210a: ")
 	end
 	do list(path:"210b","var":"$i")
-		add_field("holdingInfo[].$append.ind","b")
-		copy_field("$i","holdingInfo[].$append")
-		copy_field("$i.d","holdingInfo[].$last.d")
-		copy_field("$i.n","holdingInfo[].$last.n")
+		add_hash("holdingInfo[].$append")		copy_field("$i.d","holdingInfo[].$last.value.$append")
+		copy_field("$i.n","holdingInfo[].$last.value.$append")
 		if is_array("$i.k")
 			join_field("$i.k",", ")
 		end
-		copy_field("$i.k","holdingInfo[].$last.k")
+		copy_field("$i.k","holdingInfo[].$last.value.$append")
 		if is_array("$i.j")
 			join_field("$i.j",", ")
 		end
-		copy_field("$i.j","holdingInfo[].$last.j")
+		copy_field("$i.j","holdingInfo[].$last.value.$append")
+		join_field("holdingInfo[].$last.value",", ")			prepend("holdingInfo[].$last.value","210b: ")
 	end
-
-	copy_field("220","additionalCallNumber_2")
+	call_macro("moveToNote",field:"220",targedField:"holdingInfo[].$append.value.$append")
+	
 
 else
 	copy_field("001.a","item.itemId")
@@ -76,12 +83,14 @@ else
 	lookup("zdbId", "hbzId2zdbId",delete:"true")
 
 	copy_field("100.a","item.callNumber")
-	copy_field("105.a","item.location")
-	copy_field("107.a","item.additionalCallNumber")
+
 	copy_field("115.a","item.inventoryNumber")
-	copy_field("120.a","item.serialNumber")
-	copy_field("125a.a","item.note")
-	copy_field("125b.a","item.internalNote")
+
+	call_macro("moveToNote",field:"125a",targedField:"item.note[].$append.value")
+	call_macro("moveToNote",field:"125b",targedField:"item.note[].$append.value")
+	call_macro("moveToNote",field:"107",targedField:"item.note[].$append.value")
+	call_macro("moveToNote",field:"120",targedField:"item.note[].$append.value")
+	call_macro("moveToNote",field:"105",targedField:"item.note[].$append.value")
 end
 
 lookup("zdbId", "hbzId2zdbId",delete:"true")
@@ -108,7 +117,6 @@ retain("item",
 	"hbzId",
 	"almaMmsId",
 	"zdbId",
-	"holdingInfo[]",
-	"additionalCallNumber_2"
+	"holdingInfo[]"
 	)
 	
