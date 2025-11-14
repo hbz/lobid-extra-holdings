@@ -2,7 +2,12 @@
 
 Non-Alma holdings for lobid-resources (currently only DE-Sol1).
 
-The holdings for DE-Sol1 are provided as MAB and ALEPH Seq files, and for ZDB related resources as SRU/Marc records combining bibliographic as well as holding information in one collection element . Find examples in `test/input`. Holdings are provided in separate records and items for the same resource need to be merged into a single resource as different objects in `hasItem`. Each item in `hasItem` represents a single holding item.
+Holdings for DE-Sol1 are provided in two ways:
+
+- as ndjson export from the productive strapi-de-sol1 database that was initially populated with data from the ALEPH Seq files
+- for ZDB related resources as SRU/Marc records combining bibliographic as well as holding information in one collection element
+ 
+Find examples in `test/input`. Holdings are provided in separate records and items for the same resource need to be merged into a single resource as different objects in `hasItem`. Each item in `hasItem` represents a single holding item.
 
 ## Prerequisites
 
