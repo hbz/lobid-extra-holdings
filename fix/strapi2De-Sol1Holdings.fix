@@ -1,7 +1,7 @@
 copy_field("lobidUri", "id")
 
 do list(path:"hasItem[]", "var":"$i")
-	paste("$i.id", "~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "$i.itemId", "~#!", join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
+	paste("$i.id", "~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "$i.itemId", "~#!", join_char:"") # Currently 001 of the former MAB data is set as itemId.
 	add_field("$i.label", "lobid Bestandsressource")
 	set_array("$i.inCollection[]")
 	add_field("$i.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
@@ -11,7 +11,7 @@ do list(path:"hasItem[]", "var":"$i")
 	add_field("$i.heldBy.label", "Stadtarchiv Solingen, Bibliothek")
 	set_array("$i.type[]")
 	add_field("$i.type[].$append", "Item")
-	add_field("$i.type[].$append", "PhysicalObject") # Wie kann man andere Publikationstypen mappen?
+	add_field("$i.type[].$append", "PhysicalObject") # Currently all holdings are typed PhysicalObject if we need to allow others then we also need to change this in strapi.
 end
 
 vacuum()
