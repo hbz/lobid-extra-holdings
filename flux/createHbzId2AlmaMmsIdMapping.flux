@@ -8,6 +8,6 @@ infile
 | as-lines
 | decode-json
 | fix(FLUX_DIR + "../fix/hbzId2AlmaMmsId.fix")
-| encode-csv(separator="\t", noquotes="true")
+| encode-csv(separator="\t", noQuotes="true")
 | write(FLUX_DIR + "../prod/map/identifier.tsv")
 ;

@@ -4,7 +4,7 @@ default fileName="sol1Holding_(seq|sru)\\.tsv\\.gz";
 
 
 folderPath
-| read-dir(filenamepattern=fileName)
+| read-dir(fileNamePattern=fileName)
 | open-file
 | as-lines
 | write(outfile, compression="gzip")

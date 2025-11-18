@@ -39,20 +39,20 @@ sruHarvest
 sruHarvest
 | open-file
 | decode-xml
-| handle-generic-xml(recordtagname="collection", attributemarker="#")
+| handle-generic-xml(recordTagName="collection", attributeMarker="#")
 | fix(FLUX_DIR + "../fix/setReference004.fix")
-| encode-xml(recordtag="collection", attributemarker="#", valuetag="value")
+| encode-xml(recordTag="collection", attributeMarker="#", valueTag="value")
 
 // Step 2:  Read the records again, but this time as marcXml.
 // Filter out all records but the holdings of DE-Sol1 and build the holding information in  JSOn
 | lines-to-records
 | read-string
 | decode-xml
-| handle-marcxml(ignorenamespace="true")
+| handle-marcxml(ignoreNamespace="true")
 | fix(FLUX_DIR + "../fix/zdbSru2De-Sol1Holdings_marc.fix",*) // creates holding information for Holding Records of DE-Sol1
 
 // Step 4: Combine multiple holdings for one resource to one holding array/record.
-| change-id(idliteral="almaMmsId")
+| change-id(idLiteral="almaMmsId")
 | merge-same-ids  // merge records that belong to the same MMS I
 | fix(FLUX_DIR + "../fix/combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
 | encode-json(prettyPrinting="true")
@@ -66,7 +66,7 @@ outfile
 | as-records
 | decode-json(recordPath="*")
 | fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix",*)
-| batch-log(batchsize="10")
+| batch-log(batchSize="10")
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
 | write(outfile2)
 ;
