@@ -3,11 +3,11 @@ do once("maps_macros")
 	put_filemap("../prod/map/identifier.tsv", "zdbId2AlmaMmsId", sep_char:"\t", key_column:"2", value_column:"0", expected_columns:"-1")
 	put_filemap("../prod/map/identifier.tsv", "hbzId2zdbId", sep_char:"\t", key_column:"1", value_column:"2", expected_columns:"-1")
 
-	do put_macro("dateNormalizer")
+	do put_macro("normalize_date")
 		replace_all("$[field]", "(\\d{4})(\\d{2})(\\d{2})", "$1-$2-$3")
 	end
 
-	do put_macro("moveToNote")
+	do put_macro("keep_source_field_info_and_move_to")
 		if exists("$[field]")
 			paste("$[targetField]", "~$[field]:", "$[field].a")
 		end
@@ -67,7 +67,7 @@ if any_equal("FMT", "ML")
 		join_field("@210b", ", ")
 		paste("holdingInfo.$append", "~210b: ", "@210b")
 	end
-	call_macro("moveToNote", field:"220", targetField:"holdingInfo.$append")
+	call_macro("keep_source_field_info_and_move_to", field:"220", targetField:"holdingInfo.$append")
 	join_field("holdingInfo", "\n")
 
 else
@@ -86,11 +86,11 @@ else
 
 	copy_field("115.a", "item.inventoryNumber")
 
-	call_macro("moveToNote", field:"125a", targetField:"item.note.$append")
-	call_macro("moveToNote", field:"125b", targetField:"item.note.$append")
-	call_macro("moveToNote", field:"107", targetField:"item.note.$append")
-	call_macro("moveToNote", field:"120", targetField:"item.note.$append")
-	call_macro("moveToNote", field:"105", targetField:"item.note.$append")
+	call_macro("keep_source_field_info_and_move_to", field:"125a", targetField:"item.note.$append")
+	call_macro("keep_source_field_info_and_move_to", field:"125b", targetField:"item.note.$append")
+	call_macro("keep_source_field_info_and_move_to", field:"107", targetField:"item.note.$append")
+	call_macro("keep_source_field_info_and_move_to", field:"120", targetField:"item.note.$append")
+	call_macro("keep_source_field_info_and_move_to", field:"105", targetField:"item.note.$append")
 	join_field("item.note", "\n")
 
 end
@@ -103,12 +103,12 @@ else
 	lookup("almaMmsId", "zdbId2AlmaMmsId")
 end
 
-call_macro("dateNormalizer", field:"dateCreated")
-call_macro("dateNormalizer", field:"dateModified")
-call_macro("dateNormalizer", field:"dateAustausch")
-call_macro("dateNormalizer", field:"item.dateCreated")
-call_macro("dateNormalizer", field:"item.dateModified")
-call_macro("dateNormalizer", field:"item.dateAustausch")
+call_macro("normalize_date", field:"dateCreated")
+call_macro("normalize_date", field:"dateModified")
+call_macro("normalize_date", field:"dateAustausch")
+call_macro("normalize_date", field:"item.dateCreated")
+call_macro("normalize_date", field:"item.dateModified")
+call_macro("normalize_date", field:"item.dateAustausch")
 
 
 retain("item",
