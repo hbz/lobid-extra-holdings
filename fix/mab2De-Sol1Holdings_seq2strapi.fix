@@ -14,30 +14,19 @@ do once("maps_macros")
 	end
 end
 
-if any_equal("FMT", "ML")
+# The incoming ALEPH Data has ML records, which include general local holding information,
+# and ME records which are for specific items that are always related to a ML record.
+# ML records can have 0-n related ME records.
+# The following transformation handles ML and ME records differently:
+
+if any_equal("FMT", "ML") # Transformation for the ML records
 
 	copy_field("001.a", "holdingId")
 	copy_field("002a.a", "dateCreated")
 	copy_field("003.a", "dateModified")
-	copy_field("004.a", "dateAustausch")
-	# 012.a
-
 	copy_field("012.a", "hbzId")
 	copy_field("012.a", "almaMmsId")
 	copy_field("012.a", "zdbId")
-
-	# 210a.*.d
-	# 210a.*.j
-	# 210a.*.k
-	# 210a.*.n
-	# 210a.d
-	# 210a.j
-	# 210a.k
-	# 210a.k.*
-	# 210a.n
-	# 210b.d
-	# 210b.j
-	# 210b.j.*
 
 	do list(path:"210a", "var":"$i")
 		copy_field("$i.d", "@210a.$append")
@@ -70,14 +59,10 @@ if any_equal("FMT", "ML")
 	call_macro("keep_source_field_info_and_move_to", field:"220", targetField:"holdingInfo.$append")
 	join_field("holdingInfo", "\n")
 
-else
+else # Transformation for the ME records
 	copy_field("001.a", "item.itemId")
 	copy_field("002a.a", "item.dateCreated")
 	copy_field("003.a", "item.dateModified")
-	copy_field("004.a", "item.dateAustausch")
-# 010.a
-# 012.a
-	# copy_field("012.a", "hbzId")
 	copy_field("012.a", "almaMmsId")
 	copy_field("012.a", "zdbId")
 	lookup("zdbId", "hbzId2zdbId", delete:"true")
