@@ -19,7 +19,7 @@ $Metafacture_Runner flux/strapi2lobid_test.flux outfile2="test/output/sol1Holdin
 echo "Start transformation for SRU Data" && date
 $Metafacture_Runner flux/zdbSru2De-Sol1Holdings_marc_test.flux outfile2="test/output/sol1Holding_sru.tsv" || die 'Harvesting or Transformation of ZDB SRU Data failed'
 
-# Concatinate results
+# Concatenate results
 echo "Combine output in single file combinedDe-Sol1Holdings.tsv" && date
 $Metafacture_Runner flux/combineFiles_test.flux outfile="test/output/combinedDe-Sol1Holdings.tsv" fileName="sol1Holding_(strapiOut|sru)\\.tsv"
 echo "Done" && date
