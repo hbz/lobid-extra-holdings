@@ -9,5 +9,5 @@ infile
 | decode-json
 | fix(FLUX_DIR + "../fix/hbzId2AlmaMmsId.fix")
 | encode-csv(separator="\t", noquotes="true")
-| write(FLUX_DIR +"../prod/map/identifier.tsv")
+| write(FLUX_DIR + "../prod/map/identifier.tsv")
 ;

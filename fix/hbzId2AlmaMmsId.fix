@@ -1,15 +1,15 @@
-copy_field("almaMmsId","1")
+copy_field("almaMmsId", "1")
 
 if exists("hbzId")
-	copy_field("hbzId","2")
+	copy_field("hbzId", "2")
 else
-	add_field("2","")
+	add_field("2", "")
 end
 
 if exists("zdbId")
-	copy_field("zdbId","3")
+	copy_field("zdbId", "3")
 else
-	add_field("3","")
+	add_field("3", "")
 end
 
-retain("1","2","3")
+retain("1", "2", "3")

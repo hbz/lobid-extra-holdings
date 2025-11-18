@@ -6,7 +6,7 @@ API_URL = "http://" + HOST + ":1337/api/" + PATH;
 FLUX_DIR + "../test/output/sol1Holding_strapi.json"
 | open-file
 | as-records
-| decode-json(recordPath="*") 
+| decode-json(recordPath="*")
 | encode-json
 | regex-decode("(?<data>.+)")
 | stream-to-triples

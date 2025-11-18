@@ -3,8 +3,8 @@ paste("lobidUri", "~http://lobid.org/resources/", "_id", "~#!", join_char:"")
 
 do put_macro("arrayField")
 	if is_array("$[field]")
-		move_field("$[field]","@$[field]")
-		move_field("@$[field].1","$[field]")
+		move_field("$[field]", "@$[field]")
+		move_field("@$[field].1", "$[field]")
 		remove_field("@$[field]")
 	end
 end
@@ -13,8 +13,8 @@ call_macro("arrayField", field:"holdingId")
 call_macro("arrayField", field:"dateModified")
 call_macro("arrayField", field:"dateAustausch")
 
-copy_field("_id","almaMmsId")
-move_field("item","hasItem[].$append")
+copy_field("_id", "almaMmsId")
+move_field("item", "hasItem[].$append")
 uniq("almaMmsId")
 uniq("zdbId")
 uniq("hbzId")

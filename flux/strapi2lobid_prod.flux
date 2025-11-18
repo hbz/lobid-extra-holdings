@@ -17,7 +17,7 @@ outfile
 | open-file
 | as-lines
 | decode-json
-| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix",*)
+| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix", *)
 | batch-log(batchsize="1000")
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
 | write(outfile2, compression="gzip")

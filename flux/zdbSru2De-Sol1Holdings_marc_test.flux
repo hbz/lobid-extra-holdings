@@ -11,11 +11,11 @@ default source="sru/zdb";
 // FOR UPDATING THE TESTFILE DELETE THE COMMENT PREFIX FOR L 12-18
 
 //"https://services.dnb.de/sru/zdb"
-//| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1",version="1.1",maximumRecords="5",total="20")
+//| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1", version="1.1", maximumRecords="5", total="20")
 //| as-records
 //// The following two steps create a single xml file from the multiple incoming sru requests, saved into a harvest tag
 //| match(pattern="<\\?xml version=.*?>", replacement="")
-//| write(sruHarvest, header="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<harvest>",footer="</harvest>")
+//| write(sruHarvest, header="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<harvest>", footer="</harvest>")
 //;
 
 // Step 1: Create mapping file of zdbId -> almaMmsIds, this will be used in later process in step 3:
@@ -30,7 +30,7 @@ sruHarvest
 | as-records
 | decode-json(recordPath="member")
 | fix(FLUX_DIR + "../fix/zdbSru2LobidMap.fix")
-| encode-csv(noQuotes="true",separator="\t")
+| encode-csv(noQuotes="true", separator="\t")
 | write("test/map/almaMmsId2ZdbId.tsv")
 ;
 
@@ -45,7 +45,7 @@ sruHarvest
 
 // Step 2:  Read the records again, but this time as marcXml.
 // Filter out all records but the holdings of DE-Sol1 and build the holding information in  JSOn
-| lines-to-records 
+| lines-to-records
 | read-string
 | decode-xml
 | handle-marcxml(ignorenamespace="true")
@@ -56,7 +56,7 @@ sruHarvest
 | merge-same-ids  // merge records that belong to the same MMS I
 | fix(FLUX_DIR + "../fix/combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
 | encode-json(prettyPrinting="true")
-| write(outfile, header="[",footer="]", separator=",")
+| write(outfile, header="[", footer="]", separator=",")
 ;
 
 

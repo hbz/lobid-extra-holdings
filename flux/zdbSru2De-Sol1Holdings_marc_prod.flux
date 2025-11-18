@@ -8,11 +8,11 @@ default source="sru/zdb";
 // Beside the combining collection tag there seems to be no linkage / reference between bibliographic and holdings.
 
 "https://services.dnb.de/sru/zdb"
-| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1",version="1.1",maximumRecords="100",userAgent="hbz/lobid-extra-holdings")
+| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1", version="1.1", maximumRecords="100", userAgent="hbz/lobid-extra-holdings")
 | as-records
 // The following two steps create a single xml file from the multiple incoming sru requests, saved into a harvest tag
 | match(pattern="<\\?xml version=.*?>", replacement="")
-| write(sruHarvest, header="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<harvest>",footer="</harvest>")
+| write(sruHarvest, header="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<harvest>", footer="</harvest>")
 ;
 
 "SRU Harvest finished. Start creating ZDB -> ALMA Mapping file."
@@ -31,7 +31,7 @@ sruHarvest
 | decode-json(recordPath="member")
 | fix(FLUX_DIR + "../fix/zdbSru2LobidMap.fix")
 | batch-log(batchsize="1000")
-| encode-csv(noQuotes="true",separator="\t")
+| encode-csv(noQuotes="true", separator="\t")
 | write("prod/map/almaMmsId2ZdbId.tsv")
 ;
 
@@ -50,7 +50,7 @@ sruHarvest
 
 // Step 3:  Read the records again, but this time as marcXml.
 // Filter out all records but the holdings of DE-Sol1 and build the holding information in  JSOn
-| lines-to-records 
+| lines-to-records
 | read-string
 | decode-xml
 | handle-marcxml(ignorenamespace="true")
@@ -70,7 +70,7 @@ outfile
 | open-file
 | as-lines
 | decode-json
-| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix",*)
+| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix", *)
 | batch-log(batchsize="1000")
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
 | write(outfile2, compression="gzip")

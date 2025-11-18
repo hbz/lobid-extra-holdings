@@ -1,30 +1,30 @@
 do once("maps_macros")
-	put_filemap("../prod/map/identifier.tsv","hbzId2AlmaMmsId", sep_char:"\t",key_column:"1",value_column:"0",expected_columns:"-1")
-	put_filemap("../prod/map/identifier.tsv","zdbId2AlmaMmsId", sep_char:"\t",key_column:"2",value_column:"0",expected_columns:"-1")
-	put_filemap("../prod/map/identifier.tsv","hbzId2zdbId", sep_char:"\t",key_column:"1",value_column:"2",expected_columns:"-1")
+	put_filemap("../prod/map/identifier.tsv", "hbzId2AlmaMmsId", sep_char:"\t", key_column:"1", value_column:"0", expected_columns:"-1")
+	put_filemap("../prod/map/identifier.tsv", "zdbId2AlmaMmsId", sep_char:"\t", key_column:"2", value_column:"0", expected_columns:"-1")
+	put_filemap("../prod/map/identifier.tsv", "hbzId2zdbId", sep_char:"\t", key_column:"1", value_column:"2", expected_columns:"-1")
 
 	do put_macro("dateNormalizer")
-		replace_all("$[field]", "(\\d{4})(\\d{2})(\\d{2})","$1-$2-$3")
+		replace_all("$[field]", "(\\d{4})(\\d{2})(\\d{2})", "$1-$2-$3")
 	end
 
 	do put_macro("moveToNote")
 		if exists("$[field]")
-			paste("$[targedField]","~$[field]:", "$[field].a")
+			paste("$[targedField]", "~$[field]:", "$[field].a")
 		end
 	end
 end
 
-if any_equal("FMT","ML")
+if any_equal("FMT", "ML")
 
-	copy_field("001.a","holdingId")
-	copy_field("002a.a","dateCreated")
-	copy_field("003.a","dateModified")
-	copy_field("004.a","dateAustausch")
+	copy_field("001.a", "holdingId")
+	copy_field("002a.a", "dateCreated")
+	copy_field("003.a", "dateModified")
+	copy_field("004.a", "dateAustausch")
 	# 012.a
 
-	copy_field("012.a","hbzId")
-	copy_field("012.a","almaMmsId")
-	copy_field("012.a","zdbId")
+	copy_field("012.a", "hbzId")
+	copy_field("012.a", "almaMmsId")
+	copy_field("012.a", "zdbId")
 
 	# 210a.*.d
 	# 210a.*.j
@@ -38,77 +38,77 @@ if any_equal("FMT","ML")
 	# 210b.d
 	# 210b.j
 	# 210b.j.*
-	
-	do list(path:"210a","var":"$i")
-		copy_field("$i.d","@210a.$append")
-		copy_field("$i.n","@210a.$append")
+
+	do list(path:"210a", "var":"$i")
+		copy_field("$i.d", "@210a.$append")
+		copy_field("$i.n", "@210a.$append")
 		if is_array("$i.k")
-			join_field("$i.k",", ")
+			join_field("$i.k", ", ")
 		end
-		copy_field("$i.k","@210a.$append")
+		copy_field("$i.k", "@210a.$append")
 		if is_array("$i.j")
-			join_field("$i.j",", ")
+			join_field("$i.j", ", ")
 		end
-		copy_field("$i.j","@210a.$append")
-		join_field("@210a",", ")
-		paste("holdingInfo.$append","~210a: ", "@210a")
+		copy_field("$i.j", "@210a.$append")
+		join_field("@210a", ", ")
+		paste("holdingInfo.$append", "~210a: ", "@210a")
 	end
-	do list(path:"210b","var":"$i")
-		copy_field("$i.d","@210b.$append")
-		copy_field("$i.n","@210b.$append")
+	do list(path:"210b", "var":"$i")
+		copy_field("$i.d", "@210b.$append")
+		copy_field("$i.n", "@210b.$append")
 		if is_array("$i.k")
-			join_field("$i.k",", ")
+			join_field("$i.k", ", ")
 		end
-		copy_field("$i.k","@210b.$append")
+		copy_field("$i.k", "@210b.$append")
 		if is_array("$i.j")
-			join_field("$i.j",", ")
+			join_field("$i.j", ", ")
 		end
-		copy_field("$i.j","@210b.$append")
-		join_field("@210b",", ")
-		paste("holdingInfo.$append","~210b: ", "@210b")
+		copy_field("$i.j", "@210b.$append")
+		join_field("@210b", ", ")
+		paste("holdingInfo.$append", "~210b: ", "@210b")
 	end
-	call_macro("moveToNote",field:"220",targedField:"holdingInfo.$append")
-	join_field("holdingInfo","\n")
+	call_macro("moveToNote", field:"220", targedField:"holdingInfo.$append")
+	join_field("holdingInfo", "\n")
 
 else
-	copy_field("001.a","item.itemId")
-	copy_field("002a.a","item.dateCreated")
-	copy_field("003.a","item.dateModified")
-	copy_field("004.a","item.dateAustausch")
+	copy_field("001.a", "item.itemId")
+	copy_field("002a.a", "item.dateCreated")
+	copy_field("003.a", "item.dateModified")
+	copy_field("004.a", "item.dateAustausch")
 # 010.a
 # 012.a
-	# copy_field("012.a","hbzId")
-	copy_field("012.a","almaMmsId")
-	copy_field("012.a","zdbId")
-	lookup("zdbId", "hbzId2zdbId",delete:"true")
+	# copy_field("012.a", "hbzId")
+	copy_field("012.a", "almaMmsId")
+	copy_field("012.a", "zdbId")
+	lookup("zdbId", "hbzId2zdbId", delete:"true")
 
-	copy_field("100.a","item.callNumber")
+	copy_field("100.a", "item.callNumber")
 
-	copy_field("115.a","item.inventoryNumber")
+	copy_field("115.a", "item.inventoryNumber")
 
-	call_macro("moveToNote",field:"125a",targedField:"item.note.$append")
-	call_macro("moveToNote",field:"125b",targedField:"item.note.$append")
-	call_macro("moveToNote",field:"107",targedField:"item.note.$append")
-	call_macro("moveToNote",field:"120",targedField:"item.note.$append")
-	call_macro("moveToNote",field:"105",targedField:"item.note.$append")
-	join_field("item.note","\n")
+	call_macro("moveToNote", field:"125a", targedField:"item.note.$append")
+	call_macro("moveToNote", field:"125b", targedField:"item.note.$append")
+	call_macro("moveToNote", field:"107", targedField:"item.note.$append")
+	call_macro("moveToNote", field:"120", targedField:"item.note.$append")
+	call_macro("moveToNote", field:"105", targedField:"item.note.$append")
+	join_field("item.note", "\n")
 
 end
 
-lookup("zdbId", "hbzId2zdbId",delete:"true")
+lookup("zdbId", "hbzId2zdbId", delete:"true")
 
-if any_match("almaMmsId","^[A-Z]{2}.*")
-	lookup("almaMmsId","hbzId2AlmaMmsId")
+if any_match("almaMmsId", "^[A-Z]{2}.*")
+	lookup("almaMmsId", "hbzId2AlmaMmsId")
 else
-	lookup("almaMmsId","zdbId2AlmaMmsId")
+	lookup("almaMmsId", "zdbId2AlmaMmsId")
 end
 
-call_macro("dateNormalizer",field:"dateCreated")
-call_macro("dateNormalizer",field:"dateModified")
-call_macro("dateNormalizer",field:"dateAustausch")
-call_macro("dateNormalizer",field:"item.dateCreated")
-call_macro("dateNormalizer",field:"item.dateModified")
-call_macro("dateNormalizer",field:"item.dateAustausch")
+call_macro("dateNormalizer", field:"dateCreated")
+call_macro("dateNormalizer", field:"dateModified")
+call_macro("dateNormalizer", field:"dateAustausch")
+call_macro("dateNormalizer", field:"item.dateCreated")
+call_macro("dateNormalizer", field:"item.dateModified")
+call_macro("dateNormalizer", field:"item.dateAustausch")
 
 
 retain("item",
@@ -121,4 +121,3 @@ retain("item",
 	"zdbId",
 	"holdingInfo"
 	)
-	
