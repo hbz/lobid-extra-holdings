@@ -13,7 +13,7 @@ infile
 | change-id(idliteral="almaMmsId")
 | merge-same-ids  // merge records that belong to the same MMS ID.
 | fix(FLUX_DIR + "../fix/combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
-| encode-json // newline json is better for big file
+| encode-json // newline-delimited json is better for big file
 | write(outfile, compression="gzip") // compression is better for big file
 ;
 

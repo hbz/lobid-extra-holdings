@@ -12,6 +12,6 @@ infile
 | merge-same-ids  // merge records that belong to the same MMS ID.
 | fix(FLUX_DIR + "../fix/combineItemsForStrapi.fix") // combine holding information in one hasItem statement.
 | batch-log(batchsize="1000")
-| encode-json // newline json is better for big file
+| encode-json // newline-delimited json is better for big file
 | write(outfile, compression="gzip") // compression is better for big file
 ;

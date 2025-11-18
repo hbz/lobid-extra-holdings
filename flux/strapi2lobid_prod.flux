@@ -9,7 +9,7 @@ infile
 | as-lines
 | decode-json(recordPath="data")
 | fix(FLUX_DIR + "../fix/strapi2De-Sol1Holdings.fix")
-| encode-json // newline json is better for big file
+| encode-json // newline-delimited json is better for big file
 | write(outfile, compression="gzip") // compression is better for big file
 ;
 
