@@ -64,6 +64,7 @@ if any_equal("FMT", "ML") # Transformation for the ML records
     join_field("@210b", ", ")
     paste("holdingInfo.$append", "~210b: ", "@210b")
   end
+  call_macro("keep_source_field_info_and_move_to", field:"200", targetField:"holdingInfo.$append")
   call_macro("keep_source_field_info_and_move_to", field:"220", targetField:"holdingInfo.$append")
   join_field("holdingInfo", "\n")
 
