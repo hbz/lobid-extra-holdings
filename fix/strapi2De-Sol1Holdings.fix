@@ -1,32 +1,32 @@
 copy_field("lobidUri", "id")
 
 do list(path:"hasItem[]", "var":"$i")
-	paste("$i.id", "~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "$i.itemId", "~#!", join_char:"") # Currently 001 of the former MAB data is set as itemId.
-	add_field("$i.label", "lobid Bestandsressource")
-	set_array("$i.inCollection[]")
-	add_field("$i.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
-	add_field("$i.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
-	add_field("$i.heldBy.isil", "DE-Sol1")
-	add_field("$i.heldBy.id", "http://lobid.org/organisations/DE-Sol1#!")
-	add_field("$i.heldBy.label", "Stadtarchiv Solingen, Bibliothek")
-	set_array("$i.type[]")
-	add_field("$i.type[].$append", "Item")
-	add_field("$i.type[].$append", "PhysicalObject") # Currently all holdings are typed PhysicalObject if we need to allow others then we also need to change this in strapi.
+  paste("$i.id", "~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "$i.itemId", "~#!", join_char:"") # Currently 001 of the former MAB data is set as itemId.
+  add_field("$i.label", "lobid Bestandsressource")
+  set_array("$i.inCollection[]")
+  add_field("$i.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
+  add_field("$i.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
+  add_field("$i.heldBy.isil", "DE-Sol1")
+  add_field("$i.heldBy.id", "http://lobid.org/organisations/DE-Sol1#!")
+  add_field("$i.heldBy.label", "Stadtarchiv Solingen, Bibliothek")
+  set_array("$i.type[]")
+  add_field("$i.type[].$append", "Item")
+  add_field("$i.type[].$append", "PhysicalObject") # Currently all holdings are typed PhysicalObject if we need to allow others then we also need to change this in strapi.
 end
 
 vacuum()
 
 
 if exists("zdbId")
-	reject()
+  reject()
 end
 
 retain("id",
-	"hasItem[].*.id",
-	"hasItem[].*.label",
-	"hasItem[].*.callNumber",
-	"hasItem[].*.inventoryNumber",
-	"hasItem[].*.serialNumber",
-	"hasItem[].*.inCollection[]",
-	"hasItem[].*.heldBy",
-	"hasItem[].*.type[]")
+  "hasItem[].*.id",
+  "hasItem[].*.label",
+  "hasItem[].*.callNumber",
+  "hasItem[].*.inventoryNumber",
+  "hasItem[].*.serialNumber",
+  "hasItem[].*.inCollection[]",
+  "hasItem[].*.heldBy",
+  "hasItem[].*.type[]")

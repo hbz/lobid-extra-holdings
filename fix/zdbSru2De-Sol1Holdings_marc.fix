@@ -1,10 +1,10 @@
 unless any_equal("852  .a", "DE-Sol1")
-	reject()
+  reject()
 end
 
 
 do once("maps")
-	put_filemap("$[version]map/almaMmsId2ZdbId.tsv", "zdbId2AlmaMmsId", sep_char:"\t", key_column:"1", value_column:"0", expected_columns:"-1")
+  put_filemap("$[version]map/almaMmsId2ZdbId.tsv", "zdbId2AlmaMmsId", sep_char:"\t", key_column:"1", value_column:"0", expected_columns:"-1")
 end
 
 # Lookup MMS Ids for the ZDB IDs.
@@ -17,7 +17,7 @@ lookup("almaMmsId", "zdbId2AlmaMmsId") ## This lookupfile has to be updated regu
 # Would be true to the other workflow for resources too.
 
 set_hash("holding")
-paste("holding.id", "~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "001", "~#!", join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
+paste("holding.id", "~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "001", "~#!", join_char:"") # Currently 001 of the former MAB data is set as itemId.
 add_field("holding.label", "lobid Bestandsressource")
 copy_field("852 1.c", "holding.callNumber")
 # copy_field("115.a", "holding.inventoryNumber") nicht in  den ZDB Daten
@@ -30,7 +30,7 @@ add_field("holding.heldBy.id", "http://lobid.org/organisations/DE-Sol1#!")
 add_field("holding.heldBy.label", "Stadtarchiv Solingen, Bibliothek")
 set_array("holding.type[]")
 add_field("holding.type[].$append", "Item")
-add_field("holding.type[].$append", "PhysicalObject") # Wie kann man andere Publikationstypen mappen?
+add_field("holding.type[].$append", "PhysicalObject")  # Currently all holdings are typed PhysicalObject if we need to allow others then we also need to change this in strapi.
 copy_field("8663?.a", "holding.enumerationAndChronology")
 
 retain("almaMmsId", "holding")

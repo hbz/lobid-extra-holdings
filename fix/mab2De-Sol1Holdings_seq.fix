@@ -1,9 +1,9 @@
 do once("maps")
-	put_filemap("../prod/map/identifier.tsv", "hbzId2AlmaMmsId", sep_char:"\t", key_column:"1", value_column:"0", expected_columns:"-1")
-	put_filemap("../prod/map/identifier.tsv", "zdbId2AlmaMmsId", sep_char:"\t", key_column:"2", value_column:"0", expected_columns:"-1")
-	put_filemap("../prod/map/identifier.tsv", "hbzId2zdbId", sep_char:"\t", key_column:"1", value_column:"2", expected_columns:"-1")
-	put_filemap("../prod/map/htMap.tsv", "htMap2AlmaMmsId", sep_char:"\t", key_column:"2", value_column:"1", expected_columns:"-1")
-	put_filemap("../prod/map/htMap.tsv", "htMap2ZdbId", sep_char:"\t", key_column:"2", value_column:"3", expected_columns:"-1")
+  put_filemap("../prod/map/identifier.tsv", "hbzId2AlmaMmsId", sep_char:"\t", key_column:"1", value_column:"0", expected_columns:"-1")
+  put_filemap("../prod/map/identifier.tsv", "zdbId2AlmaMmsId", sep_char:"\t", key_column:"2", value_column:"0", expected_columns:"-1")
+  put_filemap("../prod/map/identifier.tsv", "hbzId2zdbId", sep_char:"\t", key_column:"1", value_column:"2", expected_columns:"-1")
+  put_filemap("../prod/map/htMap.tsv", "htMap2AlmaMmsId", sep_char:"\t", key_column:"2", value_column:"1", expected_columns:"-1")
+  put_filemap("../prod/map/htMap.tsv", "htMap2ZdbId", sep_char:"\t", key_column:"2", value_column:"3", expected_columns:"-1")
 end
 
 # Lookup MMS Ids for the old HT Numbers or ZDB IDs.
@@ -14,18 +14,18 @@ lookup("zdbId", "hbzId2zdbId", delete:"true")
 copy_field("012.a", "zdbId_fallback")
 lookup("zdbId_fallback", "htMap2ZdbId", delete:"true")
 unless exists("zdbId")
-	copy_field("zdbId_fallback", "zdbId")
+  copy_field("zdbId_fallback", "zdbId")
 end
 
 if exists("zdbId")
-	reject()
+  reject()
 end
 
 if any_match("almaMmsId", "^[A-Z]{2}.*")
-	lookup("almaMmsId", "hbzId2AlmaMmsId")
-	lookup("almaMmsId", "htMap2AlmaMmsId")	# Uses a fallback map for HT Numbers that were not present in last ALEPH Bridge.
+  lookup("almaMmsId", "hbzId2AlmaMmsId")
+  lookup("almaMmsId", "htMap2AlmaMmsId")  # Uses a fallback map for HT Numbers that were not present in last ALEPH Bridge.
 else
-	lookup("almaMmsId", "zdbId2AlmaMmsId")
+  lookup("almaMmsId", "zdbId2AlmaMmsId")
 end
 
 # Only create holdings for Records with ME as Format. The other are the local records.
@@ -35,21 +35,21 @@ end
 
 
 if any_equal("FMT", "ME")
-	set_hash("holding")
-	paste("holding.id", "~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "001.a", "~#!", join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
-	add_field("holding.label", "lobid Bestandsressource")
-	copy_field("100.a", "holding.callNumber")
-	copy_field("115.a", "holding.inventoryNumber")
-	copy_field("120.a", "holding.serialNumber")
-	set_array("holding.inCollection[]")
-	add_field("holding.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
-	add_field("holding.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
-	add_field("holding.heldBy.isil", "DE-Sol1")
-	add_field("holding.heldBy.id", "http://lobid.org/organisations/DE-Sol1#!")
-	add_field("holding.heldBy.label", "Stadtarchiv Solingen, Bibliothek")
-	set_array("holding.type[]")
-	add_field("holding.type[].$append", "Item")
-	add_field("holding.type[].$append", "PhysicalObject") # Wie kann man andere Publikationstypen mappen?
+  set_hash("holding")
+  paste("holding.id", "~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "001.a", "~#!", join_char:"") # Checken ob 001 als Item Id genutzt werden soll.
+  add_field("holding.label", "lobid Bestandsressource")
+  copy_field("100.a", "holding.callNumber")
+  copy_field("115.a", "holding.inventoryNumber")
+  copy_field("120.a", "holding.serialNumber")
+  set_array("holding.inCollection[]")
+  add_field("holding.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
+  add_field("holding.inCollection[].$last.label", "Stadtarchiv Solingen, Bibliothek")
+  add_field("holding.heldBy.isil", "DE-Sol1")
+  add_field("holding.heldBy.id", "http://lobid.org/organisations/DE-Sol1#!")
+  add_field("holding.heldBy.label", "Stadtarchiv Solingen, Bibliothek")
+  set_array("holding.type[]")
+  add_field("holding.type[].$append", "Item")
+  add_field("holding.type[].$append", "PhysicalObject") # Wie kann man andere Publikationstypen mappen?
 end
 
 retain("almaMmsId", "holding")

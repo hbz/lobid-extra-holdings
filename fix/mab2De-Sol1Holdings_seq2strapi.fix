@@ -1,17 +1,17 @@
 do once("maps_macros")
-	put_filemap("../prod/map/identifier.tsv", "hbzId2AlmaMmsId", sep_char:"\t", key_column:"1", value_column:"0", expected_columns:"-1")
-	put_filemap("../prod/map/identifier.tsv", "zdbId2AlmaMmsId", sep_char:"\t", key_column:"2", value_column:"0", expected_columns:"-1")
-	put_filemap("../prod/map/identifier.tsv", "hbzId2zdbId", sep_char:"\t", key_column:"1", value_column:"2", expected_columns:"-1")
+  put_filemap("../prod/map/identifier.tsv", "hbzId2AlmaMmsId", sep_char:"\t", key_column:"1", value_column:"0", expected_columns:"-1")
+  put_filemap("../prod/map/identifier.tsv", "zdbId2AlmaMmsId", sep_char:"\t", key_column:"2", value_column:"0", expected_columns:"-1")
+  put_filemap("../prod/map/identifier.tsv", "hbzId2zdbId", sep_char:"\t", key_column:"1", value_column:"2", expected_columns:"-1")
 
-	do put_macro("normalize_date")
-		replace_all("$[field]", "(\\d{4})(\\d{2})(\\d{2})", "$1-$2-$3")
-	end
+  do put_macro("normalize_date")
+    replace_all("$[field]", "(\\d{4})(\\d{2})(\\d{2})", "$1-$2-$3")
+  end
 
-	do put_macro("keep_source_field_info_and_move_to")
-		if exists("$[field]")
-			paste("$[targetField]", "~$[field]:", "$[field].a")
-		end
-	end
+  do put_macro("keep_source_field_info_and_move_to")
+    if exists("$[field]")
+      paste("$[targetField]", "~$[field]:", "$[field].a")
+    end
+  end
 end
 
 # The incoming ALEPH Data has ML records, which include general local holding information,
@@ -20,87 +20,88 @@ end
 # The following transformation handles ML and ME records differently:
 
 if any_equal("FMT", "ML") # Transformation for the ML records
+  reject()
 
   # Identifier for the local holding record.
-	copy_field("001.a", "holdingId")
+  copy_field("001.a", "holdingId")
 
 
   # Old date history for documentation purposes.
-	copy_field("002a.a", "dateCreated")
-	copy_field("003.a", "dateModified")
+  copy_field("002a.a", "dateCreated")
+  copy_field("003.a", "dateModified")
 
   # Identifiers mapped from referenced hbz id in 012.
-	copy_field("012.a", "hbzId")
-	copy_field("012.a", "almaMmsId")
-	copy_field("012.a", "zdbId")
+  copy_field("012.a", "hbzId")
+  copy_field("012.a", "almaMmsId")
+  copy_field("012.a", "zdbId")
 
   # Other holding related information combined into `holdingInfo`
-	do list(path:"210a", "var":"$i")
-		copy_field("$i.d", "@210a.$append")
-		copy_field("$i.n", "@210a.$append")
-		if is_array("$i.k")
-			join_field("$i.k", ", ")
-		end
-		copy_field("$i.k", "@210a.$append")
-		if is_array("$i.j")
-			join_field("$i.j", ", ")
-		end
-		copy_field("$i.j", "@210a.$append")
-		join_field("@210a", ", ")
-		paste("holdingInfo.$append", "~210a: ", "@210a")
-	end
-	do list(path:"210b", "var":"$i")
-		copy_field("$i.d", "@210b.$append")
-		copy_field("$i.n", "@210b.$append")
-		if is_array("$i.k")
-			join_field("$i.k", ", ")
-		end
-		copy_field("$i.k", "@210b.$append")
-		if is_array("$i.j")
-			join_field("$i.j", ", ")
-		end
-		copy_field("$i.j", "@210b.$append")
-		join_field("@210b", ", ")
-		paste("holdingInfo.$append", "~210b: ", "@210b")
-	end
-	call_macro("keep_source_field_info_and_move_to", field:"220", targetField:"holdingInfo.$append")
-	join_field("holdingInfo", "\n")
+  do list(path:"210a", "var":"$i")
+    copy_field("$i.d", "@210a.$append")
+    copy_field("$i.n", "@210a.$append")
+    if is_array("$i.k")
+      join_field("$i.k", ", ")
+    end
+    copy_field("$i.k", "@210a.$append")
+    if is_array("$i.j")
+      join_field("$i.j", ", ")
+    end
+    copy_field("$i.j", "@210a.$append")
+    join_field("@210a", ", ")
+    paste("holdingInfo.$append", "~210a: ", "@210a")
+  end
+  do list(path:"210b", "var":"$i")
+    copy_field("$i.d", "@210b.$append")
+    copy_field("$i.n", "@210b.$append")
+    if is_array("$i.k")
+      join_field("$i.k", ", ")
+    end
+    copy_field("$i.k", "@210b.$append")
+    if is_array("$i.j")
+      join_field("$i.j", ", ")
+    end
+    copy_field("$i.j", "@210b.$append")
+    join_field("@210b", ", ")
+    paste("holdingInfo.$append", "~210b: ", "@210b")
+  end
+  call_macro("keep_source_field_info_and_move_to", field:"220", targetField:"holdingInfo.$append")
+  join_field("holdingInfo", "\n")
 
 else # Transformation for the ME records
 
   # Item Id needed for the creation of the lobid item id
-	copy_field("001.a", "item.itemId")
+  copy_field("001.a", "item.itemId")
 
   # Old dates for documentation puprosses
-	copy_field("002a.a", "item.dateCreated")
-	copy_field("003.a", "item.dateModified")
+  copy_field("002a.a", "item.dateCreated")
+  copy_field("003.a", "item.dateModified")
 
   # Identifiers created from ALMA
-	copy_field("012.a", "almaMmsId")
-	copy_field("012.a", "zdbId")
-	lookup("zdbId", "hbzId2zdbId", delete:"true")
+  copy_field("012.a", "almaMmsId")
+  copy_field("012.a", "zdbId")
+  lookup("zdbId", "hbzId2zdbId", delete:"true")
 
 
   # Requested elements by DE-Sol1
-	copy_field("100.a", "item.callNumber")
-	copy_field("115.a", "item.inventoryNumber")
+  copy_field("100.a", "item.callNumber")
+  copy_field("115.a", "item.inventoryNumber")
 
   # Other item relation information combined into note
-	call_macro("keep_source_field_info_and_move_to", field:"125a", targetField:"item.note.$append")
-	call_macro("keep_source_field_info_and_move_to", field:"125b", targetField:"item.note.$append")
-	call_macro("keep_source_field_info_and_move_to", field:"107", targetField:"item.note.$append")
-	call_macro("keep_source_field_info_and_move_to", field:"120", targetField:"item.note.$append")
-	call_macro("keep_source_field_info_and_move_to", field:"105", targetField:"item.note.$append")
-	join_field("item.note", "\n")
+  call_macro("keep_source_field_info_and_move_to", field:"125a", targetField:"item.note.$append")
+  call_macro("keep_source_field_info_and_move_to", field:"125b", targetField:"item.note.$append")
+  call_macro("keep_source_field_info_and_move_to", field:"107", targetField:"item.note.$append")
+  call_macro("keep_source_field_info_and_move_to", field:"120", targetField:"item.note.$append")
+  call_macro("keep_source_field_info_and_move_to", field:"105", targetField:"item.note.$append")
+  join_field("item.note", "\n")
 
 end
 
 lookup("zdbId", "hbzId2zdbId", delete:"true")
 
 if any_match("almaMmsId", "^[A-Z]{2}.*")
-	lookup("almaMmsId", "hbzId2AlmaMmsId")
+  lookup("almaMmsId", "hbzId2AlmaMmsId")
 else
-	lookup("almaMmsId", "zdbId2AlmaMmsId")
+  lookup("almaMmsId", "zdbId2AlmaMmsId")
 end
 
 call_macro("normalize_date", field:"dateCreated")
@@ -110,14 +111,7 @@ call_macro("normalize_date", field:"item.dateCreated")
 call_macro("normalize_date", field:"item.dateModified")
 call_macro("normalize_date", field:"item.dateAustausch")
 
+paste("almaMmsId_callNumber","almaMmsId","item.callNumber")
 
-retain("item",
-	"holdingId",
-	"dateCreated",
-	"dateModified",
-	"dateAustausch",
-	"hbzId",
-	"almaMmsId",
-	"zdbId",
-	"holdingInfo"
-	)
+retain("almaMmsId_callNumber"
+  )
