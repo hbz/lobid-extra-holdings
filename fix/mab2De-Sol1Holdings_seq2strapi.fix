@@ -72,7 +72,7 @@ else # Transformation for the ME records
   # Item Id needed for the creation of the lobid item id
   copy_field("001.a", "item.itemId")
 
-  # Old dates for documentation puprosses
+  # Old dates for documentation purposes
   copy_field("002a.a", "item.dateCreated")
   copy_field("003.a", "item.dateModified")
 
