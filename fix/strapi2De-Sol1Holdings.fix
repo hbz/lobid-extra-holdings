@@ -1,7 +1,9 @@
 copy_field("lobidUri", "id")
 
 do list(path:"hasItem[]", "var":"$i")
-  paste("$i.id", "~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "$i.itemId", "~#!", join_char:"") # Currently 001 of the former MAB data is set as itemId.
+  copy_field("$i.callNumber","$i.@callNumberURI")
+  uri_encode ("$i.@callNumberURI",plus_for_space:"false")
+  paste("$i.id", "~http://lobid.org/items/", "almaMmsId", "~:DE-Sol1:", "$i.@callNumberURI", "~#!", join_char:"") # Use the callNumber instead of the itemId so DE-Sol1 has not to invent additional identifiers.
   add_field("$i.label", "lobid Bestandsressource")
   set_array("$i.inCollection[]")
   add_field("$i.inCollection[].$append.id", "http://lobid.org/organisations/DE-Sol1#!")
