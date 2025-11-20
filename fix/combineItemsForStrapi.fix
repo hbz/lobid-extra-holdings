@@ -9,12 +9,15 @@ do put_macro("ensure_simple_string_field")
   end
 end
 
+vacuum()
+
 call_macro("ensure_simple_string_field", field:"holdingId")
 call_macro("ensure_simple_string_field", field:"dateModified")
 call_macro("ensure_simple_string_field", field:"dateAustausch")
+call_macro("ensure_simple_string_field", field:"almaMmsId")
+call_macro("ensure_simple_string_field", field:"zdbId")
+call_macro("ensure_simple_string_field", field:"hbzId")
 
 copy_field("_id", "almaMmsId")
 move_field("item", "hasItem[].$append")
-uniq("almaMmsId")
-uniq("zdbId")
-uniq("hbzId")
+
