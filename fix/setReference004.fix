@@ -2,19 +2,19 @@
 ## Otherwise there would be no link between the holding and the bibliogrpahic records.
 
 do list(path:"record", "var":"$RECORD")
-	if any_equal("$RECORD.#type","Bibliographic")
-		do list(path:"$RECORD.datafield","var":"$DATAFIELD")
-			if any_equal("$DATAFIELD.#tag","035")
-				if any_match("$DATAFIELD.subfield.value","^.*DE-599.*$")
-					copy_field("$DATAFIELD.subfield.value","@004")
-				end
-			end
-		end
-	end
-	if any_equal("$RECORD.#type","Holdings")
-		copy_field("@004","$RECORD.controlfield.$append.value")
-		add_field("$RECORD.controlfield.$last.#tag","004")
-	end
+  if any_equal("$RECORD.#type", "Bibliographic")
+    do list(path:"$RECORD.datafield", "var":"$DATAFIELD")
+      if any_equal("$DATAFIELD.#tag", "035")
+        if any_match("$DATAFIELD.subfield.value", "^.*DE-599.*$")
+          copy_field("$DATAFIELD.subfield.value", "@004")
+        end
+      end
+    end
+  end
+  if any_equal("$RECORD.#type", "Holdings")
+    copy_field("@004", "$RECORD.controlfield.$append.value")
+    add_field("$RECORD.controlfield.$last.#tag", "004")
+  end
 end
 
 remove_field("@004")

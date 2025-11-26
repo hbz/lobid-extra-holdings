@@ -1,10 +1,10 @@
 do list(path:"0167 ", "var":"$i")
-	if any_match("$i.2","DE-600")
-		copy_field("$i.a","zdblobidLink")
-	end
+  if any_match("$i.2", "DE-600")
+    copy_field("$i.a", "zdblobidLink")
+  end
 end
-prepend("zdblobidLink","https://lobid.org/resources/search?q=inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+zdbId%3A")
+prepend("zdblobidLink", "https://lobid.org/resources/search?q=inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+zdbId%3A")
 unless exists("zdblobidLink")
-	reject()
+  reject()
 end
 retain("zdblobidLink")

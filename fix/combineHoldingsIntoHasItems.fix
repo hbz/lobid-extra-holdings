@@ -1,9 +1,9 @@
 paste("id", "~http://lobid.org/resources/", "_id", "~#!", join_char:"")
 
-copy_field("holding","hasItem[].$append")
+copy_field("holding", "hasItem[].$append")
 
 unless exists("hasItem[]")
-	reject()
+  reject()
 end
 
 retain("id", "hasItem[]")

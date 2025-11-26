@@ -1,0 +1,23 @@
+paste("id", "~http://lobid.org/resources/", "_id", "~#!", join_char:"")
+paste("lobidUri", "~http://lobid.org/resources/", "_id", "~#!", join_char:"")
+
+do put_macro("ensure_simple_string_field")
+  if is_array("$[field]")
+    move_field("$[field]", "@$[field]")
+    move_field("@$[field].1", "$[field]")
+    remove_field("@$[field]")
+  end
+end
+
+vacuum()
+
+call_macro("ensure_simple_string_field", field:"holdingId")
+call_macro("ensure_simple_string_field", field:"dateModified")
+call_macro("ensure_simple_string_field", field:"dateAustausch")
+call_macro("ensure_simple_string_field", field:"almaMmsId")
+call_macro("ensure_simple_string_field", field:"zdbId")
+call_macro("ensure_simple_string_field", field:"hbzId")
+
+copy_field("_id", "almaMmsId")
+move_field("item", "hasItem[].$append")
+

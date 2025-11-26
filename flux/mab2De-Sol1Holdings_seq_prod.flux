@@ -8,12 +8,12 @@ infile
 | open-file
 | as-lines
 | decode-aseq
-| merge-same-ids // combines the aseq statements in single records. 
+| merge-same-ids // combines the aseq statements in single records.
 | fix(FLUX_DIR + "../fix/mab2De-Sol1Holdings_seq.fix") // creates holding information for ME records, currently metadata from ML records are not used.
-| change-id(idliteral="almaMmsId")
+| change-id(idLiteral="almaMmsId")
 | merge-same-ids  // merge records that belong to the same MMS ID.
 | fix(FLUX_DIR + "../fix/combineHoldingsIntoHasItems.fix") // combine holding information in one hasItem statement.
-| encode-json // newline json is better for big file
+| encode-json // newline-delimited json is better for big file
 | write(outfile, compression="gzip") // compression is better for big file
 ;
 
@@ -21,8 +21,8 @@ outfile
 | open-file
 | as-lines
 | decode-json
-| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix",*)
-| batch-log(batchsize="1000")
+| fix(FLUX_DIR + "../fix/prepareHoldingForLobidLookupTsv.fix", *)
+| batch-log(batchSize="1000")
 | encode-csv(includeHeader="true", separator="\t", noQuotes="true")
 | write(outfile2, compression="gzip")
 ;
