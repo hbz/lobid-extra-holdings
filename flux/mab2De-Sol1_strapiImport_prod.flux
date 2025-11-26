@@ -1,6 +1,6 @@
 default HOST = "localhost"; // pass e.g. test-metadaten-nrw.hbz-nrw.de
 default API_TOKEN = ""; // pass e.g. API_TOKEN=e8d...
-API_URL = "http://" + HOST + ":1337/api/" + PATH;
+API_URL = "http://" + HOST + ":1344/api/" + PATH;
 
 
 FLUX_DIR + "../prod/output/sol1Holding_seq2strapi.json.gz"
