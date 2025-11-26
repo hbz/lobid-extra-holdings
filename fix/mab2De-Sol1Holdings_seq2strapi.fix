@@ -4,7 +4,7 @@ do once("maps_macros")
   put_filemap("../prod/map/identifier.tsv", "hbzId2zdbId", sep_char:"\t", key_column:"1", value_column:"2", expected_columns:"-1")
 
   do put_macro("normalize_date")
-    replace_all("$[field]", "(\\d{4})(\\d{2})(\\d{2})", "$1-$2-$3")
+    replace_all("$[field]", "^(\\d{4})(\\d{2})(\\d{2}).*$", "$1-$2-$3")
   end
 
   do put_macro("keep_source_field_info_and_move_to")
