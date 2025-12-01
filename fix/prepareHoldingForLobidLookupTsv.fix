@@ -4,4 +4,9 @@ move_field("hasItem[]", "holdings")
 
 add_field("source", "$[source]")
 
+# Drop all maps without holding info
+unless exists("holdings")
+  reject()
+end
+
 retain("id", "holdings", "source")
