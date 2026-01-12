@@ -11,31 +11,33 @@ The concept is the following:
 
 
 ```mermaid
+
 flowchart TD
  subgraph s1["lobid-extra-holdings"]
+        n2["Strapi Export of Holding "]
         n5["Combine Holding Data"]
-        n2["ALEPH-Transformation for<br>De-Sol1 Holdings Lobid Mapping"]
         n4["ZDB-Transformation for<br>De-Sol1 Holdings Lobid Mapping"]
         n6["Strapi-Transformation for<br>De-Sol1 Holdings Lobid Mapping"]
         n7["tsv for lobid-resources Transformation"]
   end
-    n2 --> n5
     n4 --> n5
-    n1["hbz60 Aleph<br>De-Sol1 Dump"] -- use local dump --> n2
+    n1["hbz60 Aleph<br>De-Sol1 Dump"]
     A["ZDB"] -- "query DE-Sol1 via SRU" --> n4
-    n1 -. transform local dump to strapi data</br>(then it will be replaced) .-> n3["De-Sol1<br>Strapi"]
-    n3 -.-> n6
+    n1 -- transform local dump to strapi data for initial migration--> n3["De-Sol1<br>Strapi"]
+    n3 -. "weekly export crobjob" -.-> n2
+    n3 -- "currently manual export<br> until prod is running" --> n2    
+    n2 --> n6
     n6 -.-> n5
     n5 --> n7
-    n8["Weekly Cronjob"] -.-> s1
+    n8["Weekly Cronjob<br> running transform_prod.sh"] --> s1
     n9["lobid-resources ETL"] --> n7
 
     n5@{ shape: rounded}
-    n2@{ shape: rounded}
     n4@{ shape: rounded}
     n6@{ shape: rounded}
     n7@{ shape: stored-data}
     n1@{ shape: stored-data}
+    n2@{ shape: stored-data}    
     A@{ shape: db}
     n3@{ shape: db}
     n8@{ shape: event}
