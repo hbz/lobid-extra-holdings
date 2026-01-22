@@ -6,7 +6,7 @@ Holdings for DE-Sol1 are provided in two ways:
 
 - as ndjson export from the productive strapi-de-sol1 database that was initially populated with data from the ALEPH Seq files
 - for ZDB related resources as SRU/Marc records combining bibliographic as well as holding information in one collection element
- 
+
 The concept is the following:
 
 
@@ -25,7 +25,7 @@ flowchart TD
     A["ZDB"] -- "query DE-Sol1 via SRU" --> n4
     n1 -- transform local dump to strapi data for initial migration--> n3["De-Sol1<br>Strapi"]
     n3 -. "weekly export crobjob" -.-> n2
-    n3 -- "currently manual export<br> until prod is running" --> n2    
+    n3 -- "currently manual export<br> until prod is running" --> n2
     n2 --> n6
     n6 -.-> n5
     n5 --> n7
@@ -37,7 +37,7 @@ flowchart TD
     n6@{ shape: rounded}
     n7@{ shape: stored-data}
     n1@{ shape: stored-data}
-    n2@{ shape: stored-data}    
+    n2@{ shape: stored-data}
     A@{ shape: db}
     n3@{ shape: db}
     n8@{ shape: event}
@@ -74,9 +74,9 @@ Prod: `./metafacture-core/flux.sh flux/mab2De-Sol1Holdings_seq2strapi_prod.flux`
 
 When the strapi instance is running you can import the result of the previous transformation with:
 
-Test: `./metafacture-core/flux.sh flux/mab2De-Sol1_strapiImport_test.flux API_TOKEN=... PATH="holdings"`
+Test: `./metafacture-core/flux.sh flux/mab2De-Sol1_strapiImport_test.flux API_TOKEN=... [PATH="holdings" PORT=... HOST=...]`
 
-Prod: `./metafacture-core/flux.sh flux/mab2De-Sol1_strapiImport_prod.flux API_TOKEN=... PATH="holdings"`
+Prod: `./metafacture-core/flux.sh flux/mab2De-Sol1_strapiImport_prod.flux API_TOKEN=... [PATH="holdings" PORT=... HOST=...]`
 
 The API key can be generated in the GUI of the strapi instance under 'Settings'.
 
