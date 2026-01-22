@@ -34,8 +34,9 @@
   "id" : "http://lobid.org/resources/990110563680206441#!"
 },{
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/990032023650206441:DE-Sol1:MA%201139%2F7#!",
-    "callNumber" : "MA 1139/7",
+    "id" : "http://lobid.org/items/990094585770206441:DE-Sol1:KA%203230%2F80#!",
+    "callNumber" : "KA 3230/80",
+    "inventoryNumber" : "1969.016",
     "label" : "lobid Bestandsressource",
     "inCollection" : [ {
       "id" : "http://lobid.org/organisations/DE-Sol1#!",
@@ -48,38 +49,7 @@
     },
     "type" : [ "Item", "PhysicalObject" ]
   } ],
-  "id" : "http://lobid.org/resources/990032023650206441#!"
-},{
-  "hasItem" : [ {
-    "id" : "http://lobid.org/items/990032044960206441:DE-Sol1:GA%20631#!",
-    "callNumber" : "GA 631",
-    "label" : "lobid Bestandsressource",
-    "inCollection" : [ {
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    } ],
-    "heldBy" : {
-      "isil" : "DE-Sol1",
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    },
-    "type" : [ "Item", "PhysicalObject" ]
-  }, {
-    "id" : "http://lobid.org/items/990032044960206441:DE-Sol1:GA%20631%20%28z%29#!",
-    "callNumber" : "GA 631 (z)",
-    "label" : "lobid Bestandsressource",
-    "inCollection" : [ {
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    } ],
-    "heldBy" : {
-      "isil" : "DE-Sol1",
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    },
-    "type" : [ "Item", "PhysicalObject" ]
-  } ],
-  "id" : "http://lobid.org/resources/990032044960206441#!"
+  "id" : "http://lobid.org/resources/990094585770206441#!"
 },{
   "hasItem" : [ {
     "id" : "http://lobid.org/items/990031978440206441:DE-Sol1:KA%201195#!",
@@ -147,6 +117,54 @@
   "id" : "http://lobid.org/resources/990031978700206441#!"
 },{
   "hasItem" : [ {
+    "id" : "http://lobid.org/items/990032023650206441:DE-Sol1:MA%201139%2F7#!",
+    "callNumber" : "MA 1139/7",
+    "label" : "lobid Bestandsressource",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    },
+    "type" : [ "Item", "PhysicalObject" ]
+  } ],
+  "id" : "http://lobid.org/resources/990032023650206441#!"
+},{
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/990032044960206441:DE-Sol1:GA%20631#!",
+    "callNumber" : "GA 631",
+    "label" : "lobid Bestandsressource",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    },
+    "type" : [ "Item", "PhysicalObject" ]
+  }, {
+    "id" : "http://lobid.org/items/990032044960206441:DE-Sol1:GA%20631%20%28z%29#!",
+    "callNumber" : "GA 631 (z)",
+    "label" : "lobid Bestandsressource",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    },
+    "type" : [ "Item", "PhysicalObject" ]
+  } ],
+  "id" : "http://lobid.org/resources/990032044960206441#!"
+},{
+  "hasItem" : [ {
     "id" : "http://lobid.org/items/990070407320206441:DE-Sol1:GA%201059%2F36#!",
     "callNumber" : "GA 1059/36",
     "inventoryNumber" : "1998.153",
@@ -181,6 +199,59 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ],
   "id" : "http://lobid.org/resources/990164725630206441#!"
+},{
+  "id" : "http://lobid.org/resources/990209861490206441#!"
+},{
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/99373334588806441:DE-Sol1:MA%2010%2F93%20%28z%29#!",
+    "callNumber" : "MA 10/93 (z)",
+    "label" : "lobid Bestandsressource",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    },
+    "type" : [ "Item", "PhysicalObject" ]
+  } ],
+  "id" : "http://lobid.org/resources/99373334588806441#!"
+},{
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/99373436116806441:DE-Sol1:GA%202799#!",
+    "callNumber" : "GA 2799",
+    "label" : "lobid Bestandsressource",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    },
+    "type" : [ "Item", "PhysicalObject" ]
+  } ],
+  "id" : "http://lobid.org/resources/99373436116806441#!"
+},{
+  "hasItem" : [ {
+    "id" : "http://lobid.org/items/99373436112506441:DE-Sol1:GA%202799#!",
+    "callNumber" : "GA 2799",
+    "label" : "lobid Bestandsressource",
+    "inCollection" : [ {
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    } ],
+    "heldBy" : {
+      "isil" : "DE-Sol1",
+      "id" : "http://lobid.org/organisations/DE-Sol1#!",
+      "label" : "Stadtarchiv Solingen, Bibliothek"
+    },
+    "type" : [ "Item", "PhysicalObject" ]
+  } ],
+  "id" : "http://lobid.org/resources/99373436112506441#!"
 },{
   "hasItem" : [ {
     "id" : "http://lobid.org/items/99373698055206441:DE-Sol1:MA%202002#!",
@@ -268,75 +339,6 @@
   "id" : "http://lobid.org/resources/99374156678106441#!"
 },{
   "hasItem" : [ {
-    "id" : "http://lobid.org/items/99373334588806441:DE-Sol1:MA%2010%2F93%20%28z%29#!",
-    "callNumber" : "MA 10/93 (z)",
-    "label" : "lobid Bestandsressource",
-    "inCollection" : [ {
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    } ],
-    "heldBy" : {
-      "isil" : "DE-Sol1",
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    },
-    "type" : [ "Item", "PhysicalObject" ]
-  } ],
-  "id" : "http://lobid.org/resources/99373334588806441#!"
-},{
-  "hasItem" : [ {
-    "id" : "http://lobid.org/items/99373436116806441:DE-Sol1:GA%202799#!",
-    "callNumber" : "GA 2799",
-    "label" : "lobid Bestandsressource",
-    "inCollection" : [ {
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    } ],
-    "heldBy" : {
-      "isil" : "DE-Sol1",
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    },
-    "type" : [ "Item", "PhysicalObject" ]
-  } ],
-  "id" : "http://lobid.org/resources/99373436116806441#!"
-},{
-  "hasItem" : [ {
-    "id" : "http://lobid.org/items/99373436112506441:DE-Sol1:GA%202799#!",
-    "callNumber" : "GA 2799",
-    "label" : "lobid Bestandsressource",
-    "inCollection" : [ {
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    } ],
-    "heldBy" : {
-      "isil" : "DE-Sol1",
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    },
-    "type" : [ "Item", "PhysicalObject" ]
-  } ],
-  "id" : "http://lobid.org/resources/99373436112506441#!"
-},{
-  "hasItem" : [ {
-    "id" : "http://lobid.org/items/990094585770206441:DE-Sol1:KA%203230%2F80#!",
-    "callNumber" : "KA 3230/80",
-    "inventoryNumber" : "1969.016",
-    "label" : "lobid Bestandsressource",
-    "inCollection" : [ {
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    } ],
-    "heldBy" : {
-      "isil" : "DE-Sol1",
-      "id" : "http://lobid.org/organisations/DE-Sol1#!",
-      "label" : "Stadtarchiv Solingen, Bibliothek"
-    },
-    "type" : [ "Item", "PhysicalObject" ]
-  } ],
-  "id" : "http://lobid.org/resources/990094585770206441#!"
-},{
-  "hasItem" : [ {
     "id" : "http://lobid.org/items/990170147680206441:DE-Sol1:MA%20263%2F77#!",
     "callNumber" : "MA 263/77",
     "label" : "lobid Bestandsressource",
@@ -352,6 +354,4 @@
     "type" : [ "Item", "PhysicalObject" ]
   } ],
   "id" : "http://lobid.org/resources/990170147680206441#!"
-},{
-  "id" : "http://lobid.org/resources/990209861490206441#!"
 }]

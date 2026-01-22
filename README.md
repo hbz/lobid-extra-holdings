@@ -85,6 +85,9 @@ The API key can be generated in the GUI of the strapi instance under 'Settings'.
 In order to use the strapi data in production for further processing it has to be exported to: `prod/input/strapi-export-holdings.ndjson`. This process will be automated when a productive strapi instance is deployed.
 
 For test purposes `test/input/strapi-export-holdings.ndjson` exists.
+In order to update tests run: `'./metafacture-core/flux.sh' '/home/tobias/git/lobid-extra-holdings/flux/updateStrapi2lobidTests.flux'`.
+It will fetch the `filter-string` specified records from the strapi export `prod/input/strapi-export-holdings.ndjson`.
+How to create the export see: <https://github.com/hbz/strapi-de-sol1>
 
 ## Creating a mapping file of extra holdings for lobid-resources
 
