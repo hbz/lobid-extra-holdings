@@ -18,6 +18,12 @@ call_macro("ensure_simple_string_field", field:"almaMmsId")
 call_macro("ensure_simple_string_field", field:"zdbId")
 call_macro("ensure_simple_string_field", field:"hbzId")
 
+if exists("zdbId")
+  add_field("doNotIndex","true")
+else
+  add_field("doNotIndex","false")
+end
+
 copy_field("_id", "almaMmsId")
 move_field("item", "hasItem[].$append")
 
