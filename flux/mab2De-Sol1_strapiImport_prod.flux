@@ -1,6 +1,6 @@
 default HOST = "localhost"; // pass e.g. test-metadaten-nrw.hbz-nrw.de
 default API_TOKEN = ""; // pass e.g. API_TOKEN=e8d...
-default PORT = "1344"; // may vary for your local strapi instance
+default PORT = "1337"; // may vary for your local strapi instance
 default PATH="holdings"; // currently only holdings are imported
 API_URL = "http://" + HOST + ":" + PORT + "/api/" + PATH;
 
