@@ -19,7 +19,7 @@ end
 vacuum()
 
 
-if exists("zdbId")
+if is_true("doNotIndex")
   reject()
 end
 
