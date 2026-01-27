@@ -8745,11 +8745,11 @@
 },{
   "holdingId" : "HL022022994",
   "dateCreated" : "2022-10-13",
-  "id" : "http://lobid.org/resources/HT021432025#!",
-  "lobidUri" : "http://lobid.org/resources/HT021432025#!",
+  "id" : "http://lobid.org/resources/99371454179906441#!",
+  "lobidUri" : "http://lobid.org/resources/99371454179906441#!",
   "hbzId" : "HT021432025",
   "doNotIndex" : "false",
-  "almaMmsId" : "HT021432025",
+  "almaMmsId" : "99371454179906441",
   "hasItem" : [ {
     "itemId" : "HBZ60072791546-000010",
     "dateCreated" : "2022-10-13",
