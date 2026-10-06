@@ -8717,32 +8717,6 @@
     "callNumber" : "MA 404"
   } ]
 },{
-  "holdingId" : "HL028550249",
-  "dateCreated" : "2023-09-05",
-  "dateModified" : "2023-09-05",
-  "hbzId" : "HT000222451",
-  "zdbId" : "1138-1",
-  "holdingInfo" : "210a:  5, 1953\n210a:  5, 1953, 6, 21, 1969, 1954\n210a:  5, 1953, 6, 21, 1969, 1954, 38, 43, 1991, 1986\n200:\n220: I D 10",
-  "id" : "http://lobid.org/resources/990053975100206441#!",
-  "lobidUri" : "http://lobid.org/resources/990053975100206441#!",
-  "doNotIndex" : "true",
-  "almaMmsId" : "990053975100206441"
-},{
-  "holdingId" : "HL005407595",
-  "dateCreated" : "2006-07-28",
-  "zdbId" : "840367-3",
-  "id" : "http://lobid.org/resources/990053977330206441#!",
-  "lobidUri" : "http://lobid.org/resources/990053977330206441#!",
-  "hbzId" : "HT000333381",
-  "doNotIndex" : "true",
-  "almaMmsId" : "990053977330206441",
-  "hasItem" : [ {
-    "itemId" : "HBZ60033111491-000010",
-    "dateCreated" : "2006-07-28",
-    "dateModified" : "2006-07-28",
-    "callNumber" : "GA 1670"
-  } ]
-},{
   "holdingId" : "HL022022994",
   "dateCreated" : "2022-10-13",
   "id" : "http://lobid.org/resources/99371454179906441#!",

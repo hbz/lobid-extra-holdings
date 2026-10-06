@@ -27,3 +27,10 @@ end
 copy_field("_id", "almaMmsId")
 move_field("item", "hasItem[].$append")
 
+if exists("zdbId")
+  reject()
+end
+
+if exists("holdingInfo")
+  reject()
+end
