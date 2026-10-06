@@ -63,7 +63,7 @@ In order to import data into strapi and harvest the holdings from strapi,  a run
 
 ### Transform aleph seq data for strapi
 
-In order to import the Aleph Data into strapi it has to be transformed to match the structure of the contentTypes in strapi.
+In order to import the Aleph Data into strapi it has to be transformed to match the structure of the contentTypes in strapi. All ZDB records and records that have the property `holdingInfo`. which only ZDB records have are filtered out.
 This transformation can be run with:
 
 Test: `./metafacture-core/flux.sh flux/mab2De-Sol1Holdings_seq2strapi_test.flux`
