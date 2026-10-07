@@ -1,0 +1,2 @@
+paste("containdInLobidLink", "~https://lobid.org/resources/search?q=containedIn.id%3A+%22http%3A%2F%2Flobid.org%2Fresources%2FZDB-","1","~%23!%22&size=10000",join_char:"")
+retain("containdInLobidLink")
