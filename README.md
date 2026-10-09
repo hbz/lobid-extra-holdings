@@ -24,8 +24,7 @@ flowchart TD
     n1["hbz60 Aleph<br>De-Sol1 Dump"]
     A["ZDB"] -- "query DE-Sol1 via SRU" --> n4
     n1 -- transform local dump to strapi data for initial migration--> n3["De-Sol1<br>Strapi"]
-    n3 -. "weekly export crobjob" -.-> n2
-    n3 -- "currently manual export<br> until prod is running" --> n2
+    n3 -- "weekly export crobjob" --> n2
     n2 --> n6
     n6 -.-> n5
     n5 --> n7
