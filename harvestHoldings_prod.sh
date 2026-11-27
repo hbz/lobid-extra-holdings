@@ -12,15 +12,15 @@ die() {
 
 # Create Holdings from Strapi Export
 echo "Start transformation for Strapi Export Data" && date
-$Metafacture_Runner flux/strapi2lobid_prod.flux outfile2="prod/output/sol1Holding_strapiOut.tsv.gz" || echo "Harvesting or Transformation of Strapi-Export Data failed, Exit-Code: $? . Old file will be used."
+$Metafacture_Runner -f flux/strapi2lobid_prod.flux -v outfile2="prod/output/sol1Holding_strapiOut.tsv.gz" || echo "Harvesting or Transformation of Strapi-Export Data failed, Exit-Code: $? . Old file will be used."
 
 # Create Holdings from ZDB SRU Request
 echo "Start transformation for SRU Data" && date
-$Metafacture_Runner flux/zdbSru2De-Sol1Holdings_marc_prod.flux outfile2="prod/output/sol1Holding_sru.tsv.gz" || echo "Harvesting or Transformation of Seq Data failed, Exit-Code: $? . Old file will be used."
+$Metafacture_Runner -f flux/zdbSru2De-Sol1Holdings_marc_prod.flux -v outfile2="prod/output/sol1Holding_sru.tsv.gz" || echo "Harvesting or Transformation of Seq Data failed, Exit-Code: $? . Old file will be used."
 
 # Concatenate results
 echo "Combine output in single file combinedDe-Sol1Holdings.tsv.gz" && date
-$Metafacture_Runner flux/combineFiles_prod.flux outfile="prod/output/combinedDe-Sol1Holdings.tsv.gz" fileName="sol1Holding_(strapiOut|sru)\\.tsv.gz"
+$Metafacture_Runner -f flux/combineFiles_prod.flux -v outfile="prod/output/combinedDe-Sol1Holdings.tsv.gz" -v fileName="sol1Holding_(strapiOut|sru)\\.tsv.gz"
 echo "Done" && date
 
 numberOfLines=$(zcat ./prod/output/combinedDe-Sol1Holdings.tsv.gz | wc -l)
