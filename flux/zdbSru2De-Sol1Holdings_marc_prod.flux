@@ -8,7 +8,7 @@ default source="sru/zdb";
 // Beside the combining collection tag there seems to be no linkage / reference between bibliographic and holdings.
 
 "https://services.dnb.de/sru/zdb"
-| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil%3DDE-Sol1", version="1.1", maximumRecords="100", userAgent="hbz/lobid-extra-holdings")
+| open-sru(recordSchema="MARC21plus-xml", query="dnb.isil=DE-Sol1", version="1.1", maximumRecords="100", userAgent="hbz/lobid-extra-holdings")
 | as-records
 // The following two steps create a single xml file from the multiple incoming sru requests, saved into a harvest tag
 | match(pattern="<\\?xml version=.*?>", replacement="")
